@@ -196,22 +196,22 @@ function loadImages(){
 				swal({title:"Find the Touch Screen.", type: "info", text:""});
                 break;
                 case 1:
-				swal({title:"Find the Power Button.", type: "info", text:""});
+				swal({title:"Find the Power Button on the bottom center of the Touch Screen frame.", type: "info", text:""});
                 break;
                 case 2:
-				swal({title:"Find the Play Slip Reader.", type: "info", text:""});
+				swal({title:"Find the Reader.", type: "info", text:""});
                 break;
                 case 3:
-				swal({title:"Find the Play Slip Stacker.", type: "info", text:""});
+				swal({title:"Find the Stacker.", type: "info", text:""});
                 break;
                 case 4:
 				swal({title:"Find the Barcode Scanner.", type: "info", text:""});
                 break;
                 case 5:
-				swal({title:"Find the Plugs and Connections.", type: "info", text:""});
+				swal({title:"Find the plugs and connections.", type: "info", text:""});
                 break;
                 case 6:
-				swal({title:"Find the Terminal's Second Power Button.", type: "info", text:""});
+				swal({title:"This is a close-up of the back of the terminal with the cover off.  Click the second Power Button.", type: "info", text:""});
 					 console.log ('\n\n\n****\nNEW SCREEN jQuery\n****\n\n\n');
 				     $('.photo').css({'background': 'url(lessons/shared/images/back_of_terminal.jpg) no-repeat'});
 				     $('.photo').css({'background-size': '100%'});
