@@ -21,30 +21,30 @@ function startGame(completedCallback) {
     var canvasX;
 
     var terminalPics = new Array();
-        terminalPics[0] = "lessons/shared/images/external-hardware-01.jpg";
-        terminalPics[1] = "lessons/shared/images/external-hardware-02.jpg";
-        terminalPics[2] = "lessons/shared/images/external-hardware-03.jpg";
-        terminalPics[3] = "lessons/shared/images/external-hardware-04.jpg";
-        terminalPics[4] = "lessons/shared/images/external-hardware-05.jpg";
-        terminalPics[5] = "lessons/shared/images/external-hardware-06.jpg";
-        terminalPics[6] = "lessons/shared/images/external-hardware-07.jpg";
-        terminalPics[7] = "lessons/shared/images/external-hardware-08.jpg";
-        terminalPics[8] = "lessons/shared/images/external-hardware-09.jpg";
-        terminalPics[9] = "lessons/shared/images/external-hardware-10.jpg";
-        terminalPics[10] = "lessons/shared/images/external-hardware-11.jpg";
-        terminalPics[11] = "lessons/shared/images/external-hardware-12.jpg";
-        terminalPics[12] = "lessons/shared/images/external-hardware-13.jpg";
-        terminalPics[13] = "lessons/shared/images/external-hardware-14.jpg";
-        terminalPics[14] = "lessons/shared/images/external-hardware-15.jpg";
-        terminalPics[15] = "lessons/shared/images/external-hardware-16.jpg";
-        terminalPics[16] = "lessons/shared/images/external-hardware-17.jpg";
-        terminalPics[17] = "lessons/shared/images/external-hardware-18.jpg";
-        terminalPics[18] = "lessons/shared/images/external-hardware-19.jpg";
-        terminalPics[19] = "lessons/shared/images/external-hardware-20.jpg";
-        terminalPics[20] = "lessons/shared/images/external-hardware-21.jpg";
-        terminalPics[21] = "lessons/shared/images/external-hardware-22.jpg";
-        terminalPics[22] = "lessons/shared/images/external-hardware-23.jpg";
-        terminalPics[23] = "lessons/shared/images/external-hardware-24.jpg";
+        terminalPics[0] = "lessons/shared/images/external-hardware-01.png";
+        terminalPics[1] = "lessons/shared/images/external-hardware-02.png";
+        terminalPics[2] = "lessons/shared/images/external-hardware-03.png";
+        terminalPics[3] = "lessons/shared/images/external-hardware-04.png";
+        terminalPics[4] = "lessons/shared/images/external-hardware-05.png";
+        terminalPics[5] = "lessons/shared/images/external-hardware-06.png";
+        terminalPics[6] = "lessons/shared/images/external-hardware-07.png";
+        terminalPics[7] = "lessons/shared/images/external-hardware-08.png";
+        terminalPics[8] = "lessons/shared/images/external-hardware-09.png";
+        terminalPics[9] = "lessons/shared/images/external-hardware-10.png";
+        terminalPics[10] = "lessons/shared/images/external-hardware-11.png";
+        terminalPics[11] = "lessons/shared/images/external-hardware-12.png";
+        terminalPics[12] = "lessons/shared/images/external-hardware-13.png";
+        terminalPics[13] = "lessons/shared/images/external-hardware-14.png";
+        terminalPics[14] = "lessons/shared/images/external-hardware-15.png";
+        terminalPics[15] = "lessons/shared/images/external-hardware-16.png";
+        terminalPics[16] = "lessons/shared/images/external-hardware-17.png";
+        terminalPics[17] = "lessons/shared/images/external-hardware-18.png";
+        terminalPics[18] = "lessons/shared/images/external-hardware-19.png";
+        terminalPics[19] = "lessons/shared/images/external-hardware-20.png";
+        terminalPics[20] = "lessons/shared/images/external-hardware-21.png";
+        terminalPics[21] = "lessons/shared/images/external-hardware-22.png";
+        terminalPics[22] = "lessons/shared/images/external-hardware-23.png";
+        terminalPics[23] = "lessons/shared/images/external-hardware-24.png";
     
     $(document).ready(function() {
 		var lastStr = "url(' " + terminalPics[0] + " ')";
@@ -193,25 +193,25 @@ function loadImages(){
 
             switch(p){
                 case 0:
-				swal({title:"", text:"Find the Touch Screen."});
+				swal({title:"Find the Touch Screen.", type: "info", text:""});
                 break;
                 case 1:
-				swal({title:"", text:"Find the Power Button."});
+				swal({title:"Find the Power Button.", type: "info", text:""});
                 break;
                 case 2:
-				swal({title:"", text:"Find the Play Slip Reader."});
+				swal({title:"Find the Play Slip Reader.", type: "info", text:""});
                 break;
                 case 3:
-				swal({title:"", text:"Find the Play Slip Stacker."});
+				swal({title:"Find the Play Slip Stacker.", type: "info", text:""});
                 break;
                 case 4:
-				swal({title:"", text:"Find the Barcode Scanner."});
+				swal({title:"Find the Barcode Scanner.", type: "info", text:""});
                 break;
                 case 5:
-				swal({title:"", text:"Find the Plugs and Connections."});
+				swal({title:"Find the Plugs and Connections.", type: "info", text:""});
                 break;
                 case 6:
-				swal({title:"", text:"Find the Terminal's Second Power Button."});
+				swal({title:"Find the Terminal's Second Power Button.", type: "info", text:""});
 					 console.log ('\n\n\n****\nNEW SCREEN jQuery\n****\n\n\n');
 				     $('.photo').css({'background': 'url(lessons/shared/images/back_of_terminal.jpg) no-repeat'});
 				     $('.photo').css({'background-size': '100%'});
@@ -316,38 +316,38 @@ function loadImages(){
             //power button
                 switch(i){
                 case 0:
-                    topLeftX = 126;
-                    topLeftY = 80;
+                    topLeftX = 100;
+                    topLeftY = 70;
                     bottomRightX = 174;
                     bottomRightY = 112;
                 break;
                 case 1:
-                    topLeftX = 108;
-                    topLeftY = 78;
+                    topLeftX = 100;
+                    topLeftY = 68;
                     bottomRightX = 158;
                     bottomRightY = 115;
                 break;
                 case 2:
-                    topLeftX = 97;
-                    topLeftY = 76;
+                    topLeftX = 80;
+                    topLeftY = 66;
                     bottomRightX = 146;
                     bottomRightY = 114;
                 break;
                 case 3:
-                    topLeftX = 89;
-                    topLeftY = 74;
+                    topLeftX = 69;
+                    topLeftY = 64;
                     bottomRightX = 133;
                     bottomRightY = 111;
                 break;
                 case 4:
-                    topLeftX = 85;
-                    topLeftY = 76;
+                    topLeftX = 65;
+                    topLeftY = 66;
                     bottomRightX = 128;
                     bottomRightY = 111;
                 break;
                 case 5:
-                    topLeftX = 80;
-                    topLeftY = 72;
+                    topLeftX = 60;
+                    topLeftY = 62;
                     bottomRightX = 121;
                     bottomRightY = 107;
                 break;
@@ -358,38 +358,38 @@ function loadImages(){
                     bottomRightY = 0;
                 break;
                 case 18:
-                    topLeftX = 175;
-                    topLeftY = 71;
+                    topLeftX = 155;
+                    topLeftY = 61;
                     bottomRightX = 219;
                     bottomRightY = 104;
                 break;
                 case 19:
-                    topLeftX = 170;
-                    topLeftY = 75 ;
+                    topLeftX = 150;
+                    topLeftY = 65;
                     bottomRightX = 214;
                     bottomRightY = 107;
                 break;
                 case 20:
-                    topLeftX = 163;
-                    topLeftY = 78;
+                    topLeftX = 143;
+                    topLeftY = 68;
                     bottomRightX = 208;
                     bottomRightY = 108;
                 break;
                 case 21:
-                    topLeftX = 149;
-                    topLeftY = 78;
+                    topLeftX = 129;
+                    topLeftY = 68;
                     bottomRightX = 202;
                     bottomRightY = 112;
                 break;
                 case 22:
-                    topLeftX = 137;
-                    topLeftY = 81;
+                    topLeftX = 117;
+                    topLeftY = 71;
                     bottomRightX = 188;
                     bottomRightY = 112;
                 break;
                 case 23:
-                    topLeftX = 126;
-                    topLeftY = 80;
+                    topLeftX = 106;
+                    topLeftY = 70;
                     bottomRightX = 174;
                     bottomRightY = 112;
                 break;
@@ -852,52 +852,52 @@ function loadImages(){
                     bottomRightY = 0;
                 break;
                 case 9:
-                    topLeftX = 172;
-                    topLeftY = 113;
-                    bottomRightX = 206;
-                    bottomRightY = 136;
+                    topLeftX = 150;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 10:
-                    topLeftX = 157;
-                    topLeftY = 117;
-                    bottomRightX = 207;
-                    bottomRightY = 137;
+                    topLeftX = 150;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 11:
-                    topLeftX = 143;
-                    topLeftY = 119;
-                    bottomRightX = 203;
-                    bottomRightY = 137;
+                    topLeftX = 140;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 12:
-                    topLeftX = 129;
-                    topLeftY = 118;
-                    bottomRightX = 199;
-                    bottomRightY = 139;
+                    topLeftX = 120;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 13:
-                    topLeftX = 117;
-                    topLeftY = 115;
-                    bottomRightX = 191;
-                    bottomRightY = 139;
+                    topLeftX = 110;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 14:
-                    topLeftX = 108;
-                    topLeftY = 115;
-                    bottomRightX = 177;
-                    bottomRightY = 141;
+                    topLeftX = 100;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 15:
-                    topLeftX = 99;
-                    topLeftY = 112;
-                    bottomRightX = 164;
-                    bottomRightY = 142;
+                    topLeftX = 90;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 16:
-                    topLeftX = 97;
-                    topLeftY = 108;
-                    bottomRightX = 137;
-                    bottomRightY = 141;
+                    topLeftX = 90;
+                    topLeftY = 90;
+                    bottomRightX = 250;
+                    bottomRightY = 160;
                 break;
                 case 17: case 18: case 19: case 20: case 21: case 22: case 23:
                     topLeftX = 0;
@@ -911,10 +911,10 @@ function loadImages(){
 		if(p == 6){
 			//2nd power button
 
-            topLeftX = 103;
-			topLeftY = 90;
-			bottomRightX = 125;
-			bottomRightY = 109;	
+            topLeftX = 80;
+			topLeftY = 80;
+			bottomRightX = 150;
+			bottomRightY = 150;	
 
 		};
                 
@@ -930,7 +930,7 @@ function loadImages(){
                                 
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Touch Screen.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -954,7 +954,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Power Button.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -978,7 +978,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Play Slip Reader.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1002,7 +1002,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Play Slip Stacker.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1026,7 +1026,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Barcode Scanner.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1050,7 +1050,7 @@ function loadImages(){
                             p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "Those are the Terminal Connections.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
@@ -1074,7 +1074,7 @@ function loadImages(){
                             //p++;
                                 swal({
                                     title: "Good job!",
-                                      text: "That is the Second Power Button.",
+                                      text: "",
                                       type: "success",
                                       showCancelButton: false,
                                       confirmButtonColor: "#8CD4F5",
