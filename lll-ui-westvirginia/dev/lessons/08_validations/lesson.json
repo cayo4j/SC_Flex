@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Course End",
+			"name": "PEGTHAGORUS_XML2JSON",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd.mp4"
+				"url": "lessons/shared/videos/Pegthagorus_xml2json.mp4"
 			},
 
 				"cuepoints": [
@@ -13,69 +13,226 @@
 				{
 
 					"videoControl" : {
+						"time": "-1",
+						"play": true
+					},
+					"caption": "on"
+				},
+				{
+
+					"videoControl" : {
 						"time": "0",
 						"play": true
 					},
-					"caption": "Well, that's it!"
+					"caption": "Validation is when you use the terminal to verify tickets that may be winners."
 				},
 				{
 
 					"videoControl" : {
-						"time": "2.03",
+						"time": "4.789",
 						"play": true
 					},
-					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+					"caption": "You can use the Online Validation and Instant Validation buttons here to perform validations for Draw Game and Instant tickets."
 				},
 				{
 
 					"videoControl" : {
-						"time": "7.08",
+						"time": "13.202",
 						"play": true
 					},
-					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
+					"caption": "Draw Game tickets and Instant tickets are read using the Barcode Scanner. "
 				},
 				{
 
 					"videoControl" : {
-						"time": "12",
+						"time": "17.347",
 						"play": true
 					},
-					"caption": "To receive your certificate, just answer the questions on the following screens."
+					"caption": "Let's start with validating a Draw Game ticket."
 				},
 				{
 
 					"videoControl" : {
-						"time": "16.96",
+						"time": "20.127",
 						"play": true
 					},
-					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
+					"caption": "I'll touch Online Validation"
 				},
 				{
 
 					"videoControl" : {
-						"time": "22.14",
+						"time": "22.508",
 						"play": true
 					},
-					"caption": "Once you have your certificate, you'll be on your way."
-
+					"caption": "and scan the ticket barcode using the scanner."
 				},
 				{
 
 					"videoControl" : {
-						"time": "25.02",
+						"time": "25.49",
 						"play": true
 					},
-					"caption": "Good Luck!"
+					"caption": "If needed, you could also manually enter the ticket serial number using the numeric keypad."
+				},
+				{
+
+					"videoControl" : {
+						"time": "30.724",
+						"play": true
+					},
+					"caption": "When a ticket can be validated and is for a prize amount of $20 to $500, a Confirmation screen will display the amount asking if you are able to pay the prize."
+				},
+				{
+
+					"videoControl" : {
+						"time": "40.56",
+						"play": true
+					},
+					"caption": "The reason for this screen is so that you can ensure you have the money on hand to pay that prize amount to the player."
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.517",
+						"play": true
+					},
+					"caption": "If you are able to pay the player, touch Yes to validate the ticket and pay the player."
+				},
+				{
+
+					"videoControl" : {
+						"time": "51.598",
+						"play": true
+					},
+					"caption": "If the player declines the method of payment, touch No and return the ticket to the player."
+				},
+				{
+
+					"videoControl" : {
+						"time": "56.707",
+						"play": true
+					},
+					"caption": "I'll touch Yes."
+				},
+				{
+
+					"videoControl" : {
+						"time": "58.287",
+						"play": true
+					},
+					"caption": "a validation confirmation screen displays and a receipt prints."
+				},
+				{
+
+					"videoControl" : {
+						"time": "61.982",
+						"play": true
+					},
+					"caption": "I'll touch OK"
+				},
+				{
+
+					"videoControl" : {
+						"time": "63.748",
+						"play": true
+					},
+					"caption": "and am returned to the Online Validation screen where I could validate another ticket if needed. I don't need to, so I'll touch Home"
+				},
+				{
+
+					"videoControl" : {
+						"time": "71.582",
+						"play": true
+					},
+					"caption": "to return to the Home screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "73.393",
+						"play": true
+					},
+					"caption": "Now, let's look at validating an Instant ticket."
+				},
+				{
+
+					"videoControl" : {
+						"time": "76.642",
+						"play": true
+					},
+					"caption": "For Instant tickets, touch Instant Validation."
+				},
+				{
+
+					"videoControl" : {
+						"time": "79.542",
+						"play": true
+					},
+					"caption": "Here you can use the Barcode Scanner "
+				},
+				{
+
+					"videoControl" : {
+						"time": "82.152",
+						"play": true
+					},
+					"caption": "or you could manually enter the Ticket Number, Serial Number and Security Number and touch Send."
+				},
+				{
+
+					"videoControl" : {
+						"time": "88.726",
+						"play": true
+					},
+					"caption": "Never insert Instant tickets into the Reader at the top of the terminal as it will damage the Reader lens!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "94.515",
+						"play": true
+					},
+					"caption": "I'll scan the barcode tag using the Barcode Scanner"
+				},
+				{
+
+					"videoControl" : {
+						"time": "97.641",
+						"play": true
+					},
+					"caption": "and an Instant Validation confirmation screen displays."
+				},
+				{
+
+					"videoControl" : {
+						"time": "100.76",
+						"play": true
+					},
+					"caption": "I'll touch OK to pay the prize"
+				},
+				{
+
+					"videoControl" : {
+						"time": "103.359",
+						"play": true
+					},
+					"caption": "and I am returned to the Instant Validation screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "105.957",
+						"play": true
+					},
+					"caption": "Now it's time for you to practice validating tickets."
 				}
-				]
-},
+	]
+	},
 				{
-
 					"type": "summary",
 					"name": "Summary",
-
+	
 					"isOptional": true
-
+	
 				}
-]
-}
+	]}
