@@ -8,7 +8,7 @@
 </metadata>
  <organizations default="ORG1">
     <organization identifier="ORG1" structure="hierarchical" adlseq:objectivesGlobalToSystem="false" adlcp:sharedDataGlobalToSystem="false">
-      <title>Virginia Lottery: Your New Altura Flex Terminal</title>
+      <title>South Carolina Education Lottery - Your New Flex Lottery Terminal </title>
   
         <item identifier="introduction" identifierref="introduction_resources" isvisible="true">
           <title>Introduction</title>
@@ -83,7 +83,7 @@
         </item>
 
         <item identifier="external_hdw" identifierref="external_hdw_resources" isvisible="true">
-          <title>External Hardware</title>
+          <title>External Hardware Overview</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -123,7 +123,7 @@
 		
 		
         <item identifier="external_hdw_exercise" identifierref="external_hdw_exercise_resources" isvisible="true">
-          <title>External Hardware - Exercise</title>
+          <title>External Hardware Overview - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -162,8 +162,8 @@
         </item>		
 		
 		
-        <item identifier="sign_on" identifierref="sign_on_resources" isvisible="true">
-          <title>Sign On and Home Screen</title>
+        <item identifier="touch_screen" identifierref="touch_screen_resources" isvisible="true">
+          <title>Touch Screen</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -201,8 +201,8 @@
           </imsss:sequencing>
         </item>		
 		
-        <item identifier="sign_on_exercise" identifierref="sign_on_exercise_resources" isvisible="true">
-          <title>Sign On and Home Screen - Exercise</title>
+        <item identifier="touch_screen_ex" identifierref="touch_screen_ex_resources" isvisible="true">
+          <title>Touch Screen - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -240,8 +240,8 @@
           </imsss:sequencing>
         </item>		
 		
-        <item identifier="function_buttons" identifierref="function_buttons_resources" isvisible="true">
-          <title>Function Buttons</title>
+        <item identifier="reader" identifierref="reader_resources" isvisible="true">
+          <title>Reader</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -279,8 +279,8 @@
           </imsss:sequencing>
         </item>	
 		
-        <item identifier="function_buttons_exercise" identifierref="function_buttons_exercise_resources" isvisible="true">
-          <title>Function Buttons - Exercise</title>
+        <item identifier="reader_exercise" identifierref="reader_exercise_resources" isvisible="true">
+          <title>Reader - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -319,8 +319,8 @@
         </item>
 
 		
-        <item identifier="game_buttons" identifierref="game_buttons_resources" isvisible="true">
-          <title>Game Buttons</title>
+        <item identifier="barcode_scanner" identifierref="barcode_scanner_resources" isvisible="true">
+          <title>Barcode Scanner</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -359,8 +359,8 @@
         </item>
 
 		
-        <item identifier="game_buttons_exercise" identifierref="game_buttons_exercise_resources" isvisible="true">
-          <title>Game Buttons - Exercise</title>
+        <item identifier="barcode_scanner_exercise" identifierref="barcode_scanner_exercise_resources" isvisible="true">
+          <title>Barcode Scanner - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -399,8 +399,8 @@
         </item>
 		
 		
-        <item identifier="touch_screen" identifierref="touch_screen_resources" isvisible="true">
-          <title>Touch Screen</title>
+        <item identifier="sign_on" identifierref="sign_on_resources" isvisible="true">
+          <title>Sign On and Home Screen</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -439,8 +439,8 @@
         </item>
 
 		
-        <item identifier="touch_screen_exercise" identifierref="touch_screen_exercise_resources" isvisible="true">
-          <title>Touch Screen - Exercise</title>
+        <item identifier="sign_on_exercise" identifierref="sign_on_exercise_resources" isvisible="true">
+          <title>Sign On and Home Screen - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -479,8 +479,8 @@
         </item>
 
 		
-        <item identifier="playslip_reader" identifierref="playslip_reader_resources" isvisible="true">
-          <title>Play Slip Reader</title>
+        <item identifier="terminal_settings" identifierref="terminal_settings_resources" isvisible="true">
+          <title>Terminal Settings and Services</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -519,8 +519,8 @@
         </item>		
 		
 		
-        <item identifier="playslip_reader_exercise" identifierref="playslip_reader_exercise_resources" isvisible="true">
-          <title>Play Slip Reader - Exercise</title>
+        <item identifier="terminal_settings_exercise" identifierref="terminal_settings_exercise_resources" isvisible="true">
+          <title>Terminal Settings and Services - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -559,8 +559,8 @@
         </item>			
 		
 		
-        <item identifier="external_barcode_scanner" identifierref="external_barcode_scanner_resources" isvisible="true">
-          <title>External Barcode Scanner</title>
+        <item identifier="validations" identifierref="validations_resources" isvisible="true">
+          <title>Validations</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -599,8 +599,8 @@
         </item>			
 				
 		
-        <item identifier="external_barcode_scanner_exercise" identifierref="external_barcode_scanner_exercise_resources" isvisible="true">
-          <title>External Barcode Scanner - Exercise</title>
+        <item identifier="online_validations_exercise" identifierref="online_validations_exercise_resources" isvisible="true">
+          <title>Online Validations - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -639,8 +639,8 @@
         </item>					
 		
 		
-        <item identifier="printer" identifierref="printer_resources" isvisible="true">
-          <title>Printer</title>
+        <item identifier="instant_validations_ex" identifierref="instant_validations_ex_resources" isvisible="true">
+          <title>Instant Validations - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -679,8 +679,8 @@
         </item>	
 
 		
-        <item identifier="printer_exercise" identifierref="printer_exercise_resources" isvisible="true">
-          <title>Printer - Exercise</title>
+        <item identifier="online_functions" identifierref="online_functions_resources" isvisible="true">
+          <title>Online Functions</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -719,8 +719,8 @@
         </item>			
 		
 		
-        <item identifier="hardware_peripherals" identifierref="hardware_peripherals_resources" isvisible="true">
-          <title>Hardware and Peripherals</title>
+        <item identifier="online_functions_ex" identifierref="online_functions_ex_resources" isvisible="true">
+          <title>Online Functions - Exercise</title>
           <adlcp:data>
             <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
             <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
@@ -756,8 +756,554 @@
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
-        </item>			
+        </item>
 		
+		
+        <item identifier="instant_functions" identifierref="instant_functions_resources" isvisible="true">
+          <title>Instant Functions</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>		
+		
+        <item identifier="instant_functions_ex" identifierref="instant_functions_ex_resources" isvisible="true">
+          <title>Instant Functions - Exercise</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="cancel_reprints" identifierref="cancel_reprints_resources" isvisible="true">
+          <title>Cancel and Reprints</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="cancel_reprints_ex" identifierref="cancel_reprints_ex_resources" isvisible="true">
+          <title>Cancel and Reprints - Exercise</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="game_buttons" identifierref="game_buttons_resources" isvisible="true">
+          <title>Game Buttons</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="game_buttons_ex1" identifierref="game_buttons_ex1_resources" isvisible="true">
+          <title>Game Buttons - Exercise 1</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="game_buttons_ex2" identifierref="game_buttons_ex2_resources" isvisible="true">
+          <title>Game Buttons - Exercise 2</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="game_buttons_ex3" identifierref="game_buttons_ex3_resources" isvisible="true">
+          <title>Game Buttons - Exercise 3</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="hardware_peripherals" identifierref="hardware_peripherals_resources" isvisible="true">
+          <title>Hardware Peripherals</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="hardware_peripherals_ex" identifierref="hardware_peripherals_ex_resources" isvisible="true">
+          <title>Hardware Peripherals - Exercise</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="terminal_maintenance" identifierref="terminal_maintenance_resources" isvisible="true">
+          <title>Terminal Maintenance</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="terminal_maintenance_ex" identifierref="terminal_maintenance_ex_resources" isvisible="true">
+          <title>Terminal Maintenance - Exercise</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="terminal_trouble" identifierref="terminal_trouble_resources" isvisible="true">
+          <title>Terminal Troubleshooting</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>
+		
+        <item identifier="terminal_troubleshooting_ex" identifierref="terminal_troubleshooting_ex_resources" isvisible="true">
+          <title>Terminal Troubleshooting - Exercise</title>
+          <adlcp:data>
+            <adlcp:map targetID="lll.sequencing.forcedsequential.notesStorage" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.sessionAttempts" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.courseCompleted" readSharedData="true" writeSharedData="true" />
+            <adlcp:map targetID="lll.sequencing.forcedsequential.lastVisitedSCO" readSharedData="true" writeSharedData="true" />
+          </adlcp:data>
+          <adlcp:completionThreshold progressWeight=".022" />
+          <imsss:sequencing IDRef="common_seq_rules">
+            <imsss:sequencingRules>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+              <imsss:preConditionRule>
+                <imsss:ruleConditions conditionCombination="any">
+                  <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
+                </imsss:ruleConditions>
+                <imsss:ruleAction action="disabled" />
+              </imsss:preConditionRule>
+            </imsss:sequencingRules>
+            <imsss:objectives>
+              <imsss:primaryObjective objectiveID="hardware_peripherals_complete" />
+              <imsss:objective objectiveID="previous_sco_complete" />
+            </imsss:objectives>
+            <adlseq:objectives>
+              <adlseq:objective objectiveID="hardware_peripherals_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              </adlseq:objective>
+              <adlseq:objective objectiveID="previous_sco_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.printer_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+              </adlseq:objective>
+            </adlseq:objectives>
+          </imsss:sequencing>
+        </item>		
 		
         <item identifier="course_end" identifierref="course_end_resources" isvisible="true">
           <title>Course End</title>
