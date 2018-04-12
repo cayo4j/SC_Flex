@@ -3,34 +3,34 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Printer",
+			"name": "Terminal Settings and Services ",
 			"video": {
-				"url": "lessons/shared/videos/Printer.mp4"
+				"url": "lessons/shared/videos/TerminalSettingsandServices.mp4"
 			},
 
 				"cuepoints": [
 
 				{
+
+					"videoControl" : {
+						"time": "-1",
+						"play": true
+					},
+					"caption": "on"
+				},
+				{
+
 					"videoControl" : {
 						"time": "0",
 						"play": true
 					},
-					"caption": "The new Printer used with your Altura Flex terminal is the AccuTherm Ultra.",
+					"caption": "Ok, now let's look at other functions available from the Home Screen. ",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ultra-printer.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/ultra-printer.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -38,17 +38,18 @@
 					]
 				},
 				{
+
 					"videoControl" : {
-						"time": "0.5",
+						"time": "4.55",
 						"play": true
 					},
-					"caption": "The new Printer used with your Altura Flex terminal is the AccuTherm Ultra.",
+					"caption": "First, let's look at Terminal Settings, I'll touch Terminal Settings",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ultra-printer.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -58,51 +59,16 @@
 				{
 
 					"videoControl" : {
-						"time": "4.865",
+						"time": "8.884",
 						"play": true
 					},
-					"caption": "The Printer uses heat to print on special thermal paper."
-				},
-				{
-
-					"videoControl" : {
-						"time": "8.628",
-						"play": true
-					},
-					"caption": "There are several new features with this Printer, starting with the clear cover here on the top."
-				},
-				{
-
-					"videoControl" : {
-						"time": "13.691",
-						"play": true
-					},
-					"caption": "Right at the base of the cover is the anti-jam deflector that significantly reduces paper jams.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/paper-roll.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "19.499",
-						"play": true
-					},
-					"caption": "When you get your Printer you will notice that the paper roll is larger than the current paper rolls. ",
+					"caption": "and here you can adjust the brightness of the screen by using the Plus (+) or Minus (-) icons.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/paper-roll.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -112,25 +78,16 @@
 				{
 
 					"videoControl" : {
-						"time": "24.486",
+						"time": "14.407",
 						"play": true
 					},
-					"caption": "The AccuTherm Ultra accepts larger rolls up to 7.5\".",
+					"caption": "The FST Sign On is only used by Field Service Technicians to perform functions related to their job.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/paper-roll.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer-sensor-highlights.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -140,25 +97,16 @@
 				{
 
 					"videoControl" : {
-						"time": "29.292",
+						"time": "21.323",
 						"play": true
 					},
-					"caption": "Next, smart sensors inside the Printer detect paper conditions such as Paper Low, Paper Out and Cover Open",
+					"caption": "Next, let's look at the Services menu.  I'll touch Services",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-sensor-highlights.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer-door-opened.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -168,16 +116,16 @@
 				{
 
 					"videoControl" : {
-						"time": "38.112",
+						"time": "25.385",
 						"play": true
 					},
-					"caption": "and these messages will display on your Altura Flex terminal.",
+					"caption": "to access many useful functions.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-door-opened.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -187,68 +135,16 @@
 				{
 
 					"videoControl" : {
-						"time": "41.993",
+						"time": "27.546",
 						"play": true
 					},
-					"caption": "You should never have to worry about your Printer running out of paper. ",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "45.158",
-						"play": true
-					},
-					"caption": "The terminal will display PAPER LOW when the Printer detects the paper is getting low.",
+					"caption": "Mail is used to access mail messages from the Lottery.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 319,
-                            "top": 146,
-                            "label": "PAPER LOW",
-                            "blink": "none"	
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "50.689",
-						"play": true
-					},
-					"caption": "You should change the paper as soon as possible after the message appears."
-				},
-				{
-
-					"videoControl" : {
-						"time": "54.831",
-						"play": true
-					},
-					"caption": "If the message is ignored, the Printer will function until it no longer detects enough paper.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer-no-paper.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -258,16 +154,16 @@
 				{
 
 					"videoControl" : {
-						"time": "60.143",
+						"time": "30.944",
 						"play": true
 					},
-					"caption": "A PAPER OUT message will display which prevents any further functions from being performed until a new roll is loaded.",
+					"caption": "You can also get to the mail by using the mail icon in the upper right corner of the screen.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-no-paper.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -277,51 +173,16 @@
 				{
 
 					"videoControl" : {
-						"time": "67.386",
+						"time": "35.994",
 						"play": true
 					},
-					"caption": "OK.  So how do you change your paper roll and run a Printer Test?"
-				},
-				{
-
-					"videoControl" : {
-						"time": "71.657",
-						"play": true
-					},
-					"caption": "First, press the silver button on the Printer Cover"
-				},
-				{
-
-					"videoControl" : {
-						"time": "74.869",
-						"play": true
-					},
-					"caption": "and pull up on the sides of the Printer Cover to open.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer-door-opened.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "77.833",
-						"play": true
-					},
-					"caption": "The Altura Flex terminal screen displays the warning PRINTER DOOR OPENED.",
+					"caption": "News is used to access news messages from the Lottery. Remember, News also displays when you first sign on to the terminal.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-door-opened.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -331,83 +192,16 @@
 				{
 
 					"videoControl" : {
-						"time": "82.625",
+						"time": "43.29",
 						"play": true
 					},
-					"caption": "Next, remove the used paper roll."
-				},
-				{
-
-					"videoControl" : {
-						"time": "85.24",
-						"play": true
-					},
-					"caption": "Detach the piece of tape on the new roll that holds the end of the paper to the roll"
-				},
-				{
-
-					"videoControl" : {
-						"time": "89.86",
-						"play": true
-					},
-					"caption": "then place the new roll into the Printer. It is important that the paper feeds from the bottom toward you."
-				},
-				{
-
-					"videoControl" : {
-						"time": "96.561",
-						"play": true
-					},
-					"caption": "Make sure the paper comes over the roller."
-				},
-				{
-
-					"videoControl" : {
-						"time": "99.703",
-						"play": true
-					},
-					"caption": "Because this is a new roll, leave about 12 to 18 inches hanging out "
-				},
-				{
-
-					"videoControl" : {
-						"time": "104.724",
-						"play": true
-					},
-					"caption": "and close the cover firmly."
-				},
-				{
-
-					"videoControl" : {
-						"time": "106.658",
-						"play": true
-					},
-					"caption": "The Printer automatically advances and cuts the paper.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/accutherm-receipt.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "110.174",
-						"play": true
-					},
-					"caption": "At the bottom of the piece of paper that just dispensed, you should see the words AccuTherm-Ultra and other information. ",
+					"caption": "Let's look at News now. I'll touch News",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/accutherm-receipt.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -417,61 +211,16 @@
 				{
 
 					"videoControl" : {
-						"time": "116.806",
+						"time": "46.235",
 						"play": true
 					},
-					"caption": "If you do not see this message, the paper is not loaded correctly."
-				},
-				{
-
-					"videoControl" : {
-						"time": "121.04",
-						"play": true
-					},
-					"caption": "Now run the Printer Test to ensure print quality.  ",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen_services_hand.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/services_printertest_hand.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "124.488",
-						"play": true
-					},
-					"caption": "From the Home Screen, touch Services,",
+					"caption": "and a News Message displays.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen_services_hand.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/services_printertest_hand.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -481,25 +230,16 @@
 				{
 
 					"videoControl" : {
-						"time": "127.425",
+						"time": "48.185",
 						"play": true
 					},
-					"caption": "then Printer Test.",
+					"caption": "Here, I can use the Print button to print the message if I want.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services_printertest_hand.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer_test.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -509,16 +249,16 @@
 				{
 
 					"videoControl" : {
-						"time": "129.314",
+						"time": "51.88",
 						"play": true
 					},
-					"caption": "A receipt displaying every character is printed.",
+					"caption": "I'll touch Services here in the breadcrumbs",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer_test.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -528,61 +268,16 @@
 				{
 
 					"videoControl" : {
-						"time": "132.368",
+						"time": "54.681",
 						"play": true
 					},
-					"caption": "You should run a Printer Test each time you change your paper roll and after clearing a jam."
-				},
-				{
-
-					"videoControl" : {
-						"time": "138.32",
-						"play": true
-					},
-					"caption": "Let me show you something else while we’re here.  ",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer-green-light.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer-amber-light.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "140.594",
-						"play": true
-					},
-					"caption": "The green light on the front of the Printer indicates everything is working correctly.  ",
+					"caption": "to return to the Services menu.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-green-light.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer-amber-light.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -592,16 +287,16 @@
 				{
 
 					"videoControl" : {
-						"time": "145.476",
+						"time": "56.82",
 						"play": true
 					},
-					"caption": "If the light were flashing an amber color, you would know there’s an issue, such as a paper jam.",
+					"caption": "Next is Video Help.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer-amber-light.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -611,80 +306,333 @@
 				{
 
 					"videoControl" : {
-						"time": "150.939",
+						"time": "58.759",
 						"play": true
 					},
-					"caption": "Should a jam occur in the Printer, open the Printer cover,"
-				},
-				{
-
-					"videoControl" : {
-						"time": "154.814",
-						"play": true
-					},
-					"caption": "pull out the paper past the jam,"
-				},
-				{
-
-					"videoControl" : {
-						"time": "157.088",
-						"play": true
-					},
-					"caption": "close the lid, and the paper re-loads.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "160.357",
-						"play": true
-					},
-					"caption": "If you get a PRINTER OFF-LINE message, make sure all cables are connected properly and reload the paper.",
+					"caption": "Touching this button",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 319,
-                            "top": 146,
-                            "label": "PRINTER OFFLINE",
-                            "blink": "none"	
 						}
 					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "166.213",
+						"time": "60.043",
 						"play": true
 					},
-					"caption": "Now let’s have you try loading the paper.  "
+					"caption": "displays video help options for some common terminal activities ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "63.681",
+						"play": true
+					},
+					"caption": "such as cleaning the reader and clearing a paper jam.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "67.675",
+						"play": true
+					},
+					"caption": "Returning to Services,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "69.502",
+						"play": true
+					},
+					"caption": "touch Transaction History",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "71.602",
+						"play": true
+					},
+					"caption": "to see a list of the transactions that have taken place on this terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "75.408",
+						"play": true
+					},
+					"caption": "Touch the up and down arrows to scroll through the list",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "78.566",
+						"play": true
+					},
+					"caption": "and you can print the Transaction History by touching Print.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "81.683",
+						"play": true
+					},
+					"caption": "I'll touch Services again.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "83.714",
+						"play": true
+					},
+					"caption": "We will cover the various test buttons and the reset button on the Services menu in a later lesson on troubleshooting.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "90.411",
+						"play": true
+					},
+					"caption": "Touching Version Info ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "92.305",
+						"play": true
+					},
+					"caption": "displays the Terminal, Application, and Library version information.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "97.181",
+						"play": true
+					},
+					"caption": "This information is useful and you may be asked to provide it to hotline.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "101.085",
+						"play": true
+					},
+					"caption": "Temperature Monitor displays the terminal temperature and will warn you if the monitor is reaching a high or critical temperature.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "108.233",
+						"play": true
+					},
+					"caption": "Comm Log displays the history of terminal communications with the Host System, and any status changes.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "114.235",
+						"play": true
+					},
+					"caption": "This log can be printed and is useful in troubleshooting problems.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "117.998",
+						"play": true
+					},
+					"caption": "Let's continue.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				}
-]
-},
+	]
+	},
 				{
-
 					"type": "summary",
 					"name": "Summary",
-
+	
 					"isOptional": true
-
+	
 				}
-]
-}
+	]}
