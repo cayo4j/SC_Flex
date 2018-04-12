@@ -1,0 +1,430 @@
+{
+	"title": " ",
+	"activities": [
+		{
+			"type": "video",
+			"name": "Sign On and Home Screen",
+			"video": {
+				"url": "lessons/shared/videos/SignOnHomeScreen.mp4"
+			},
+
+				"cuepoints": [
+
+				{
+
+					"videoControl" : {
+						"time": "-1",
+						"play": true
+					},
+					"caption": "on"
+				},
+				{
+
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": "Let's take our first look at the terminal screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "3.47",
+						"play": true
+					},
+					"caption": "When your terminal powers on, you'll notice that the first screen to display is the Sign On screen. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "8.268",
+						"play": true
+					},
+					"caption": "There's no need to touch a Sign On button first!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "11.191",
+						"play": true
+					},
+					"caption": "I'll show you how to sign on from this screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "13.684",
+						"play": true
+					},
+					"caption": "I'll simply enter my 4-digit Pass Number."
+				},
+				{
+
+					"videoControl" : {
+						"time": "16.156",
+						"play": true
+					},
+					"caption": "and touch Submit."
+				},
+				{
+
+					"videoControl" : {
+						"time": "17.887",
+						"play": true
+					},
+					"caption": "A sign on receipt prints automatically."
+				},
+				{
+
+					"videoControl" : {
+						"time": "20.522",
+						"play": true
+					},
+					"caption": "If there is a news message, it displays on the screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "23.528",
+						"play": true
+					},
+					"caption": "Touch OK"
+				},
+				{
+
+					"videoControl" : {
+						"time": "24.808",
+						"play": true
+					},
+					"caption": "or to print the message, touch Print."
+				},
+				{
+
+					"videoControl" : {
+						"time": "27.471",
+						"play": true
+					},
+					"caption": "I'll touch OK"
+				},
+				{
+
+					"videoControl" : {
+						"time": "29.033",
+						"play": true
+					},
+					"caption": "and the Home Screen displays."
+				},
+				{
+
+					"videoControl" : {
+						"time": "30.832",
+						"play": true
+					},
+					"caption": "'Let\u2019s look at the Home Screen, starting with the top of the screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "33.79",
+						"play": true
+					},
+					"caption": "This is called the Status Bar and at this point, it is indicating the user is Signed In as a Clerk."
+				},
+				{
+
+					"videoControl" : {
+						"time": "39.755",
+						"play": true
+					},
+					"caption": "You can use this arrow to access a pull-down that shows activity during this session"
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.781",
+						"play": true
+					},
+					"caption": "and here you see the terminal is "Ready"."
+				},
+				{
+
+					"videoControl" : {
+						"time": "47.058",
+						"play": true
+					},
+					"caption": "Here to the left are your Sign Out, Help, and Lock buttons."
+				},
+				{
+
+					"videoControl" : {
+						"time": "51.539",
+						"play": true
+					},
+					"caption": "About the Help function, you'll notice that there is only one button."
+				},
+				{
+
+					"videoControl" : {
+						"time": "55.119",
+						"play": true
+					},
+					"caption": "Touch Help on any screen"
+				},
+				{
+
+					"videoControl" : {
+						"time": "57.057",
+						"play": true
+					},
+					"caption": "and a pop-up displays information related to the screen you are on."
+				},
+				{
+
+					"videoControl" : {
+						"time": "60.931",
+						"play": true
+					},
+					"caption": "Touch OK once you read the help text,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "63.572",
+						"play": true
+					},
+					"caption": "or touch Print to print the information."
+				},
+				{
+
+					"videoControl" : {
+						"time": "66.22",
+						"play": true
+					},
+					"caption": "This next button is the Lock button."
+				},
+				{
+
+					"videoControl" : {
+						"time": "68.599",
+						"play": true
+					},
+					"caption": "The Lock button provides a one-touch locking feature that allows you to leave your terminal without signing off."
+				},
+				{
+
+					"videoControl" : {
+						"time": "74.452",
+						"play": true
+					},
+					"caption": "It is also recommended that you lock your terminal when cleaning your touch screen to avoid signing off your terminal or accidentally producing wagers. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "81.806",
+						"play": true
+					},
+					"caption": "Touch the Lock button "
+				},
+				{
+
+					"videoControl" : {
+						"time": "83.422",
+						"play": true
+					},
+					"caption": "and your terminal displays the message PAUSED.  "
+				},
+				{
+
+					"videoControl" : {
+						"time": "86.372",
+						"play": true
+					},
+					"caption": "When you are ready to use the terminal again, just enter your pass number"
+				},
+				{
+
+					"videoControl" : {
+						"time": "89.724",
+						"play": true
+					},
+					"caption": "and touch Submit."
+				},
+				{
+
+					"videoControl" : {
+						"time": "91.383",
+						"play": true
+					},
+					"caption": "Here is the Home Button and a new feature: Breadcrumb navigation. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "95.378",
+						"play": true
+					},
+					"caption": "As you move from screen "
+				},
+				{
+
+					"videoControl" : {
+						"time": "97.063",
+						"play": true
+					},
+					"caption": "to screen,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "98.58",
+						"play": true
+					},
+					"caption": "the name of each screen in the path displays here."
+				},
+				{
+
+					"videoControl" : {
+						"time": "101.437",
+						"play": true
+					},
+					"caption": "So it's much easier to navigate between screens. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "104.911",
+						"play": true
+					},
+					"caption": "For example, for the Mail screen shown here, touch Services to return to the Services menu "
+				},
+				{
+
+					"videoControl" : {
+						"time": "110.623",
+						"play": true
+					},
+					"caption": "or Home to return Home."
+				},
+				{
+
+					"videoControl" : {
+						"time": "112.928",
+						"play": true
+					},
+					"caption": "I'll touch Home."
+				},
+				{
+
+					"videoControl" : {
+						"time": "114.667",
+						"play": true
+					},
+					"caption": "Here, on the right side of the screen are the status buttons for Communications Activity,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "119.658",
+						"play": true
+					},
+					"caption": "the Printer,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "120.889",
+						"play": true
+					},
+					"caption": "Device Statuses,"
+				},
+				{
+
+					"videoControl" : {
+						"time": "122.489",
+						"play": true
+					},
+					"caption": "and Mail."
+				},
+				{
+
+					"videoControl" : {
+						"time": "123.599",
+						"play": true
+					},
+					"caption": "Touch one of these buttons to view a particular device status."
+				},
+				{
+
+					"videoControl" : {
+						"time": "127.19",
+						"play": true
+					},
+					"caption": "I'll touch the Printer button"
+				},
+				{
+
+					"videoControl" : {
+						"time": "128.954",
+						"play": true
+					},
+					"caption": "and the current status - Ready displays."
+				},
+				{
+
+					"videoControl" : {
+						"time": "131.932",
+						"play": true
+					},
+					"caption": "The Mail icon will indicate messages from the South Carolina Education Lottery and also acts as a shortcut button to the Mail screen."
+				},
+				{
+
+					"videoControl" : {
+						"time": "139.673",
+						"play": true
+					},
+					"caption": "The current Date and Time display here"
+				},
+				{
+
+					"videoControl" : {
+						"time": "142.602",
+						"play": true
+					},
+					"caption": "and the current legal age to purchase lottery products display here for easy reference!"
+				},
+				{
+
+					"videoControl" : {
+						"time": "147.177",
+						"play": true
+					},
+					"caption": "When you are done with your shift, simply touch the Sign-out button."
+				},
+				{
+
+					"videoControl" : {
+						"time": "150.843",
+						"play": true
+					},
+					"caption": "We'll cover the rest of the features of your new terminal application in the next lessons. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "155.168",
+						"play": true
+					},
+					"caption": "Let's move on!"
+				}
+	]
+	},
+				{
+					"type": "summary",
+					"name": "Summary",
+	
+					"isOptional": true
+	
+				}
+	]}
