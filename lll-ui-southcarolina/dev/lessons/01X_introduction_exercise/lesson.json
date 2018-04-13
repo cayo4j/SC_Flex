@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/sc-logo-screen-exercise.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -44,23 +44,15 @@
 					"isCorrect": true
 				},
 				{
-					"label": "Terminal Features and Application",
+					"label": "Application",
 					"isCorrect": true
 				},
 				{
-					"label": "Ticket Scan Plus",
+					"label": "Ticket Checker",
 					"isCorrect": true
 				},
 				{
 					"label": "Barcode Scanner",
-					"isCorrect": true
-				},
-				{
-					"label": "Customer Display Unit",
-					"isCorrect": true
-				},
-				{
-					"label": "Digital Jackpot Signage",
 					"isCorrect": true
 				}
 			],
