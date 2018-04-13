@@ -1,17 +1,20 @@
 System.config({
-  defaultJSExtensions: true,
-  transpiler: "babel",
-  babelOptions: {
+  "transpiler": "babel",
+  "babelOptions": {
     "optional": [
       "runtime"
     ]
   },
-  paths: {
-    "github:*": "dev/jspm_packages/github/*",
-    "npm:*": "dev/jspm_packages/npm/*"
+  "paths": {
+    "github:*": "dev/jspm_packages/github/*.js",
+    "npm:*": "dev/jspm_packages/npm/*.js",
+    "*": "*.js"
   },
+  "defaultJSExtensions": true
+});
 
-  map: {
+System.config({
+  "map": {
     "angular": "github:angular/bower-angular@1.5.0",
     "angular-animate": "github:angular/bower-angular-animate@1.5.0",
     "angular-busy": "github:cgross/angular-busy@4.1.3",
@@ -198,8 +201,10 @@ System.config({
       "inherits": "npm:inherits@2.0.1",
       "isarray": "npm:isarray@0.0.1",
       "process": "github:jspm/nodelibs-process@0.1.2",
+      "stream": "github:jspm/nodelibs-stream@0.1.0",
       "stream-browserify": "npm:stream-browserify@1.0.0",
-      "string_decoder": "npm:string_decoder@0.10.31"
+      "string_decoder": "npm:string_decoder@0.10.31",
+      "util": "github:jspm/nodelibs-util@0.1.0"
     },
     "npm:source-map@0.4.4": {
       "amdefine": "npm:amdefine@1.0.0",
@@ -228,3 +233,4 @@ System.config({
     }
   }
 });
+
