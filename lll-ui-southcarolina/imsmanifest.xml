@@ -58,13 +58,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -97,13 +97,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -137,13 +137,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -177,13 +177,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -216,13 +216,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -255,13 +255,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -294,13 +294,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -334,13 +334,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -374,13 +374,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -414,13 +414,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -454,13 +454,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -494,13 +494,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -534,13 +534,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -574,13 +574,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -614,13 +614,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -654,13 +654,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -694,13 +694,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -734,13 +734,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -774,13 +774,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -813,13 +813,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -852,13 +852,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -891,13 +891,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -930,13 +930,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -969,13 +969,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1008,13 +1008,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1047,13 +1047,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1086,13 +1086,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1125,13 +1125,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1164,13 +1164,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1203,13 +1203,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1242,13 +1242,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1281,13 +1281,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> -->
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1320,13 +1320,13 @@
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                 <!-- <imsss:ruleAction action="disabled" /> --> 
               </imsss:preConditionRule>
               <imsss:preConditionRule>
                 <imsss:ruleConditions conditionCombination="any">
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                  <!-- <imsss:ruleAction action="disabled" /> --> 
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
@@ -1363,7 +1363,7 @@
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="completed" />
                   <imsss:ruleCondition operator="not" referencedObjective="previous_sco_complete" condition="activityProgressKnown" />
                 </imsss:ruleConditions>
-                <imsss:ruleAction action="disabled" />
+                  <!-- <imsss:ruleAction action="disabled" /> --> 
               </imsss:preConditionRule>
               <!-- IF SCO isn't Satisfied which is set using JS when the user completes the test ( ), then when continue is called the LMS -->
               <!-- will send them back to the assessment SCO as if they never took it, this keeps the Course status as "In Progress" -->
@@ -1404,95 +1404,162 @@
       <file href="lessons/01_introduction/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="intro_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/02_introduction-exercise">
-      <file href="lessons/02_introduction-exercise/lesson.json" />
+    <resource identifier="intro_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/01X_introduction_exercise">
+      <file href="lessons/01X_introduction_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="external_hdw_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03_external-hardware">
-      <file href="lessons/03_external-hardware/lesson.json" />
+    <resource identifier="external_hdw_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/02_external_hardware_overview">
+      <file href="lessons/02_external_hardware_overview/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="external_hdw_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/04_external-hardware-exercise">
-      <file href="lessons/04_external-hardware-exercise/lesson.json" />
+    <resource identifier="external_hdw_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/02X_external_hardware_exercise">
+      <file href="lessons/02X_external_hardware_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-	
-    <resource identifier="sign_on_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/05_sign-on-home-screen">
-      <file href="lessons/05_sign-on-home-screen/lesson.json" />
+
+    <resource identifier="touch_screen_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03_touch_screen">
+      <file href="lessons/03_touch_screen/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="sign_on_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/06_sign-on-home-screen-exercise">
-      <file href="lessons/06_sign-on-home-screen-exercise/lesson.json" />
+    <resource identifier="touch_screen_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03X_touch_screen_exercise">
+      <file href="lessons/03X_touch_screen_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-	
-    <resource identifier="function_buttons_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/07_function-buttons">
-      <file href="lessons/07_function-buttons/lesson.json" />
+
+    <resource identifier="reader_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/04_reader">
+      <file href="lessons/04_reader/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="function_buttons_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/08_function-buttons-exercise">
-      <file href="lessons/08_function-buttons-exercise/lesson.json" />
+    <resource identifier="reader_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/04X_reader_exercise">
+      <file href="lessons/04X_reader_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-	
-    <resource identifier="game_buttons_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/09_game-buttons">
-      <file href="lessons/09_game-buttons/lesson.json" />
+
+    <resource identifier="barcode_scanner_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/05_barcode_scanner">
+      <file href="lessons/05_barcode_scanner/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="game_buttons_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/10_game-buttons-exercise">
-      <file href="lessons/10_game-buttons-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-	
-    <resource identifier="touch_screen_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/11_touch-screen">
-      <file href="lessons/11_touch-screen/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-    <resource identifier="touch_screen_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/12_touch-screen-exercise">
-      <file href="lessons/12_touch-screen-exercise/lesson.json" />
+    <resource identifier="barcode_scanner_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/05X_barcode_scanner_exercise">
+      <file href="lessons/05X_barcode_scanner_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="playslip_reader_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/13_play-slip-reader">
-      <file href="lessons/13_play-slip-reader/lesson.json" />
+    <resource identifier="sign_on_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/06_sign_on_home_screen">
+      <file href="lessons/06_sign_on_home_screen/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="playslip_reader_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/14_play-slip-reader-exercise">
-      <file href="lessons/14_play-slip-reader-exercise/lesson.json" />
+    <resource identifier="sign_on_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/06X_sign_on_home_screen_exercise">
+      <file href="lessons/06X_sign_on_home_screen_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-	
-    <resource identifier="external_barcode_scanner_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/15_external-barcode-scanner">
-      <file href="lessons/15_external-barcode-scanner/lesson.json" />
+
+    <resource identifier="terminal_settings_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/07_terminal_settings_services">
+      <file href="lessons/07_terminal_settings_services/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="external_barcode_scanner_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/16_external-barcode-scanner-exercise">
-      <file href="lessons/16_external-barcode-scanner-exercise/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-	
-    <resource identifier="printer_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/17_printer">
-      <file href="lessons/17_printer/lesson.json" />
-      <dependency identifierref="common_files" />
-    </resource>
-    <resource identifier="printer_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/18_printer-exercise">
-      <file href="lessons/18_printer-exercise/lesson.json" />
+    <resource identifier="terminal_settings_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/07X_terminal_settings_services_exercise">
+      <file href="lessons/07X_terminal_settings_services_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="hardware_peripherals_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/19_hardware-peripherals">
-      <file href="lessons/19_hardware-peripherals/lesson.json" />
+    <resource identifier="validations_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/08_validations">
+      <file href="lessons/08_validations/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="course_end_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/20_course-end">
-      <file href="lessons/20_course-end/lesson.json" />
+    <resource identifier="online_validations_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/08X_online_validations_exercise">
+      <file href="lessons/08X_online_validations_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>	
+    <resource identifier="instant_validations_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/08X2_instant_validations_exercise">
+      <file href="lessons/08X2_instant_validations_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>		
+	
+    <resource identifier="online_functions_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/09_online_functions">
+      <file href="lessons/09_online_functions/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="online_functions_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/09X_online_functions_exercise">
+      <file href="lessons/09X_online_functions_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 	
-    <resource identifier="assessment_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/21_assessment">
-      <file href="lessons/21_assessment/lesson.json" />
+    <resource identifier="instant_functions_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/010_instant_functions">
+      <file href="lessons/010_instant_functions/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="instant_functions_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/010X_instant_functions_exercise">
+      <file href="lessons/010X_instant_functions_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>	
+	
+    <resource identifier="cancel_reprints_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/011_cancel_reprints">
+      <file href="lessons/011_cancel_reprints/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="cancel_reprints_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/011X_cancel_reprints_exercise">
+      <file href="lessons/011X_cancel_reprints_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>		
+	
+    <resource identifier="game_buttons_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/012_game_buttons">
+      <file href="lessons/012_game_buttons/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="game_buttons_ex1_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/012X_game_buttons_exercise_1">
+      <file href="lessons/012X_game_buttons_exercise_1/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>		
+    <resource identifier="game_buttons_ex2_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/012X2_game_buttons_exercise_2">
+      <file href="lessons/012X2_game_buttons_exercise_2/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="game_buttons_ex3_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/012X3_game_buttons_exercise_3">
+      <file href="lessons/012X3_game_buttons_exercise_3/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>		
+	
+    <resource identifier="hardware_peripherals_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/013_hardware_peripherals">
+      <file href="lessons/013_hardware_peripherals/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="hardware_peripherals_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/013X_hardware_peripherals_exercise">
+      <file href="lessons/013X_hardware_peripherals_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>	
+
+	
+    <resource identifier="terminal_maintenance_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/014_terminal_maintenance">
+      <file href="lessons/014_terminal_maintenance/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="terminal_maintenance_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/014X_terminal_maintenance_exercise">
+      <file href="lessons/014X_terminal_maintenance_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>		
+
+    <resource identifier="terminal_trouble_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/015_troubleshooting">
+      <file href="lessons/015_troubleshooting/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+    <resource identifier="terminal_troubleshooting_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/015X_troubleshooting_exercise">
+      <file href="lessons/015X_troubleshooting_exercise/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>	
+
+	
+
+	
+
+
+    <resource identifier="course_end_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/016_course_end">
+      <file href="lessons/016_course_end/lesson.json" />
+      <dependency identifierref="common_files" />
+    </resource>
+	
+    <resource identifier="assessment_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/016X_assessment">
+      <file href="lessons/016X_assessment/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
 </resources>
