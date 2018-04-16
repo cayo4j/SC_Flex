@@ -44,7 +44,7 @@
 						"time": "5.35",
 						"play": true
 					},
-					"caption": "and is used to quickly produce wagers using Play Slips and validate Draw Game tickets.",
+					"caption": "and is used to quickly produce wagers using Play Slips.",
 					"overlays": [
 						{
 							"left": 0,
@@ -63,7 +63,7 @@
 						"time": "11.305",
 						"play": true
 					},
-					"caption": "Simply insert the Play Slip or Draw Game ticket with the completed side facing you",
+					"caption": "Simply insert the Play Slip ticket with the completed side facing you",
 					"overlays": [
 						{
 							"left": 0,
@@ -110,7 +110,7 @@
 						"time": "20.364",
 						"play": true
 					},
-					"caption": "Scratchers should NEVER be placed in the Play Slip Reader!",
+					"caption": "Scratch off tickets should NEVER be placed in the Play Slip Reader!",
 					"overlays": [
 						{
 							"left": 0,
@@ -129,7 +129,7 @@
 						"time": "23.91",
 						"play": true
 					},
-					"caption": "If a Play Slip or Draw Game ticket becomes jammed in the Play Slip Reader, the steps to clear the jam are easy!"
+					"caption": "Let's take a look inside."
 				},
 				{
 
@@ -145,7 +145,7 @@
 						"time": "36.002",
 						"play": true
 					},
-					"caption": "If I press this button and pull the Touch Screen forward, I see a second door. "
+					"caption": "If I press this button and pull the Touch Screen forward, I see a second door."
 				},
 				{
 
@@ -169,7 +169,7 @@
 						"time": "46.117",
 						"play": true
 					},
-					"caption": "and gently clear away the jammed paper."
+					"caption": "and I see a glass lens, a very sensitive and important piece of the terminal. Why?"
 				},
 				{
 
@@ -177,7 +177,7 @@
 						"time": "48.566",
 						"play": true
 					},
-					"caption": "Remember, Scratchers should never come into contact with this area of the terminal.",
+					"caption": "This lens is used to read the play slips that are fed through the Play Slip Reader.",
 					"overlays": [
 						{
 							"left": 0,
@@ -187,12 +187,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-                            "left": 581,
-                            "top": 37,
-                            "label": "Scratchers should NEVER be placed in the Play Slip Reader!",
-                            "blink": "none"							
 						}
 					]
 				},
@@ -202,9 +196,30 @@
 						"time": "53.572",
 						"play": true
 					},
-					"caption": "OK, let’s close this up so you can give it a try."
+					"caption": "If a play slip were to become jammed in this area of the terminal, access this area to remove it. We'll cover this in detail later in the course."
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.572",
+						"play": true
+					},
+					"caption": "Remember, Scratch Off tickets should NEVER be placed in the Reader because they will leave residue on the glass lens and damage it."
+
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.572",
+						"play": true
+					},
+					"caption": "Ready, let's move on."
 
 				}
+				
+				
+				
 ]
 },
 				{
