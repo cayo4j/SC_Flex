@@ -31,9 +31,9 @@
 			]
 		},
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "External Barcode Scanner - Exercise",
-			"label": "True or False: The external barcode scanner must remain in the cradle to use it.",
+			"label": "True or False: The Barcode Scanner must remain in the cradle to use.",
 			"options": [
 				{
 					"label": "True",
@@ -47,11 +47,37 @@
 			"feedback": {
 				"valid": {
 					"label": "Right! ",
-					"text": "The external barcode scanner can remain in the cradle or be used as a handheld device."
+					"text": "The Barcode Scanner can remain in the cradle or be used as a handheld device."
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": " the correct answer is False. The external barcode scanner can remain in the cradle or be used as a handheld device."
+					"text": "the correct answer is False. The Barcode Scanner can remain in the cradle or be used as a handheld device."
+				}
+			},
+			"pointsAvailable": 0.5
+		},
+		{
+			"type": "singleChoice",
+			"name": "External Barcode Scanner - Exercise",
+			"label": "True or False: The Barcode Scanner is used to scan both Scratch off and Draw Game Ticket barcodes.",
+			"options": [
+				{
+					"label": "True",
+					"isCorrect": true
+				},
+				{
+					"label": "False",
+					"isCorrect": false
+				}
+			],
+			"feedback": {
+				"valid": {
+					"label": "You are right!",
+					"text": "The External Barcode Scanner is used to read both Scratch off and Draw Game ticket barcodes."
+				},
+				"invalid": {
+					"label": "Sorry,",
+					"text": "the correct answer is True."
 				}
 			},
 			"pointsAvailable": 0.5
