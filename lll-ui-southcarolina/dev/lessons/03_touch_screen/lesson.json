@@ -14,22 +14,13 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "The Touch Screen is the main point of access to your terminal functions.",
+					"caption": "Let's start out by turning on the terminal.  There are two power buttons you can use.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/terminal-homescreen_lowres.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-homescreen.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -41,7 +32,7 @@
 						"time": "0.5",
 						"play": true
 					},
-					"caption": "The Touch Screen is the main point of access to your terminal functions.",
+					"caption": "The on/off switch is located on the back of the terminal. ",
 					"overlays": [
 						{
 							"left": 0,
@@ -60,7 +51,7 @@
 						"time": "3.721",
 						"play": true
 					},
-					"caption": "The Altura Flex Touch Screen is a 15.6\" high-resolution display and even though your new terminal has a smaller footprint, the screen is larger! ",
+					"caption": "Just reach around and set it to the left, which is the ON position.  ",
 					"overlays": [
 						{
 							"left": 0,
@@ -79,7 +70,7 @@
 						"time": "13.915",
 						"play": true
 					},
-					"caption": "The screen is also adjustable and may be positioned up"
+					"caption": "You'll hear the terminal coming to life."
 
 				},
 				{
@@ -88,7 +79,7 @@
 						"time": "17.42",
 						"play": true
 					},
-					"caption": "or down to the desired height."
+					"caption": "Notice the round button at the bottom of the Touch Screen?  That's also a power button."
 
 				},
 				{
@@ -97,10 +88,10 @@
 						"time": "19.64",
 						"play": true
 					},
-					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass.",
+					"caption": "You can power your terminal on or off with this button.",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/pens-pencils-fingernails.jpg",
@@ -117,7 +108,7 @@
 						"time": "26.324",
 						"play": true
 					},
-					"caption": "Do not use objects such as pens, pencils or long fingernails.  ",
+					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light turns amber.",
 					"overlays": [
 						{
 							"left": 0,
@@ -136,10 +127,10 @@
 						"time": "31.172",
 						"play": true
 					},
-					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips.  ",
+					"caption": "To power the terminal back on, push it once.",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/wiping-screen.jpg",
@@ -156,7 +147,7 @@
 						"time": "36.543",
 						"play": true
 					},
-					"caption": "Cleaning the Touch Screen is the same, use non-ammonia cleaning solution on a soft-lint-free cloth and gently wipe the screen. ",
+					"caption": "The amber light will turn green and the terminal will begin to load.",
 					"overlays": [
 						{
 							"left": 0,
@@ -166,13 +157,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-                            "left": 200,
-                            "top": 100,
-                            "label": "Clean with Non-Ammonia Cleaning Solution on a Soft, Lint-Free Cloth",
-                            "blink": "none"
-						}
+						} 
 					]
 				},
 				{
@@ -181,31 +166,13 @@
 						"time": "44.243",
 						"play": true
 					},
-					"caption": "Never spray solution directly onto the screen.",
+					"caption": "This brings up the Welcome screen.",
 					"overlays":[
 						{
                             "left": 450,
                             "top": 120,
                             "label": "Never Spray Cleaning Solution Directly Onto the Screen!",
                             "blink": "none"
-						},
-{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/lockHighlight.png",
-								"width": 800,
-								"height": 450
-							}
 						}						
 					]
 				},
@@ -215,7 +182,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "And, same as always, remember to Lock your Touch Screen before cleaning to avoid placing wagers by accident.",
+					"caption": "The Touch Screen here is the main point of access to your terminal functions.",
 					"overlays": [
 						{
 							"left": 0,
@@ -225,18 +192,138 @@
 								"width": 800,
 								"height": 450
 							}
-						},
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.533",
+						"play": true
+					},
+					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass.",
+					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/lockHighlight.png",
+								"url": "lessons/shared/images/homescreen.jpg",
 								"width": 800,
 								"height": 450
 							}
-						}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.533",
+						"play": true
+					},
+					"caption": " Do not use objects such as pens, pencils or long fingernails. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.533",
+						"play": true
+					},
+					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.533",
+						"play": true
+					},
+					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver.When the terminal has been idle for several minutes, the screen will display a screen saver.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.533",
+						"play": true
+					},
+					"caption": " All you have to do is touch the right side of the screen or scan a ticket to “wake it up.”",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.533",
+						"play": true
+					},
+					"caption": "Let's move on.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.jpg",
+								"width": 800,
+								"height": 450
+							}
+						} 
 					]
 				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 ]
 },
 				{

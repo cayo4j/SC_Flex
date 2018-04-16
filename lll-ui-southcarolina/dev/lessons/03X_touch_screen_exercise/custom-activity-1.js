@@ -73,12 +73,7 @@ function startGame(completedCallback) {
 			// scale mouse coordinates to canvas coordinates
 			canvasX = mouseX * context.canvas.width / context.canvas.clientWidth;
 			canvasY = mouseY * context.canvas.height / context.canvas.clientHeight;
-			//set viewportWidth to container div width to match scaling
-			
 
-			//mouseXElem.text(canvasX);
-			//mouseYElem.text(canvasY);
-			//vpw.text(viewportWidth);
 			
 
 		});
@@ -90,15 +85,7 @@ function startGame(completedCallback) {
                  document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS:</b><br/>Press the Power Button at the bottom of the Touch Screen to power it on.";   
 				//swal({title: "", text: "Look at the items and identify each one that should NOT be used on the Touch Screen. Touch or click those items to stamp them with a red X."});
 				break;
-                //case 3:
-
-                   // break;  
-				//case 2:
-				//swal({title: "", text: "Find another item you should never use on the Touch Screen."});
-				//break;
-				//case 3:
-				//swal({title: "", text: "There is one more item you should never use, can you find it?"});
-				//break;
+               
 
 			};
 		};
