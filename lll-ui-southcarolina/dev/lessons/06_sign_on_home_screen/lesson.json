@@ -49,7 +49,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/welcome-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -68,7 +68,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/welcome-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -87,7 +87,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/welcome-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -106,7 +106,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/welcome-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06highlightPassNumber.png",
 								"width": 800,
 								"height": 450
 							}
@@ -125,7 +134,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/sign-on-submit.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchSubmit.png",
 								"width": 800,
 								"height": 450
 							}
@@ -144,7 +162,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/coming-soon.png",
 								"width": 800,
 								"height": 450
 							}
@@ -163,7 +181,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/news-message.png",
 								"width": 800,
 								"height": 450
 							}
@@ -182,7 +200,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/news-message.png",//LEFT OFF HERE
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06highlightOkay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -201,7 +228,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/news-message.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06highlightPrint.png",
 								"width": 800,
 								"height": 450
 							}
@@ -220,7 +256,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/news-message.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchOkay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -239,7 +284,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -252,13 +297,13 @@
 						"time": "30.832",
 						"play": true
 					},
-					"caption": "'Let\u2019s look at the Home Screen, starting with the top of the screen.",
+					"caption": "'Let's look at the Home Screen, starting with the top of the screen.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -277,7 +322,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06statusBar.png",
 								"width": 800,
 								"height": 450
 							}
@@ -296,7 +350,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06pullDown.png",
 								"width": 800,
 								"height": 450
 							}
@@ -315,7 +378,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06terminalReady.png",
 								"width": 800,
 								"height": 450
 							}
@@ -334,7 +406,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06signOutHelpLock.png",
 								"width": 800,
 								"height": 450
 							}
@@ -353,7 +434,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06only1Help.png",
 								"width": 800,
 								"height": 450
 							}
@@ -372,7 +462,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchHelp.png",
 								"width": 800,
 								"height": 450
 							}
@@ -391,7 +490,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/help-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -410,7 +509,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/help-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchOkayHelp.png",
 								"width": 800,
 								"height": 450
 							}
@@ -429,7 +537,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/help-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchPrintHelp.png",
 								"width": 800,
 								"height": 450
 							}
@@ -448,7 +565,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06highlightLock.png",
 								"width": 800,
 								"height": 450
 							}
@@ -467,7 +593,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06highlightLock.png",
 								"width": 800,
 								"height": 450
 							}
@@ -486,7 +621,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -505,7 +640,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchLock.png",
 								"width": 800,
 								"height": 450
 							}
@@ -524,7 +668,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/lock-screen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -543,7 +687,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/lock-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06passNumberLock.png",
 								"width": 800,
 								"height": 450
 							}
@@ -562,7 +715,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/lock-submit.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchSubmitLock.png",
 								"width": 800,
 								"height": 450
 							}
@@ -581,7 +743,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06breadcrumb.png",
 								"width": 800,
 								"height": 450
 							}
@@ -600,7 +771,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -619,7 +790,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/coming-soon.png",
 								"width": 800,
 								"height": 450
 							}
@@ -638,7 +809,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/coming-soon.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06breadcrumbPath.png",
 								"width": 800,
 								"height": 450
 							}
@@ -657,7 +837,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -676,7 +856,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/mail-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06highlightServices.png",
 								"width": 800,
 								"height": 450
 							}
@@ -695,7 +884,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/mail-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06highlightHome.png",
 								"width": 800,
 								"height": 450
 							}
@@ -714,7 +912,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/mail-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchHome.png",
 								"width": 800,
 								"height": 450
 							}
@@ -733,7 +940,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06commActivity.png",
 								"width": 800,
 								"height": 450
 							}
@@ -752,7 +968,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06thePrinter.png",
 								"width": 800,
 								"height": 450
 							}
@@ -771,7 +996,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06deviceStatuses.png",
 								"width": 800,
 								"height": 450
 							}
@@ -790,7 +1024,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06mail.png",
 								"width": 800,
 								"height": 450
 							}
@@ -809,7 +1052,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06commPrinterMailDevice.png",
 								"width": 800,
 								"height": 450
 							}
@@ -828,7 +1080,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06printerButton.png",
 								"width": 800,
 								"height": 450
 							}
@@ -847,7 +1108,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/printer-ready.png",
 								"width": 800,
 								"height": 450
 							}
@@ -866,7 +1127,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06mailButton.png",
 								"width": 800,
 								"height": 450
 							}
@@ -885,7 +1155,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06dateTime.png",
 								"width": 800,
 								"height": 450
 							}
@@ -904,7 +1183,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06legalAge.png",
 								"width": 800,
 								"height": 450
 							}
@@ -923,7 +1211,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/06touchSignOut.png",
 								"width": 800,
 								"height": 450
 							}
@@ -942,7 +1239,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -961,7 +1258,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-homescreen.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
