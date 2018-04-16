@@ -200,7 +200,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/news-message.png",//LEFT OFF HERE
+								"url": "lessons/shared/images/news-message.png",
 								"width": 800,
 								"height": 450
 							}
@@ -209,7 +209,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/06highlightOkay.png",
+								"url": "lessons/shared/images/06touchNewsOkay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -237,7 +237,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/06highlightPrint.png",
+								"url": "lessons/shared/images/06touchNewsPrint.png",
 								"width": 800,
 								"height": 450
 							}
@@ -265,7 +265,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/06touchOkay.png",
+								"url": "lessons/shared/images/06touchNewsOkay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -818,7 +818,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/06breadcrumbPath.png",
+								"url": "lessons/shared/images/06breadcrumb.png",
 								"width": 800,
 								"height": 450
 							}
@@ -921,7 +921,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/06touchHome.png",
+								"url": "lessons/shared/images/06highlightHome.png",
 								"width": 800,
 								"height": 450
 							}
