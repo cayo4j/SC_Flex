@@ -258,7 +258,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver.When the terminal has been idle for several minutes, the screen will display a screen saver.",
+					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver.",
 					"overlays": [
 						{
 							"left": 0,
@@ -277,7 +277,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": " All you have to do is touch the right side of the screen or scan a ticket to “wake it up.”",
+					"caption": " All you have to do is touch the right side of the screen or scan a ticket to \"wake it up.\"",
 					"overlays": [
 						{
 							"left": 0,

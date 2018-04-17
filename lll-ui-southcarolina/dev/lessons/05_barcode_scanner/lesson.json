@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "External Barcode Scanner",
+			"name": "Barcode Scanner",
 			"video": {
 				"url": "lessons/shared/videos/ExternalBarcodeScanner.mp4"
 			},
@@ -15,7 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's take a closer look at the new External Barcode Scanner."
+					"caption": "Let's take a closer look at the Barcode Scanner."
 				},
 				{
 
@@ -23,7 +23,7 @@
 						"time": "3.742",
 						"play": true
 					},
-					"caption": "The Scanner sits in a cradle next to the terminal"
+					"caption": "The Barcode Scanner sits in a cradle on the side of the terminal"
 				},
 				{
 
@@ -39,18 +39,7 @@
 						"time": "8.617",
 						"play": true
 					},
-					"caption": "or removed and be used as a handheld device.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/various-barcodes.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "or removed and be used as a handheld device."
 				},
 				{
 
@@ -58,22 +47,13 @@
 						"time": "12.419",
 						"play": true
 					},
-					"caption": "This new Scanner can read 1 Dimensional and 2 Dimensional barcodes,",
+					"caption": "This new Scanner can read 1-Dimensional and 2-Dimensional barcodes,",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/various-barcodes.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/smartphone-barcode.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -96,15 +76,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/external-scanner.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -114,7 +85,7 @@
 						"time": "20.587",
 						"play": true
 					},
-					"caption": "The Scanner can be used to read both Scratchers barcodes and Draw Game ticket barcodes.",
+					"caption": "The Scanner can be used to read both Scratch Off and Draw Game ticket barcodes.",
 					"overlays": [
 						{
 							"left": 0,
@@ -133,7 +104,7 @@
 						"time": "26.336",
 						"play": true
 					},
-					"caption": "Simply hold the barcode 5 to 10 inches in front of the Scanner window and press the trigger. "
+					"caption": "Simply hold the barcode 2 to 3 inches in front of the Scanner window. "
 				},
 				{
 
@@ -158,7 +129,18 @@
 						"play": true
 					},
 					"caption": "Should you pick up the Scanner from the cradle, be sure not to shine it in your eyes or anyone else's. It is a strong light that could cause damage to a person's vision."
+				},
+				{
+
+					"videoControl" : {
+						"time": "99.41",
+						"play": true
+					},
+					"caption": "Let's move on and start looking at the terminal application."
 				}
+				
+				
+				
 ]
 },
 				{
