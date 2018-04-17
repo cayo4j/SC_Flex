@@ -16,7 +16,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "This is your Flex terminal and I’m going to show you some of its main parts. "
+					"caption": "OK, so this is the terminal and I'm going to show you some of its main parts. "
 				},
 				{
 
@@ -24,7 +24,7 @@
 						"time": "6.75",
 						"play": true
 					},
-					"caption": "On the front is the Touch Screen. "
+					"caption": "On the front is the Touch Screen where we'll see several colorful buttons. "
 				},
 				{
 
@@ -32,7 +32,7 @@
 						"time": "11.03",
 						"play": true
 					},
-					"caption": "The Touch Screen is the main point of access to all of your terminal functions."
+					"caption": "We'll focus on what's on the screen a little later."
 				},
 				{
 
@@ -40,7 +40,7 @@
 						"time": "15.53",
 						"play": true
 					},
-					"caption": "You may easily adjust the screen angle by holding the bottom of the Touch Screen and gently tilting the screen up or down to the desired height and angle."
+					"caption": "Each operator can easily adjust the screen angle for maximum comfort by holding the bottom of the Touch Screen and gently tilting the screen up or down to the desired height."
 				},
 				{
 
@@ -48,7 +48,7 @@
 						"time": "20.26",
 						"play": true
 					},
-					"caption": "Here on the bottom center of  the Touch Screen frame is one of the terminal’s two power buttons. "
+					"caption": "On the bottom of the screen centered is one of the terminal's 2 power buttons. Pressing this button powers up the terminal."
 				},
 				{
 
@@ -56,7 +56,7 @@
 						"time": "26.898",
 						"play": true
 					},
-					"caption": "Located behind the top of the Touch Screen frame is the opening for the Play Slip Reader."
+					"caption": "Located behind the top of the Touch Screen frame is the entry point for the Reader"
 				},
 				{
 
@@ -64,7 +64,7 @@
 						"time": "31.97",
 						"play": true
 					},
-					"caption": "Play Slips and Draw Game tickets are fed through here"
+					"caption": "Play slips are fed through here"
 				},
 				{
 
@@ -72,7 +72,7 @@
 						"time": "34.9",
 						"play": true
 					},
-					"caption": "and then fall into the Stacker at the bottom."
+					"caption": "and then fall into the Play slip Stacker at the bottom."
 				},
 				
 				{
@@ -81,7 +81,7 @@
 						"time": "38.28",
 						"play": true
 					},
-					"caption": "Play Slips and Draw Game tickets can be entered either vertically or horizontally with the front play area facing you. ",
+					"caption": "This device prevents play slips from falling onto the floor.",
 					"overlays": [
 						{
 							"left": 0,
@@ -100,7 +100,7 @@
 						"time": "44.57",
 						"play": true
 					},
-					"caption": "The Handheld Bar code Scanner sits in a cradle attached to the side of the terminal."
+					"caption": "Play slips can be entered either vertically or horizontally, but the play area has to be facing you. "
 				},
 				{
 
@@ -108,7 +108,7 @@
 						"time": "48.62",
 						"play": true
 					},
-					"caption": "The Bar code Scanner is used to quickly read barcodes. "
+					"caption": "We recommend entering play slips horizontally if running multiple play slips to result in better stacking in the collection tray. "
 				},
 				{
 
@@ -116,7 +116,7 @@
 						"time": "52.574",
 						"play": true
 					},
-					"caption": "On the back of the terminal there are various plugs and connections,"
+					"caption": "Sitting in a cradle attached to the side of the terminal is a handheld Barcode Scanner."
 				},
 				{
 
@@ -124,27 +124,7 @@
 						"time": "56.165",
 						"play": true
 					},
-					"caption": "as well as the terminal’s second power button. The second power button is the On/Off switch you see on the back of the terminal.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "The Barcode Scanner is used to quickly read barcodes. "
 				},
 				{
 
@@ -152,27 +132,7 @@
 						"time": "63.294",
 						"play": true
 					},
-					"caption": "Finally, we have the Flex Printer, which produces draw game tickets, receipts for various transactions, produces promotional coupons, and prints reports.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "When not in use, the Barcode Scanner light is off. "
 				},
 				{
 
@@ -180,7 +140,7 @@
 						"time": "73.335",
 						"play": true
 					},
-					"caption": "Although it is a separate piece, the Printer is an essential part of the set-up, as the terminal won’t work unless the two are connected."
+					"caption": "Any movement near the scanner activates it."
 				},
 				{
 
@@ -188,7 +148,7 @@
 						"time": "80.645",
 						"play": true
 					},
-					"caption": "To maximize your counter space, there is a shelf on the back of your terminal. ",
+					"caption": "The Barcode Scanner can be used as a hand-held device or remain in the cradle.",
 					"overlays": [
 						{
 							"left": -9999,
@@ -207,22 +167,13 @@
 						"time": "85.243",
 						"play": true
 					},
-					"caption": "This shelf is used to hold your 22\" Multimedia Monitor. ",
+					"caption": "It is also adjustable up and down and side to side. ",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/terminal-shelf.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -235,7 +186,7 @@
 						"time": "89.334",
 						"play": true
 					},
-					"caption": "Ok, let's turn on the terminal. Remember, there are two power buttons you can use.",
+					"caption": "If you pick up the Barcode Scanner, be careful not to shine it in your eyes or anyone else's.",
 					"overlays": [
 						{
 							"left": 0,
@@ -254,7 +205,7 @@
 						"time": "95.051",
 						"play": true
 					},
-					"caption": "First is the round button on the front of the terminal.",
+					"caption": "This is a very strong light that could cause damage to a person's vision.",
 					"overlays": [
 						{
 							"left": -9999,
@@ -282,7 +233,7 @@
 						"time": "97.93",
 						"play": true
 					},
-					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light above the button turns amber.",
+					"caption": "For best results, both draw game tickets and scratch ticket barcodes should be held 2 to 3 inches from the scanner.",
 					"overlays": [
 						{
 							"left": 0,
@@ -310,7 +261,7 @@
 						"time": "104.01",
 						"play": true
 					},
-					"caption": "To power the terminal back on, push it once."
+					"caption": "Around back are the various plugs and connections,"
 				},
 				{
 
@@ -318,7 +269,7 @@
 						"time": "107.62",
 						"play": true
 					},
-					"caption": "The amber light will turn green and the terminal will begin to load.."
+					"caption": "as well as the terminal's second power button."
 				},
 				{
 
@@ -326,22 +277,13 @@
 						"time": "111.89",
 						"play": true
 					},
-					"caption": "To turn the power off with the second power button, just reach around and set it to the right which is the OFF position.",
+					"caption": "Finally, we have the Printer, which produces draw game tickets, receipts for various transactions and prints reports.",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
 								"width": 800,
 								"height": 450
 							}
@@ -354,7 +296,7 @@
 						"time": "118.853",
 						"play": true
 					},
-					"caption": "To power it back on, set the switch to the left, the ON position. ",
+					"caption": "Although it is a separate piece, the Printer is an essential part of the set-up, as the terminal won't work unless the two are connected.",
 					"overlays": [
 						{
 							"left": 0,
@@ -370,24 +312,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-off.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-off-highlight.png",
 								"width": 800,
 								"height": 450
 							}
@@ -400,7 +324,7 @@
 						"time": "123.845",
 						"play": true
 					},
-					"caption": "You'll hear the terminal coming to life!",
+					"caption": "To maximize your counter space, there is a shelf on the back of your terminal. ",
 					"overlays": [
 						{
 							"left": 0,
@@ -419,9 +343,35 @@
 								"width": 800,
 								"height": 450
 							}
-						},
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "124.682",
+						"play": true
+					},
+					"caption": "This shelf will be used for your Player Information Display."
+				},
+				{
+
+					"videoControl" : {
+						"time": "125.682",
+						"play": true
+					},
+					"caption": "Your printer is also an option to be placed here if your Player Information Display is located in view of the customer."
+				},
+				{
+
+					"videoControl" : {
+						"time": "126.682",
+						"play": true
+					},
+					"caption": "All equipment is the property of the South Carolina Education Lottery and it should remain in your store where it was installed.  ",
+					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/power-btn-on.jpg",
@@ -430,7 +380,7 @@
 							}
 						},
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/power-btn-on-highlight.png",
@@ -443,10 +393,38 @@
 				{
 
 					"videoControl" : {
-						"time": "126.682",
+						"time": "127.682",
 						"play": true
 					},
-					"caption": "Now I’m going to give you a chance to see if you can identify all the parts I just showed you!",
+					"caption": "If you ever want to relocate or remove any of this equipment, contact the South Carolina Education Lottery and a technician will be sent to your store to assist you.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "130.682",
+						"play": true
+					},
+					"caption": "Now I'm going to give you a chance to see if you can identify all the parts I just showed you!",
 					"overlays": [
 						{
 							"left": 0,
