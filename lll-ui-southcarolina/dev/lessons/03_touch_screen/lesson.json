@@ -14,36 +14,14 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's start out by turning on the terminal.  There are two power buttons you can use.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-homescreen_lowres.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Let's start out by turning on the terminal.  There are two power buttons you can use."
 				},
 				{
 					"videoControl" : {
 						"time": "0.5",
 						"play": true
 					},
-					"caption": "The on/off switch is located on the back of the terminal. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "The on/off switch is located on the back of the terminal. "
 				},
 				{
 
@@ -57,7 +35,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-homescreen.jpg",
+								"url": "lessons/shared/images/terminal-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -88,18 +66,7 @@
 						"time": "19.64",
 						"play": true
 					},
-					"caption": "You can power your terminal on or off with this button.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/pens-pencils-fingernails.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "You can power your terminal on or off with this button."
 
 				},
 				{
@@ -108,18 +75,7 @@
 						"time": "26.324",
 						"play": true
 					},
-					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light turns amber.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/pens-pencils-fingernails.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light turns amber."
 				},
 				{
 
@@ -127,18 +83,7 @@
 						"time": "31.172",
 						"play": true
 					},
-					"caption": "To power the terminal back on, push it once.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/wiping-screen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "To power the terminal back on, push it once."
 
 				},
 				{
@@ -147,18 +92,7 @@
 						"time": "36.543",
 						"play": true
 					},
-					"caption": "The amber light will turn green and the terminal will begin to load.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/wiping-screen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "The amber light will turn green and the terminal will begin to load."
 				},
 				{
 
@@ -166,15 +100,7 @@
 						"time": "44.243",
 						"play": true
 					},
-					"caption": "This brings up the Welcome screen.",
-					"overlays":[
-						{
-                            "left": 450,
-                            "top": 120,
-                            "label": "Never Spray Cleaning Solution Directly Onto the Screen!",
-                            "blink": "none"
-						}						
-					]
+					"caption": "This brings up the Welcome screen."
 				},
 				{
 
@@ -182,18 +108,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "The Touch Screen here is the main point of access to your terminal functions.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "The Touch Screen here is the main point of access to your terminal functions."
 				},
 				{
 
@@ -201,18 +116,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass."
 				},
 				{
 
@@ -220,18 +124,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": " Do not use objects such as pens, pencils or long fingernails. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": " Do not use objects such as pens, pencils or long fingernails. "
 				},
 				{
 
@@ -239,18 +132,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips."
 				},
 				{
 
@@ -258,18 +140,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver."
 				},
 				{
 
@@ -277,18 +148,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": " All you have to do is touch the right side of the screen or scan a ticket to \"wake it up.\"",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": " All you have to do is touch the right side of the screen or scan a ticket to \"wake it up.\""
 				},
 				{
 
@@ -296,18 +156,7 @@
 						"time": "46.533",
 						"play": true
 					},
-					"caption": "Let's move on.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "Let's move on."
 				}
 				
 				
