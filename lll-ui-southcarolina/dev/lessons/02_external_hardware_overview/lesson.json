@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Flex Hardware",
+			"name": "External Hardware Overview",
 			"video": {
-				"url": "lessons/shared/videos/FlexHardware_WestVirginia_v2.mp4"
+				"url": "lessons/shared/videos/needVideo.mp4"
 			},
 
 				"cuepoints": [
@@ -64,7 +64,18 @@
 						"time": "31.97",
 						"play": true
 					},
-					"caption": "Play slips are fed through here"
+					"caption": "Play slips are fed through here",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -72,7 +83,18 @@
 						"time": "34.9",
 						"play": true
 					},
-					"caption": "and then fall into the Play slip Stacker at the bottom."
+					"caption": "and then fall into the Play slip Stacker at the bottom.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/playslip-stacker.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				
 				{
@@ -87,7 +109,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip.jpg",
+								"url": "lessons/shared/images/playslip-stacker.png",
 								"width": 800,
 								"height": 450
 							}
@@ -100,7 +122,18 @@
 						"time": "44.57",
 						"play": true
 					},
-					"caption": "Play slips can be entered either vertically or horizontally, but the play area has to be facing you. "
+					"caption": "Play slips can be entered either vertically or horizontally, but the play area has to be facing you. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -108,7 +141,18 @@
 						"time": "48.62",
 						"play": true
 					},
-					"caption": "We recommend entering play slips horizontally if running multiple play slips to result in better stacking in the collection tray. "
+					"caption": "We recommend entering play slips horizontally if running multiple play slips to result in better stacking in the collection tray. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-vertical.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -124,7 +168,18 @@
 						"time": "56.165",
 						"play": true
 					},
-					"caption": "The Barcode Scanner is used to quickly read barcodes. "
+					"caption": "The Barcode Scanner is used to quickly read barcodes. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -148,18 +203,7 @@
 						"time": "80.645",
 						"play": true
 					},
-					"caption": "The Barcode Scanner can be used as a hand-held device or remain in the cradle.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-shelf.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "The Barcode Scanner can be used as a hand-held device or remain in the cradle."
 				},
 				{
 
@@ -167,18 +211,7 @@
 						"time": "85.243",
 						"play": true
 					},
-					"caption": "It is also adjustable up and down and side to side. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-shelf.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "It is also adjustable up and down and side to side. "
 				},
 				{
 
@@ -186,18 +219,7 @@
 						"time": "89.334",
 						"play": true
 					},
-					"caption": "If you pick up the Barcode Scanner, be careful not to shine it in your eyes or anyone else's.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "If you pick up the Barcode Scanner, be careful not to shine it in your eyes or anyone else's."
 				},
 				{
 
@@ -205,27 +227,7 @@
 						"time": "95.051",
 						"play": true
 					},
-					"caption": "This is a very strong light that could cause damage to a person's vision.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "This is a very strong light that could cause damage to a person's vision."
 				},
 				{
 
@@ -233,27 +235,7 @@
 						"time": "97.93",
 						"play": true
 					},
-					"caption": "For best results, both draw game tickets and scratch ticket barcodes should be held 2 to 3 inches from the scanner.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "For best results, both draw game tickets and scratch ticket barcodes should be held 2 to 3 inches from the scanner."
 				},
 				{
 
@@ -277,18 +259,7 @@
 						"time": "111.89",
 						"play": true
 					},
-					"caption": "Finally, we have the Printer, which produces draw game tickets, receipts for various transactions and prints reports.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Finally, we have the Printer, which produces draw game tickets, receipts for various transactions and prints reports."
 				},
 				{
 
@@ -296,27 +267,7 @@
 						"time": "118.853",
 						"play": true
 					},
-					"caption": "Although it is a separate piece, the Printer is an essential part of the set-up, as the terminal won't work unless the two are connected.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Although it is a separate piece, the Printer is an essential part of the set-up, as the terminal won't work unless the two are connected."
 				},
 				{
 
@@ -330,16 +281,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/power-btn-off.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-off-highlight.png",
+								"url": "lessons/shared/images/terminal-back-shelf.png",
 								"width": 800,
 								"height": 450
 							}
@@ -352,7 +294,18 @@
 						"time": "124.682",
 						"play": true
 					},
-					"caption": "This shelf will be used for your Player Information Display."
+					"caption": "This shelf will be used for your Player Information Display.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -360,7 +313,18 @@
 						"time": "125.682",
 						"play": true
 					},
-					"caption": "Your printer is also an option to be placed here if your Player Information Display is located in view of the customer."
+					"caption": "Your printer is also an option to be placed here if your Player Information Display is located in view of the customer.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -368,27 +332,7 @@
 						"time": "126.682",
 						"play": true
 					},
-					"caption": "All equipment is the property of the South Carolina Education Lottery and it should remain in your store where it was installed.  ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "All equipment is the property of the South Carolina Education Lottery and it should remain in your store where it was installed.  "
 				},
 				{
 
@@ -396,27 +340,7 @@
 						"time": "127.682",
 						"play": true
 					},
-					"caption": "If you ever want to relocate or remove any of this equipment, contact the South Carolina Education Lottery and a technician will be sent to your store to assist you.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "If you ever want to relocate or remove any of this equipment, contact the South Carolina Education Lottery and a technician will be sent to your store to assist you."
 				},
 				{
 
@@ -424,28 +348,12 @@
 						"time": "130.682",
 						"play": true
 					},
-					"caption": "Now I'm going to give you a chance to see if you can identify all the parts I just showed you!",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/power-btn-on-highlight.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Now I'm going to give you a chance to see if you can identify all the parts I just showed you!"
 				}
+				
+				
+				
+				
 ]
 },
 		{
