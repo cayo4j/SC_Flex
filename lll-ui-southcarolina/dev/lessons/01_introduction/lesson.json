@@ -15,18 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Hello!  Welcome to the online retailer training for your new Flex terminal. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/va-logo-screen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "Hello!  Welcome to the online retailer training for your new Flex terminal. "
 				},
 				{
 
@@ -53,18 +42,7 @@
 						"time": "10.02",
 						"play": true
 					},
-					"caption": "We'll provide you with the opportunity to explore the terminal and practice making tickets just like you would in your store. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/terminal-only.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "We'll provide you with the opportunity to explore the terminal and practice making tickets just like you would in your store. "
 				},
 				{
 
@@ -72,18 +50,7 @@
 						"time": "16.06",
 						"play": true
 					},
-					"caption": "When you are finished with this course, you'll be able to print a Certificate of Completion.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "When you are finished with this course, you'll be able to print a Certificate of Completion."
 				},
 				{
 
@@ -100,18 +67,7 @@
 						"time": "22.25",
 						"play": true
 					},
-					"caption": "It's so easy to use you'll be comfortable with it in no time. ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/flex-terminal-peripherals.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "It's so easy to use you'll be comfortable with it in no time. "
 				},
 				{
 
@@ -119,18 +75,7 @@
 						"time": "26.01",
 						"play": true
 					},
-					"caption": "Check out some of these features.  ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/learner-center.jpg",
-								"width": 800,
-								"height": 450
-							}
-						} 
-					]
+					"caption": "Check out some of these features.  "
 				},
 				{
 
@@ -138,7 +83,18 @@
 						"time": "27.26",
 						"play": true
 					},
-					"caption": "You have a colorful Touch Screen that gives you easy access to all of your terminal functions. "
+					"caption": "You have a colorful Touch Screen that gives you easy access to all of your terminal functions. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 					
 				},
 				{
@@ -155,7 +111,18 @@
 						"time": "34.17",
 						"play": true
 					},
-					"caption": "And take a look at the Printer. It's called an AccuTherm™ Ultra Printer and it uses heat to print on special thermal paper. "
+					"caption": "And take a look at the Printer. It's called an AccuTherm™ Ultra Printer and it uses heat to print on special thermal paper. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sc-ultra-printer.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -181,6 +148,9 @@
 					},
 					"caption": "Here's your question now!"
 				}
+				
+				
+				
 ]
 },
 				    {
