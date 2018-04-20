@@ -1,10 +1,79 @@
 {
-    "title": " ",
+    "title": "Mail",
 	"activities": [
 		{
+			"type": "video",
+			"name": " and News - Exercise",
+			"label": "Multiple Choice",
+			"video": {
+				"url": "lessons/shared/html/chime.mp3"
+			},
+			"cuepoints": [
+
+				{
+					"videoControl" : {
+						"time": "0",
+						"play": true
+					},
+					"caption": " ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/jurisdiction_logo.jpg",
+								"width": 800,
+								"height": 450
+							}
+						},
+                        {
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_home_mailx.jpg",
+								"width": 800,
+								"height": 450
+							}
+                        },
+                        {
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_special_functions.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						},
+                        {
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_mail_exercise.jpg",
+								"width": 800,
+								"height": 450
+							} 
+		                   
+						},
+                        {
+							"left": -9999,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
+								"width": 800,
+								"height": 450
+							} 
+		                   
+						}
+					]
+				}
+			]
+		},
+
+		{
 			"type": "guiSimulation",
-			"name": "Printer - Exercise",
-			"label": "Now change the roll stock.  It's easy! First click the button to open the Printer.",
+			"name": " and News - Exercise",
+			"label": "mailnews",
 			
 			"cuepoints": [
 				{
@@ -13,7 +82,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ex_printer1.jpg",
+								"url": "lessons/shared/images/screen_home_mailx.jpg",
 								"width": 800,
 								"height": 450
 							},
@@ -21,60 +90,11 @@
 		                   
 						},
 						{
-							"left": 542,
-							"top": 236,
+							"left": 504,
+							"top": 258,
 							"image": {
-								"url": "lessons/shared/images/btn_open_printer.png",
-								"width": 44,
-								"height": 34
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "Now change the roll stock.  It's easy! First click the button to open the Printer.",
-                            "blink": "none"
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/ex_printer2.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},
-				{
-					"overlays": [
-						
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/ex_printer2.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 517,
-							"top": 226,
-							"image": {
-								"url": "lessons/shared/images/paper_tube_highlight.png",
-								"width": 68,
+								"url": "lessons/shared/images/btn_specialFunctions.jpg",
+								"width": 156,
 								"height": 41
 							},
                             "blink": "triple",
@@ -84,33 +104,26 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "Click the old paper roll to move it to the trash can.",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You've got mail!<br />Click the appropriate button to reach your Mail messages.</p>",
                             "blink": "none"
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/ex_printer_empty_tube.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
+                        }
 					],
 				
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					}
-				},				
+					},
+            		"pointsAvailable": 0
+				},
+				
+		
 				{
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ex_printer_empty_tube.jpg",
+								"url": "lessons/shared/images/screen_special_functions.jpg",
 								"width": 800,
 								"height": 450
 							},
@@ -118,12 +131,12 @@
 		                   
 						},
 						{
-							"left": 118,
-							"top": 224,
+							"left": 273,
+							"top": 108,
 							"image": {
-								"url": "lessons/shared/images/trash_highlight.png",
-								"width": 178,
-								"height": 175
+								"url": "lessons/shared/images/btn_MailEX.jpg",
+								"width": 123,
+								"height": 48
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -132,7 +145,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "Now touch the trash bin to clear the area for the next step.",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You've got mail!<br />Click the appropriate button to reach your Mail messages.</p>",
                             "blink": "none"
                         }
 					],
@@ -140,15 +153,135 @@
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					}
-				},			
+					},
+            		"pointsAvailable": 0
+				},
+				
+		
 				{
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/printer_rolls.jpg",
+								"url": "lessons/shared/images/screen_mail_exercise.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 193,
+							"top": 144,
+							"image": {
+								"url": "lessons/shared/images/btn_numberTwo.jpg",
+								"width": 38,
+								"height": 36
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>It looks like you have two new Mail messages.<br />Read the second mail message.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+                {
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 403,
+							"top": 238,
+							"image": {
+								"url": "lessons/shared/images/btn_mailMessage.jpg",
+								"width": 198,
+								"height": 136
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area of the screen<br />where the Mail message appears.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+                {
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 228,
+							"top": 144,
+							"image": {
+								"url": "lessons/shared/images/btn_mail_line2.jpg",
+								"width": 31,
+								"height": 36
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area that tells you<br />the message has been read.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+                {
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
 								"width": 800,
 								"height": 450
 							},
@@ -157,11 +290,11 @@
 						},
 						{
 							"left": 144,
-							"top": 103,
+							"top": 58,
 							"image": {
-								"url": "lessons/shared/images/roll_highlight.png",
-								"width": 256,
-								"height": 303
+								"url": "lessons/shared/images/btn_mail_gohome.jpg",
+								"width": 56,
+								"height": 40
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -170,269 +303,179 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "Select the paper roll which shows the correct way to load into the printer.",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Return Home</p>",
                             "blink": "none"
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer_loaded_quiz.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},				
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer_loaded_quiz.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 106,
-							"top": 327,
-							"image": {
-								"url": "lessons/shared/images/printer_option_1.png",
-								"width": 242,
-								"height": 42
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "This is a new roll.  How much paper should be left hanging<br>out of the Printer?"
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer_loaded.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},				
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer_loaded.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 397,
-							"top": 19,
-							"image": {
-								"url": "lessons/shared/images/printer_cover.png",
-								"width": 194,
-								"height": 240
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "Now click the cover to close the Printer."
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer_loaded_closed.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},				
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/printer_loaded_closed.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 196,
-							"top": 308,
-							"image": {
-								"url": "lessons/shared/images/ok_btn.png",
-								"width": 100,
-								"height": 25
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "Almost done.  Run your Printer Test."
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},				
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 7,
-							"top": 99,
-							"image": {
-								"url": "lessons/shared/images/btn_services_printer_ex.png",
-								"width": 116,
-								"height": 29
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 14,
-                            "top": 400,
-                            "label": "Almost done.  Run your Printer Test."
-                        },
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/services.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						}
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},				
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/services.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 416,
-							"top": 127,
-							"image": {
-								"url": "lessons/shared/images/btn_printer_test.png",
-								"width": 181,
-								"height": 30
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 14,
-                            "top": 400,
-                            "label": "Almost done.  Run your Printer Test."
                         }
 					],
 				
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					}
-				}				
+					},
+            		"pointsAvailable": 0
+				},
+                
+                {
+                    
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_home.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 504,
+							"top": 258,
+							"image": {
+								"url": "lessons/shared/images/btn_specialFunctions.jpg",
+								"width": 156,
+								"height": 41
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You read your News Message when you signed on,<br/>but would like to review the message.<br/>Click the button that will take you to your News Messages.</p>",
+                            "blink": "none"
+                        }
+					],
 				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+                {
+                    
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_special_functions.jpg",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 423,
+							"top": 108,
+							"image": {
+								"url": "lessons/shared/images/btn_newsk.jpg",
+								"width": 123,
+								"height": 48
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You read your News Message when you signed on,<br/>but would like to review the message.<br/>Click the button that will take you to your News Messages.</p>",
+                            "blink": "none"
+                        }
+					],
 				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+		            "pointsAvailable": 0
+				},
+               
+                {
+                    
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_news.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+						},
+						{
+							"left": 360,
+							"top": 369,
+							"image": {
+								"url": "lessons/shared/images/btn_printnews.jpg",
+								"width": 83,
+								"height": 35
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click Print.</p>",
+                            "blink": "none"
+                        }
+					],
 				
-				
-				
-				
-				
-				
-				
-				
-				]
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				}
+	]
 				
 		},
-		
+		{		
+			"type": "guiSimulation",
+			"name": "Terminal Settings and Services - Text Based Exercise",
+			"label": "Clear a jammed Play Slip in the reader. Follow each step.",
+			
+			"cuepoints": [
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/mail-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				}
+			]	
+		},
 		{
 			"type": "summary",
-			"name": "Summary"
+			"name": "Summary",
+            "isOptional": "true"
 		}
-	
-	]
+	],
+    "pointsRatio": 0
 }
+
+
+
