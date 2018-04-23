@@ -32,7 +32,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "2.15",
 						"play": true
 					},
 					"caption": "First, let's take a look at the steps you will take to receive a shipment of Instant tickets in your store."
@@ -40,7 +40,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "8.09",
 						"play": true
 					},
 					"caption": "All orders must be confirmed within 24 hours of receipt."
@@ -48,7 +48,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "11.29",
 						"play": true
 					},
 					"caption": "After confirming the order is correct, from the Home screen, touch Instant Functions.",
@@ -67,7 +67,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "17.10",
 						"play": true
 					},
 					"caption": "Next, touch Receive Shipment.",
@@ -87,7 +87,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "19.27",
 						"play": true
 					},
 					"caption": "The easiest way to confirm a delivery is to scan the Manifest barcode under the Barcode Scanner.",
@@ -106,7 +106,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "25.21",
 						"play": true
 					},
 					"caption": "Another way to receive the shipment is to enter the Order Detail number manually and touch Send.",
@@ -125,7 +125,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "31.17",
 						"play": true
 					},
 					"caption": "I'll scan the Manifest barcode",
@@ -144,7 +144,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "33.17",
 						"play": true
 					},
 					"caption": "and a confirmation receipt prints",
@@ -163,7 +163,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "35.18",
 						"play": true
 					},
 					"caption": "and the message, Instant Inventory Transaction Successful, displays in the status bar.",
@@ -182,7 +182,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "41.03",
 						"play": true
 					},
 					"caption": "Now the packs are ready to be activated by the retailer location manager. "
@@ -190,7 +190,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "45.23",
 						"play": true
 					},
 					"caption": "Managers will have an option called Activate Pack."
@@ -198,7 +198,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "49.04",
 						"play": true
 					},
 					"caption": "To activate, the manager scans a ticket from the pack"
@@ -206,7 +206,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "52.11",
 						"play": true
 					},
 					"caption": "or manually enters the game and pack numbers and touches Send."
@@ -214,7 +214,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "56.22",
 						"play": true
 					},
 					"caption": "An activation confirmation receipt prints and the pack is activated."
@@ -222,7 +222,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "60.26",
 						"play": true
 					},
 					"caption": "If the game has ended, the pack will fail to activate. A Stop Sign will appear indicating the pack cannot be activated."
@@ -230,7 +230,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "67.16",
 						"play": true
 					},
 					"caption": "Back on the Instant Functions menu,",
@@ -249,7 +249,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "69.20",
 						"play": true
 					},
 					"caption": "you'll notice that here you can access Instant ticket reports.",
@@ -268,7 +268,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "73.13",
 						"play": true
 					},
 					"caption": "The first reports are the Instant Inventory Detail Report and the Instant Inventory Summary Report.",
@@ -287,7 +287,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "79.25",
 						"play": true
 					},
 					"caption": "These reports list details of the games that are in your store's inventory for the current invoice period, and the number of packs that are In-Transit, Received, Activated and Settled.",
@@ -306,7 +306,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "90.23",
 						"play": true
 					},
 					"caption": "Let's look at the Instant Inventory Detail Report",
@@ -325,7 +325,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "93.15",
 						"play": true
 					},
 					"caption": "I'll touch Instant Inventory Detail Report",
@@ -344,7 +344,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "96.15",
 						"play": true
 					},
 					"caption": "and the report displays.",
@@ -363,7 +363,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "98.08",
 						"play": true
 					},
 					"caption": "Like online reports, instant reports can be printed using the Print button here.",
@@ -382,7 +382,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "103.05",
 						"play": true
 					},
 					"caption": "I'll touch Instant Reports here to go back to the reports menu.",
@@ -401,7 +401,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "107.03",
 						"play": true
 					},
 					"caption": "The next two reports are the Pack(s) Settlements Report and the Pack(s) Activations Report.",
@@ -420,7 +420,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "112.14",
 						"play": true
 					},
 					"caption": "The Pack(s) Settlements report displays a list of settled packs from your location,",
@@ -439,7 +439,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "117.04",
 						"play": true
 					},
 					"caption": "and the Pack(s) Activations report displays a list of activated packs in your location.",
@@ -458,7 +458,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "122.06",
 						"play": true
 					},
 					"caption": "I'll touch Pack(s) Settlements Report",
@@ -477,7 +477,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "124.21",
 						"play": true
 					},
 					"caption": "and here I select the timeframe for which I want the report.",
@@ -496,7 +496,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "127.26",
 						"play": true
 					},
 					"caption": "I'll touch Today",
@@ -515,7 +515,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "129.15",
 						"play": true
 					},
 					"caption": "and the report displays.",
@@ -534,7 +534,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "131.04",
 						"play": true
 					},
 					"caption": "I'll return to the Reports menu.",
@@ -553,7 +553,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "133.04",
 						"play": true
 					},
 					"caption": "The Returns Report lists any Ticket Pack(s) that have been returned to the Lottery.",
@@ -572,7 +572,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "137.14",
 						"play": true
 					},
 					"caption": "Top 24 Instant Games Sales Report displays the top 24 Instant Game sales statewide in descending order by amount.",
@@ -591,7 +591,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "145.22",
 						"play": true
 					},
 					"caption": "The Top Prizes Remaining Report lists Instant Games with the number of top prizes remaining, sorted by price point from highest to lowest, then by game number ascending.",
@@ -610,7 +610,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "155.24",
 						"play": true
 					},
 					"caption": "Last Day to Sell Report shows data for the previous and upcoming 30 days, listing active games and the last day to sell those games.",
@@ -629,7 +629,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "164.04",
 						"play": true
 					},
 					"caption": "I'll touch Last Day to Sell Report",
@@ -648,7 +648,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "166.17",
 						"play": true
 					},
 					"caption": "and the report displays.",
@@ -667,7 +667,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "168.11",
 						"play": true
 					},
 					"caption": "I'll go back to the Reports menu to look at the remaining reports.",
@@ -686,7 +686,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "172.09",
 						"play": true
 					},
 					"caption": "The Order Details Report allows you to scan or enter a Ticket Order Number and displays information on that order. ",
@@ -705,7 +705,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "179.11",
 						"play": true
 					},
 					"caption": "This report details the dates the order was placed, packed, shipped and delivered, or the date of the estimated delivery by game number and name and quantity.",
@@ -724,7 +724,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "190.05",
 						"play": true
 					},
 					"caption": "The Order Status Report displays current orders, the date the orders were placed and estimated delivery. Orders fall off this report as soon as they have been Received or marked Missing.",
@@ -743,7 +743,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "200.14",
 						"play": true
 					},
 					"caption": "And finally, the Games Available for Order Report provides a list of games that can be ordered, and the number of ticket packs for each that are In-Transit, Received and Activated.",
@@ -762,7 +762,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "210.19",
 						"play": true
 					},
 					"caption": "That wraps up Instant Functions."
