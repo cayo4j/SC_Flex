@@ -10,14 +10,7 @@
 
 				"cuepoints": [
 
-				{
 
-					"videoControl" : {
-						"time": "-1",
-						"play": true
-					},
-					"caption": "on"
-				},
 				{
 
 					"videoControl" : {
