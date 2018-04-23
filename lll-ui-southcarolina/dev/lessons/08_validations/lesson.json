@@ -29,18 +29,40 @@
 				{
 
 					"videoControl" : {
-						"time": "4.789",
+						"time": "4.20",
 						"play": true
 					},
-					"caption": "You can use the Online Validation and Instant Validation buttons here to perform validations for Draw Game and Instant tickets."
+					"caption": "You can use the Online Validation and Instant Validation buttons here to perform validations for Draw Game and Instant tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "13.202",
+						"time": "13.03",
 						"play": true
 					},
-					"caption": "Draw Game tickets and Instant tickets are read using the Barcode Scanner. "
+					"caption": "Draw Game tickets and Instant tickets are read using the Barcode Scanner. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/barcode-scanner.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -56,7 +78,18 @@
 						"time": "20.127",
 						"play": true
 					},
-					"caption": "I'll touch Online Validation"
+					"caption": "I'll touch Online Validation",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -64,7 +97,18 @@
 						"time": "22.508",
 						"play": true
 					},
-					"caption": "and scan the ticket barcode using the scanner."
+					"caption": "and scan the ticket barcode using the scanner.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -72,7 +116,18 @@
 						"time": "25.49",
 						"play": true
 					},
-					"caption": "If needed, you could also manually enter the ticket serial number using the numeric keypad."
+					"caption": "If needed, you could also manually enter the ticket serial number using the numeric keypad.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/online-validation.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -80,7 +135,18 @@
 						"time": "30.724",
 						"play": true
 					},
-					"caption": "When a ticket can be validated and is for a prize amount of $20 to $500, a Confirmation screen will display the amount asking if you are able to pay the prize."
+					"caption": "When a ticket can be validated and is for a prize amount of $20 to $500, a Confirmation screen will display the amount asking if you are able to pay the prize.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validation-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -96,7 +162,18 @@
 						"time": "46.517",
 						"play": true
 					},
-					"caption": "If you are able to pay the player, touch Yes to validate the ticket and pay the player."
+					"caption": "If you are able to pay the player, touch Yes to validate the ticket and pay the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validation-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -104,7 +181,18 @@
 						"time": "51.598",
 						"play": true
 					},
-					"caption": "If the player declines the method of payment, touch No and return the ticket to the player."
+					"caption": "If the player declines the method of payment, touch No and return the ticket to the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validation-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -112,7 +200,18 @@
 						"time": "56.707",
 						"play": true
 					},
-					"caption": "I'll touch Yes."
+					"caption": "I'll touch Yes.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validation-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -120,7 +219,18 @@
 						"time": "58.287",
 						"play": true
 					},
-					"caption": "a validation confirmation screen displays and a receipt prints."
+					"caption": "a validation confirmation screen displays and a receipt prints.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validation-confirmation.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -128,7 +238,18 @@
 						"time": "61.982",
 						"play": true
 					},
-					"caption": "I'll touch OK"
+					"caption": "I'll touch OK",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validation-confirmation.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -136,7 +257,18 @@
 						"time": "63.748",
 						"play": true
 					},
-					"caption": "and am returned to the Online Validation screen where I could validate another ticket if needed. I don't need to, so I'll touch Home"
+					"caption": "and am returned to the Online Validation screen where I could validate another ticket if needed. I don't need to, so I'll touch Home",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/online-validation-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -144,7 +276,18 @@
 						"time": "71.582",
 						"play": true
 					},
-					"caption": "to return to the Home screen."
+					"caption": "to return to the Home screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/online-validation-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -152,7 +295,18 @@
 						"time": "73.393",
 						"play": true
 					},
-					"caption": "Now, let's look at validating an Instant ticket."
+					"caption": "Now, let's look at validating an Instant ticket.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -160,7 +314,18 @@
 						"time": "76.642",
 						"play": true
 					},
-					"caption": "For Instant tickets, touch Instant Validation."
+					"caption": "For Instant tickets, touch Instant Validation.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -168,7 +333,18 @@
 						"time": "79.542",
 						"play": true
 					},
-					"caption": "Here you can use the Barcode Scanner "
+					"caption": "Here you can use the Barcode Scanner ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-instant-tkt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -176,7 +352,18 @@
 						"time": "82.152",
 						"play": true
 					},
-					"caption": "or you could manually enter the Ticket Number, Serial Number and Security Number and touch Send."
+					"caption": "or you could manually enter the Ticket Number, Serial Number and Security Number and touch Send.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-validation.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -184,7 +371,18 @@
 						"time": "88.726",
 						"play": true
 					},
-					"caption": "Never insert Instant tickets into the Reader at the top of the terminal as it will damage the Reader lens!"
+					"caption": "Never insert Instant tickets into the Reader at the top of the terminal as it will damage the Reader lens!",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/insert-scratch-reader-no.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -192,7 +390,18 @@
 						"time": "94.515",
 						"play": true
 					},
-					"caption": "I'll scan the barcode tag using the Barcode Scanner"
+					"caption": "I'll scan the barcode tag using the Barcode Scanner",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-instant-tkt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -216,7 +425,18 @@
 						"time": "103.359",
 						"play": true
 					},
-					"caption": "and I am returned to the Instant Validation screen."
+					"caption": "and I am returned to the Instant Validation screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-validation.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 

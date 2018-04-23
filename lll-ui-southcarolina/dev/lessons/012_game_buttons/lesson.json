@@ -16,56 +16,1394 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Well, that's it!"
+					"caption": "Ok, now let's look at this area of the screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "2.03",
+						"time": "3.03",
 						"play": true
 					},
-					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+					"caption": "These are the Game Buttons used for generating tickets.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "7.08",
+						"time": "6.04",
 						"play": true
 					},
-					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
+					"caption": "You can generate Quick Picks right from the Home Screen using these Quick Pick buttons,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "12",
+						"time": "10.16",
 						"play": true
 					},
-					"caption": "To receive your certificate, just answer the questions on the following screens."
+					"caption": "or use these Game Buttons to manually enter a wager. We will look at that in detail in a moment.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "16.96",
+						"time": "16.15",
 						"play": true
 					},
-					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
+					"caption": "You can also produce tickets using completed Play Slips.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/playslip-filled.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "22.14",
+						"time": "19.17",
 						"play": true
 					},
-					"caption": "Once you have your certificate, you'll be on your way."
-
+					"caption": "When the customer brings you a completed Play Slip you simply insert it into the Play Slip Reader.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-horizontal.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "25.02",
+						"time": "24.12",
 						"play": true
 					},
-					"caption": "Good Luck!"
+					"caption": "Play Slips are inserted so the front of the Play Slip is facing you, and it can be inserted either horizontally",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-horizontal.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "30.15",
+						"play": true
+					},
+					"caption": "or vertically.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/inserting-playslip-horizontal.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "31.23",
+						"play": true
+					},
+					"caption": "Let's take a look at manually entering wagers.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "34.13",
+						"play": true
+					},
+					"caption": "I'll use Powerball as an example.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "36.23",
+						"play": true
+					},
+					"caption": "I'll touch Powerball.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "38.16",
+						"play": true
+					},
+					"caption": "and the Powerball options screen displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "41.06",
+						"play": true
+					},
+					"caption": "All of the default wager options, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "43.06",
+						"play": true
+					},
+					"caption": "such as 1 Play Per Draw,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "45.21",
+						"play": true
+					},
+					"caption": "1 Draw,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "47.00",
+						"play": true
+					},
+					"caption": "No Power Play,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "48.15",
+						"play": true
+					},
+					"caption": "and 1 Play per Ticket are orange indicating they are selected.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.07",
+						"play": true
+					},
+					"caption": "Changing wager options is easy.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.08",
+						"play": true
+					},
+					"caption": "Let's say this player wants 3 draws.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "55.13",
+						"play": true
+					},
+					"caption": "Simply touch 3 from the Draws options,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "57.29",
+						"play": true
+					},
+					"caption": "and 3 draws are now selected.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "61.01",
+						"play": true
+					},
+					"caption": "All wager options are selected on this one screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "63.06",
+						"play": true
+					},
+					"caption": "To manually enter a player's numbers, touch Choose Numbers here,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "66.13",
+						"play": true
+					},
+					"caption": "or touch Quick Pick.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "71.03",
+						"play": true
+					},
+					"caption": "If I touch Choose Numbers,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-options-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "73",
+						"play": true
+					},
+					"caption": "the Manual Entry screen displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "75",
+						"play": true
+					},
+					"caption": "From here I can enter the player's numbers, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "77.05",
+						"play": true
+					},
+					"caption": "or I can still choose Quick Pick.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "79.23",
+						"play": true
+					},
+					"caption": "Numbers turn orange when selected,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws-qp.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "82.12",
+						"play": true
+					},
+					"caption": "even the Power Ball.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws-qp.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "84.26",
+						"play": true
+					},
+					"caption": "One more thing I should point out are the Game Tabs on the top of the screen here.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws-qp.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "86.13",
+						"play": true
+					},
+					"caption": "You can use these to toggle between Games.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws-qp.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "90.23",
+						"play": true
+					},
+					"caption": "When I've finished entering the customer's numbers, I'll touch Send.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-3draws-qp.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "93.09",
+						"play": true
+					},
+					"caption": "I am asked if the customer would like to add Power Play. I'll touch No.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-powerplay-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "97.02",
+						"play": true
+					},
+					"caption": "The ticket cost is shown here in the Mini Display.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "101.11",
+						"play": true
+					},
+					"caption": "From here I can touch Total to total out the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-manual-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "104.23",
+						"play": true
+					},
+					"caption": "Now I can enter the cash the customer gave me. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "108.12",
+						"play": true
+					},
+					"caption": "The customer gave me a $10.00 bill, so I'll touch 1 ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "111.12",
+						"play": true
+					},
+					"caption": "",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "172.28",
+						"play": true
+					},
+					"caption": "",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total-1.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "115.10",
+						"play": true
+					},
+					"caption": "",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total-10.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "116.10",
+						"play": true
+					},
+					"caption": "",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total-100.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "117.08",
+						"play": true
+					},
+					"caption": "and then touch Total.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total-1000.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "118.05",
+						"play": true
+					},
+					"caption": "The Change Due to the player is displayed here.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total-change.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "119.20",
+						"play": true
+					},
+					"caption": "Now, I'll touch Clear ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball-total-change.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.08",
+						"play": true
+					},
+					"caption": "and I'm returned to the Home screen where I'm ready for my next transaction.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "124.14",
+						"play": true
+					},
+					"caption": "It’s important to Clear out the current customer ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "128.10",
+						"play": true
+					},
+					"caption": "before moving forward with the next customer. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "132.14",
+						"play": true
+					},
+					"caption": "Easy right? ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "133.23",
+						"play": true
+					},
+					"caption": "Next, let's place a wager using the Quick Pick buttons for Palmetto Cash 5.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "138.04",
+						"play": true
+					},
+					"caption": "This customer asks for a Palmetto Cash 5 $1 QP, so I touch $1 QP here ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "145.05",
+						"play": true
+					},
+					"caption": "and the screen prompts me to ask the customer if they would like to add Power-Up.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "149.10",
+						"play": true
+					},
+					"caption": "The customer would like to add Power-Up, so I'll touch Yes",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-powerUp-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "153.14",
+						"play": true
+					},
+					"caption": "and notice here that the cost of the Power-Up option has been added to the cost of the ticket.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "158.13",
+						"play": true
+					},
+					"caption": "I'll touch Total",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "160.00",
+						"play": true
+					},
+					"caption": "and here I enter the amount of cash the customer gave me, in this case a $20 bill.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "164.29",
+						"play": true
+					},
+					"caption": "If I make an entry mistake, I would just touch CLEAR here",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "168.29",
+						"play": true
+					},
+					"caption": "or use the back arrow button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "171.13",
+						"play": true
+					},
+					"caption": "I touch Total again,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "172.28",
+						"play": true
+					},
+					"caption": "and notice that the Change Due to the customer shows here.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "175.23",
+						"play": true
+					},
+					"caption": "I may print a receipt for the customer showing cash and change given by touching the Print button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "181.12",
+						"play": true
+					},
+					"caption": "Otherwise, I just touch Clear and I'm returned to the Home screen where I'm ready for my next customer.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "187.11",
+						"play": true
+					},
+					"caption": "Next, I'm placing a wager using a Play Slip for Pick 3. I just insert it into the Play Slip Reader,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "193.17",
+						"play": true
+					},
+					"caption": "and complete the transaction by Totaling the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pick3-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "196.20",
+						"play": true
+					},
+					"caption": "Play It Again is an easy feature, where you can place a wager for a player ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "204.05",
+						"play": true
+					},
+					"caption": "using the same options from a previously generated ticket. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "206.04",
+						"play": true
+					},
+					"caption": "Touch Play It Again ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "207.26",
+						"play": true
+					},
+					"caption": "and scan a ticket barcode ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/play-it-again.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "211.11",
+						"play": true
+					},
+					"caption": "or manually enter the barcode on the original ticket. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/play-it-again.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "212.27",
+						"play": true
+					},
+					"caption": "I'll scan a ticket ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/play-it-again.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "214.07",
+						"play": true
+					},
+					"caption": "and touch Submit ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/play-it-again.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "214.07",
+						"play": true
+					},
+					"caption": "and the ticket prints. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "215.24",
+						"play": true
+					},
+					"caption": "Complete the transaction by Totaling the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "218.14",
+						"play": true
+					},
+					"caption": "Now I'll give you the chance to place a wager using the game buttons we just reviewed."
 				}
 				]
 },
