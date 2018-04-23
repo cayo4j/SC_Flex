@@ -16,56 +16,133 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Well, that's it!"
+					"caption": "Well, that's it!",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/SC-logoscreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "2.03",
+						"time": "1.12",
 						"play": true
 					},
-					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+					"caption": "We went over all of the pieces of your Flex terminal and your new terminal application.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "7.08",
+						"time": "5.17",
 						"play": true
 					},
-					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
+					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "12",
+						"time": "9.26",
 						"play": true
 					},
-					"caption": "To receive your certificate, just answer the questions on the following screens."
+					"caption": "To receive your certificate, just answer the questions on the following screens.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "16.96",
+						"time": "14.04",
 						"play": true
 					},
-					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
+					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "22.14",
+						"time": "19.29",
 						"play": true
 					},
-					"caption": "Once you have your certificate, you'll be on your way."
+					"caption": "Once you have your certificate, you'll be on your way.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 
 				},
 				{
 
 					"videoControl" : {
-						"time": "25.02",
+						"time": "22.24",
 						"play": true
 					},
-					"caption": "Good Luck!"
+					"caption": "Good Luck!",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/SC-logoscreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				}
 				]
 },
