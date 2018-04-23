@@ -16,12 +16,23 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's review the terminal Cancellation and Reprint functions."
+					"caption": "Let's review the terminal Cancellation and Reprint functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "3.24",
 						"play": true
 					},
 					"caption": "Some draw game tickets may be cancelled according to game rules. Let's review how to cancel a ticket now."
@@ -29,112 +40,255 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "9.21",
 						"play": true
 					},
-					"caption": "From the Home Screen, I'll touch Cancel Online."
+					"caption": "From the Home Screen, I'll touch Cancel Online.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "12.29",
 						"play": true
 					},
-					"caption": "Here I can scan the ticket barcode or "
+					"caption": "Here I can scan the ticket barcode",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-online.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "15.10",
 						"play": true
 					},
-					"caption": "or enter the ticket serial number manually"
+					"caption": "or enter the ticket serial number manually",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-online.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "18.08",
 						"play": true
 					},
-					"caption": "and touch Submit."
+					"caption": "and touch Submit.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-online.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "19.17",
 						"play": true
 					},
-					"caption": "I'll scan the ticket barcode."
+					"caption": "I'll scan the ticket barcode.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "21.10",
 						"play": true
 					},
-					"caption": "A Confirmation window displays the ticket serial number and the ticket amount."
+					"caption": "A Confirmation window displays the ticket serial number and the ticket amount.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-confirmation.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "25.17",
 						"play": true
 					},
-					"caption": "I'll confirm the information is correct and touch OK."
+					"caption": "I'll confirm the information is correct and touch OK.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-confirmation.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "28.25",
 						"play": true
 					},
-					"caption": "The Mini Display in the lower right of the screen shows the amount to be refunded to the player."
+					"caption": "The Mini Display in the lower right of the screen shows the amount to be refunded to the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-online-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "33.21",
 						"play": true
 					},
-					"caption": "I'll touch Total"
+					"caption": "I'll touch Total",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-online-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "35.07",
 						"play": true
 					},
-					"caption": "and the Total Screen displays the amount to refund to the player."
+					"caption": "and the Total Screen displays the amount to refund to the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-online-total.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "38.08",
 						"play": true
 					},
-					"caption": "A Cancel receipt will print."
+					"caption": "A Cancel receipt will print.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-receipt.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "40.02",
 						"play": true
 					},
-					"caption": "I'll touch Clear to return to the Home Screen."
+					"caption": "I'll touch Clear to return to the Home Screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cancel-total.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "42.18",
 						"play": true
 					},
-					"caption": "Now let's look at Reprints."
+					"caption": "Now let's look at Reprints.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "44.25",
 						"play": true
 					},
 					"caption": "You may also run into a situation where you need to reprint a ticket that has torn, mis-printed, or been damaged in some way when printing."
@@ -142,7 +296,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "53.09",
 						"play": true
 					},
 					"caption": "Reprints are receipts for recent terminal transactions that may be needed for in-store accounting."
@@ -150,10 +304,21 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "58.03",
 						"play": true
 					},
-					"caption": "Reprints are not valid tickets and are clearly marked."
+					"caption": "Reprints are not valid tickets and are clearly marked.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reprint-receipt.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -161,7 +326,18 @@
 						"time": " ",
 						"play": true
 					},
-					"caption": "Touching the Reprints button"
+					"caption": "Touching the Reprints button",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -169,7 +345,18 @@
 						"time": " ",
 						"play": true
 					},
-					"caption": "displays the Reprints sub-menu."
+					"caption": "displays the Reprints sub-menu.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -177,7 +364,18 @@
 						"time": " ",
 						"play": true
 					},
-					"caption": "There are several reprint options you can choose from."
+					"caption": "There are several reprint options you can choose from.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -193,7 +391,18 @@
 						"time": " ",
 						"play": true
 					},
-					"caption": "Last Play is used to print a receipt for the last draw game wager."
+					"caption": "Last Play is used to print a receipt for the last Draw Game wager.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -201,7 +410,18 @@
 						"time": " ",
 						"play": true
 					},
-					"caption": "Last Online Cash and Last Instant Game Cash are used to print a receipt for the last validation for each game type."
+					"caption": "Last Online Cash and Last Instant Game Cash are used to print a receipt for the last validation for each game type.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -209,7 +429,18 @@
 						"time": " ",
 						"play": true
 					},
-					"caption": "And finally Last Cancellation prints a receipt for the last cancellation."
+					"caption": "And finally Last Cancellation prints a receipt for the last cancellation.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
