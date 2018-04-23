@@ -75,7 +75,18 @@
 						"time": "26.01",
 						"play": true
 					},
-					"caption": "Check out some of these features.  "
+					"caption": "Check out some of these features.  ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 

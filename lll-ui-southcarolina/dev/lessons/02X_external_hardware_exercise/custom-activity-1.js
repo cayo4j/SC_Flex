@@ -213,7 +213,7 @@ function loadImages(){
                 case 6:
 				swal({title:"This is a close-up of the back of the terminal with the cover off.  Click the second Power Button.", type: "info", text:""});
 					 console.log ('\n\n\n****\nNEW SCREEN jQuery\n****\n\n\n');
-				     $('.photo').css({'background': 'url(lessons/shared/images/back_of_terminal.jpg) no-repeat'});
+				     $('.photo').css({'background': 'url(lessons/shared/images/back_of_terminal.png) no-repeat'});
 				     $('.photo').css({'background-size': '100%'});
 					 $('#leftArrowHolder').hide();
 					 $('#rightArrowHolder').hide();
