@@ -1,4 +1,4 @@
-@activeWorkspaceHeight: 450px;
+@activeWorkspaceHeight: 100vh;
 @activityBackgroundColor: white;
 @frameBackgroundColor: #009bde;
 @cuepointCaptionBackgroundColor: #004A97;
@@ -40,7 +40,7 @@
         /*border: solid @frameBackgroundColor 1px;*/
         margin: 0;
         vertical-align: middle;
-        text-align: center;
+        text-align: left;
 		/*sidebars*/
         background-color: white;
     }
@@ -102,8 +102,10 @@
     .cuepoint-overlay-label {
         padding: 10px 20px;
         font-size: 14px;
-        background-color: #E5F1F9;
-        border: solid 2px #004A97;
+		font-weight: 800;
+		background-color: #E5F1F9;
+		border: solid 4px #ff0000;
+		color: #000;
         color: @cuepointOverlayTextColor;
         border-radius: 3px;
     }
@@ -162,7 +164,7 @@
 		position: absolute;
 		background-image: url("../lessons/shared/images/html5-button.png");
 		border:hidden;
-		left: 46%;
+		left: 52%;
 		top:6px;
 		height: 28px;
 		width: 50px;
@@ -172,7 +174,7 @@
 		position: absolute;
 		background-image: url("../lessons/shared/images/html5-button.png");
 		border:hidden;
-		left: 46%;
+		left: 52%;
 		top:6px;
 		height: 28px;
 		width: 50px;
@@ -183,7 +185,7 @@
 		background-image: url("../lessons/shared/images/html5-button.png") !important;
 		border:hidden !important;
 		top:6px;
-		left: 52%;
+		left: 42%;
 		height:28px;
 		width:50px !important;
 	}
