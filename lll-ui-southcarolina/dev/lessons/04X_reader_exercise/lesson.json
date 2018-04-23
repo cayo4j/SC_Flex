@@ -32,7 +32,7 @@
 		},
 		
 		{
-			"type": "multipleChoice",
+			"type": "singleChoice",
 			"name": "Play Slip Reader - Exercise",
 			"label": "True or False: Play Slips must be inserted into the Play Slip Reader vertically.",
 			"options": [
@@ -57,180 +57,34 @@
 			}
 		},
 		{
-			"type": "guiSimulation",
+			"type": "singleChoice",
 			"name": "Play Slip Reader - Exercise",
-			"label": "Clear a jammed play slip in the reader. Follow each step.",
-			
-			"cuepoints": [
+			"label": "True or False: Instant tickets should never be inserted into the Play Slip Reader.",
+			"options": [
 				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-01.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 412,
-							"top": 114,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-01-btn.png",
-								"width": 104,
-								"height": 77
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "Press the Release Button.",
-                            "blink": "once"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
+					"label": "True",
+					"isCorrect": true
 				},
-				
-		
 				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-02.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 340,
-							"top": 200,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-02-btn.png",
-								"width": 127,
-								"height": 129
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "Now press the green down arrow button.",
-                            "blink": "once"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},
-				
-		
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-03.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 354,
-							"top": 207,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-03-btn.png",
-								"width": 116,
-								"height": 240
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "Click the jammed Play Slip to remove it.",
-                            "blink": "once"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},
-				
-		
-
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-04.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 0,
-							"top": 103,
-							"image": {
-								"url": "lessons/shared/images/reader-exercise-04-btn.png",
-								"width": 342,
-								"height": 347
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "Nice Work! Close the Reader doors to complete this exercise.",
-                            "blink": "once"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
+					"label": "False",
+					"isCorrect": false
 				}
-	]
-				
+			],
+			"feedback": {
+				"valid": {
+					"label": " Right! ",
+					"text": "Instant tickets should never be inserted into the reader."
+				},
+				"invalid": {
+					"label": "Sorry,",
+					"text": "the correct answer is True. Instant tickets should never be inserted into the Play Slip Reader."
+				}
+			}
 		},
 		{
 			"type": "summary",
-			"name": "Summary",
-			"isOptional": true
+			"name": "Summary"
 		}
 	]
 }
-
-
 
