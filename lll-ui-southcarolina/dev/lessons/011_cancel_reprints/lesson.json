@@ -323,7 +323,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "61.15",
 						"play": true
 					},
 					"caption": "Touching the Reprints button",
@@ -342,7 +342,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "63.10",
 						"play": true
 					},
 					"caption": "displays the Reprints sub-menu.",
@@ -361,7 +361,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "65.09",
 						"play": true
 					},
 					"caption": "There are several reprint options you can choose from.",
@@ -380,7 +380,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "68.02",
 						"play": true
 					},
 					"caption": "Last Transaction lets you print a receipt for the most recent transaction processed by the terminal."
@@ -388,7 +388,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "73.16",
 						"play": true
 					},
 					"caption": "Last Play is used to print a receipt for the last Draw Game wager.",
@@ -407,7 +407,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "77",
 						"play": true
 					},
 					"caption": "Last Online Cash and Last Instant Game Cash are used to print a receipt for the last validation for each game type.",
@@ -426,7 +426,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "0",
 						"play": true
 					},
 					"caption": "And finally Last Cancellation prints a receipt for the last cancellation.",
@@ -445,7 +445,7 @@
 				{
 
 					"videoControl" : {
-						"time": " ",
+						"time": "0",
 						"play": true
 					},
 					"caption": "Let's move on!"
