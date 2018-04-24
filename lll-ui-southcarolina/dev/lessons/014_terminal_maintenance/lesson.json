@@ -16,56 +16,409 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Well, that's it!"
+					"caption": "Now let’s talk about maintaining your equipment."
 				},
 				{
 
 					"videoControl" : {
-						"time": "2.03",
+						"time": "2.24",
 						"play": true
 					},
-					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+					"caption": "It’s a good idea to keep a soft, lint-free cloth on hand for cleaning. "
 				},
 				{
 
 					"videoControl" : {
-						"time": "7.08",
+						"time": "7.06",
 						"play": true
 					},
-					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
+					"caption": "You should also have some cleaning solution that is ammonia and vinegar-free."
 				},
 				{
 
 					"videoControl" : {
-						"time": "12",
+						"time": "11.11",
 						"play": true
 					},
-					"caption": "To receive your certificate, just answer the questions on the following screens."
+					"caption": "91 percent isopropyl alcohol wipes are useful."
 				},
 				{
 
 					"videoControl" : {
-						"time": "16.96",
+						"time": "14.18",
 						"play": true
 					},
-					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
+					"caption": "You can pick these up at any drug store. "
 				},
 				{
 
 					"videoControl" : {
-						"time": "22.14",
+						"time": "17.03",
 						"play": true
 					},
-					"caption": "Once you have your certificate, you'll be on your way."
-
+					"caption": "Before cleaning your Terminal, you must touch the Lock button to avoid placing wagers by accident. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "25.02",
+						"time": "22.08",
 						"play": true
 					},
-					"caption": "Good Luck!"
+					"caption": "The cleaning process for the Touch Screen, Barcode Scanner, Play Slip Reader, and Ticket Checker is the same. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "28.19",
+						"play": true
+					},
+					"caption": "Use either the alcohol wipes or the cleaning solution and a soft, lint-free cloth. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "34.01",
+						"play": true
+					},
+					"caption": "Lightly spray the cloth ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/wiping-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "35.16",
+						"play": true
+					},
+					"caption": "and gently wipe down the equipment.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/wiping-screen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "37.14",
+						"play": true
+					},
+					"caption": "Never spray cleaning solution directly onto any of the equipment."
+				},
+				{
+
+					"videoControl" : {
+						"time": "40.28",
+						"play": true
+					},
+					"caption": "For the Play Slip Reader pay close attention to the white strip located behind the Touch Screen. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.06",
+						"play": true
+					},
+					"caption": "This is the area that reads the Play Slips and should be kept free of dust and debris."
+				},
+				{
+
+					"videoControl" : {
+						"time": "51.09",
+						"play": true
+					},
+					"caption": "Now when it comes to the Printer, it is recommended to use the alcohol wipes. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "55.07",
+						"play": true
+					},
+					"caption": "Due to the high gloss on the paper, residue can be left behind on the Print Head. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "59.13",
+						"play": true
+					},
+					"caption": "Over time, this residue could affect the print quality, possibly causing issues such as streaks on the tickets. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "65.29",
+						"play": true
+					},
+					"caption": "The Print Head is located inside the front of the Printer below the two white rollers. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "70.11",
+						"play": true
+					},
+					"caption": "From time to time, make sure you wipe down both the Print Head and the paper path with an alcohol wipe."
+				},
+				{
+
+					"videoControl" : {
+						"time": "76.00",
+						"play": true
+					},
+					"caption": "If you have questions about cleaning your lottery equipment, ask your lottery representative."
+				},
+				{
+
+					"videoControl" : {
+						"time": "80.22",
+						"play": true
+					},
+					"caption": "That's all there is to it."
+				},
+				{
+
+					"videoControl" : {
+						"time": "82.11",
+						"play": true
+					},
+					"caption": "Another maintenance activity you'll be doing on a regular basis is changing the paper in the Printer."
+				},
+				{
+
+					"videoControl" : {
+						"time": "87.16",
+						"play": true
+					},
+					"caption": "The terminal will display PAPER LOW when the Printer detects the paper is getting low."
+				},
+				{
+
+					"videoControl" : {
+						"time": "92.19",
+						"play": true
+					},
+					"caption": "You should change the paper as soon as possible after the message appears."
+				},
+				{
+
+					"videoControl" : {
+						"time": "96.10",
+						"play": true
+					},
+					"caption": "If the message is ignored, the Printer will function until it no longer detects enough paper."
+				},
+				{
+
+					"videoControl" : {
+						"time": "101.04",
+						"play": true
+					},
+					"caption": "A PAPER OUT message will display which prevents any further functions from being performed until a new roll is loaded."
+				},
+				{
+
+					"videoControl" : {
+						"time": "108.01",
+						"play": true
+					},
+					"caption": "OK.  So how do you change your paper roll and run a Printer Test?"
+				},
+				{
+
+					"videoControl" : {
+						"time": "111.27",
+						"play": true
+					},
+					"caption": "First, press the silver button on the Printer Cover"
+				},
+				{
+
+					"videoControl" : {
+						"time": "115.16",
+						"play": true
+					},
+					"caption": "and pull up on the sides of the Printer Cover to open."
+				},
+				{
+
+					"videoControl" : {
+						"time": "118.15",
+						"play": true
+					},
+					"caption": "Next, remove the used paper roll."
+				},
+				{
+
+					"videoControl" : {
+						"time": "121.13",
+						"play": true
+					},
+					"caption": "Detach the piece of tape on the new roll that holds the end of the paper to the roll"
+				},
+				{
+
+					"videoControl" : {
+						"time": "125.23",
+						"play": true
+					},
+					"caption": "then place the new roll into the Printer.  It is important that the paper feeds from the bottom toward you."
+				},
+				{
+
+					"videoControl" : {
+						"time": "132.18",
+						"play": true
+					},
+					"caption": "Make sure the paper comes over the roller."
+				},
+				{
+
+					"videoControl" : {
+						"time": "134.27",
+						"play": true
+					},
+					"caption": "Because this is a new roll, leave about 12 to 18 inches hanging out "
+				},
+				{
+
+					"videoControl" : {
+						"time": "138.29",
+						"play": true
+					},
+					"caption": "and close the cover firmly."
+				},
+				{
+
+					"videoControl" : {
+						"time": "140.20",
+						"play": true
+					},
+					"caption": "The Printer automatically advances and cuts the paper."
+				},
+				{
+
+					"videoControl" : {
+						"time": "143.20",
+						"play": true
+					},
+					"caption": "At the bottom of the piece of paper that just dispensed, you should see the words Accutherm-Ultra and other information."
+				},
+				{
+
+					"videoControl" : {
+						"time": "150.06",
+						"play": true
+					},
+					"caption": "If you do not see this message, the paper is not loaded correctly."
+				},
+				{
+
+					"videoControl" : {
+						"time": "153.27",
+						"play": true
+					},
+					"caption": "Now run the Printer Test to ensure print quality."
+				},
+				{
+
+					"videoControl" : {
+						"time": "157.05",
+						"play": true
+					},
+					"caption": "From the Home Screen, touch Services,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "159.29",
+						"play": true
+					},
+					"caption": "then Printer Test.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "161.23",
+						"play": true
+					},
+					"caption": "A receipt displaying every character is printed.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "164.17",
+						"play": true
+					},
+					"caption": "You should run a Printer Test each time you change your paper roll and after clearing a jam."
+				},
+				{
+
+					"videoControl" : {
+						"time": "169.20",
+						"play": true
+					},
+					"caption": "Now let’s have you try loading the paper. "
 				}
 				]
 },

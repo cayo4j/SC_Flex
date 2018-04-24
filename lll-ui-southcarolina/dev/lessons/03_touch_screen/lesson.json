@@ -14,11 +14,11 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's start out by turning on the terminal.  There are two power buttons you can use."
+					"caption": "Let's start out by turning on the terminal. There are two power buttons you can use."
 				},
 				{
 					"videoControl" : {
-						"time": "0.5",
+						"time": "4.26",
 						"play": true
 					},
 					"caption": "The on/off switch is located on the back of the terminal. "
@@ -26,7 +26,7 @@
 				{
 
 					"videoControl" : {
-						"time": "3.721",
+						"time": "8.15",
 						"play": true
 					},
 					"caption": "Just reach around and set it to the left, which is the ON position.  ",
@@ -45,7 +45,7 @@
 				{
 
 					"videoControl" : {
-						"time": "13.915",
+						"time": "12.22",
 						"play": true
 					},
 					"caption": "You'll hear the terminal coming to life."
@@ -54,16 +54,16 @@
 				{
 
 					"videoControl" : {
-						"time": "17.42",
+						"time": "15.06",
 						"play": true
 					},
-					"caption": "Notice the round button at the bottom of the Touch Screen?  That's also a power button."
+					"caption": "Notice the round button at the bottom of the Touch Screen? That's also a power button."
 
 				},
 				{
 
 					"videoControl" : {
-						"time": "19.64",
+						"time": "19.19",
 						"play": true
 					},
 					"caption": "You can power your terminal on or off with this button."
@@ -72,7 +72,7 @@
 				{
 
 					"videoControl" : {
-						"time": "26.324",
+						"time": "23.04",
 						"play": true
 					},
 					"caption": "To turn the terminal off, hold this button for about 8 seconds, until the green light turns amber."
@@ -80,7 +80,7 @@
 				{
 
 					"videoControl" : {
-						"time": "31.172",
+						"time": "28.29",
 						"play": true
 					},
 					"caption": "To power the terminal back on, push it once."
@@ -89,7 +89,7 @@
 				{
 
 					"videoControl" : {
-						"time": "36.543",
+						"time": "32.06",
 						"play": true
 					},
 					"caption": "The amber light will turn green and the terminal will begin to load."
@@ -97,7 +97,7 @@
 				{
 
 					"videoControl" : {
-						"time": "44.243",
+						"time": "35.27",
 						"play": true
 					},
 					"caption": "This brings up the Welcome screen."
@@ -105,7 +105,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "38.08",
 						"play": true
 					},
 					"caption": "The Touch Screen here is the main point of access to your terminal functions."
@@ -113,7 +113,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "42.17",
 						"play": true
 					},
 					"caption": "When using the Touch Screen it is important that only your fingertips or knuckles come into contact with the glass."
@@ -121,7 +121,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "49.09",
 						"play": true
 					},
 					"caption": " Do not use objects such as pens, pencils or long fingernails. "
@@ -129,7 +129,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "54.03",
 						"play": true
 					},
 					"caption": "You’ll get the best response by touching the screen with the flat portion of your fingertips."
@@ -137,7 +137,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "59.02",
 						"play": true
 					},
 					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver."
@@ -145,7 +145,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "64.00",
 						"play": true
 					},
 					"caption": " All you have to do is touch the right side of the screen or scan a ticket to \"wake it up.\""
@@ -153,7 +153,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.533",
+						"time": "69.16",
 						"play": true
 					},
 					"caption": "Let's move on."
