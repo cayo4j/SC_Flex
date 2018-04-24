@@ -353,7 +353,18 @@
 						"time": "157.05",
 						"play": true
 					},
-					"caption": "From the Home Screen, touch Services,"
+					"caption": "From the Home Screen, touch Services,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -361,7 +372,18 @@
 						"time": "159.29",
 						"play": true
 					},
-					"caption": "then Printer Test."
+					"caption": "then Printer Test.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -369,7 +391,18 @@
 						"time": "161.23",
 						"play": true
 					},
-					"caption": "A receipt displaying every character is printed."
+					"caption": "A receipt displaying every character is printed.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
