@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "PEGTHAGORUS_XML2JSON",
+			"name": "Validations",
 			"video": {
-				"url": "lessons/shared/videos/Pegthagorus_xml2json.mp4"
+				"url": "lessons/shared/videos/Validations.mp4"
 			},
 
 				"cuepoints": [
