@@ -86,7 +86,18 @@
 						"time": "15.06",
 						"play": true
 					},
-					"caption": "Notice the round button at the bottom of the Touch Screen? That's also a power button."
+					"caption": "Notice the round button at the bottom of the Touch Screen? That's also a power button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power_button_on_the_front_of_the_terminal.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 
 				},
 				{
@@ -95,7 +106,18 @@
 						"time": "19.19",
 						"play": true
 					},
-					"caption": "You can power your terminal on or off with this button."
+					"caption": "You can power your terminal on or off with this button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power_button_on_the_front_of_the_terminal.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 
 				},
 				{
@@ -129,7 +151,18 @@
 						"time": "35.27",
 						"play": true
 					},
-					"caption": "This brings up the Welcome screen."
+					"caption": "This brings up the Welcome screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/external-hardware-01.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -137,7 +170,18 @@
 						"time": "38.08",
 						"play": true
 					},
-					"caption": "The Touch Screen here is the main point of access to your terminal functions."
+					"caption": "The Touch Screen is the main point of access to your terminal functions.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/external-hardware-01.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -153,7 +197,18 @@
 						"time": "49.09",
 						"play": true
 					},
-					"caption": " Do not use objects such as pens, pencils or long fingernails. "
+					"caption": " Do not use objects such as pens, pencils or long fingernails. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pens-pencils-fingernails.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -169,7 +224,18 @@
 						"time": "59.02",
 						"play": true
 					},
-					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver."
+					"caption": "When the terminal has been idle for several minutes, the screen will display a screen saver.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sc_login_page.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -177,7 +243,33 @@
 						"time": "64.00",
 						"play": true
 					},
-					"caption": " All you have to do is touch the right side of the screen or scan a ticket to \"wake it up.\""
+					"caption": " All you have to do is touch the right side of the screen or scan a ticket to \"wake it up.\"",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screensaver.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 430,
+							"top": 145,
+							"image": {
+								"url": "lessons/shared/images/target.gif"
+								
+							}
+						},
+						{
+							"left": 437,
+							"top": 168,
+							"image": {
+								"url": "lessons/shared/images/hand-up.png"
+							}
+						}
+					]
 				},
 				{
 
