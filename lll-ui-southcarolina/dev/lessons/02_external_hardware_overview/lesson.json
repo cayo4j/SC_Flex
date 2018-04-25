@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "External Hardware Overview",
 			"video": {
-				"url": "lessons/shared/videos/needVideo.mp4"
+				"url": "lessons/shared/videos/External Hardware Overview.mp4"
 			},
 
 				"cuepoints": [
@@ -187,7 +187,18 @@
 						"time": "61.01",
 						"play": true
 					},
-					"caption": "When not in use, the Barcode Scanner light is off. "
+					"caption": "When not in use, the Barcode Scanner light is off. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/barcode-scanner.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -195,7 +206,18 @@
 						"time": "64.15",
 						"play": true
 					},
-					"caption": "Any movement near the scanner activates it."
+					"caption": "Any movement near the scanner activates it.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -203,7 +225,18 @@
 						"time": "67.01",
 						"play": true
 					},
-					"caption": "The Barcode Scanner can be used as a handheld device or remain in the cradle."
+					"caption": "The Barcode Scanner can be used as a handheld device or remain in the cradle.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					] 
 				},
 				{
 
@@ -211,7 +244,18 @@
 						"time": "71.25",
 						"play": true
 					},
-					"caption": "It is also adjustable up and down and side to side. "
+					"caption": "It is also adjustable up and down and side to side. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					] 
 				},
 				{
 
@@ -219,7 +263,24 @@
 						"time": "76.20",
 						"play": true
 					},
-					"caption": "If you pick up the Barcode Scanner, be careful not to shine it in your eyes or anyone else's."
+					"caption": "If you pick up the Barcode Scanner, be careful not to shine it in your eyes or anyone else's.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 150,
+                            "top": 150,
+                            "label": "Do Not Shine Scanner In Eyes!",
+                            "blink": "none"
+                        }
+					] 
 				},
 				{
 
@@ -227,7 +288,24 @@
 						"time": "81.20",
 						"play": true
 					},
-					"caption": "This is a very strong light that could cause damage to a person's vision."
+					"caption": "This is a very strong light that could cause damage to a person's vision.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-online-handheld.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 150,
+                            "top": 150,
+                            "label": "Do Not Shine Scanner In Eyes!",
+                            "blink": "none"
+                        }
+					] 
 				},
 				{
 
@@ -235,7 +313,18 @@
 						"time": "85.13",
 						"play": true
 					},
-					"caption": "For best results, both Draw Game tickets and Instant ticket barcodes should be held 2 to 3 inches from the Scanner."
+					"caption": "For best results, both Draw Game tickets and Instant ticket barcodes should be held 2 to 3 inches from the Scanner.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/scan-instant-online-tkts.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -300,7 +389,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"url": "lessons/shared/images/esmm-back-shelf.png",
 								"width": 800,
 								"height": 450
 							}
@@ -319,7 +408,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"url": "lessons/shared/images/sc-ultra-printer.png",
 								"width": 800,
 								"height": 450
 							}

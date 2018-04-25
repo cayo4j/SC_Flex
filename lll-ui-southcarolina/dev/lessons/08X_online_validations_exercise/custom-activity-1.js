@@ -77,15 +77,15 @@ function startGame(completedCallback) {
             //change instructions
             document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Now enter the Security Number, 2135, from the ticket using the numeric keypad.";
             //go back to home screen
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX1.jpg' />";
+            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX1.png' />";
             document.getElementById("button_dgi").style.display = 'inline';
             //document.getElementById("zoomed").style.height = 'auto';
             document.getElementById("wrong").style.display = 'none';
             document.getElementById("dropzone").style.display = 'none';
             //re-render draw game inquiry button
             //
-            document.getElementById("button_dgi").style.left = '705px';
-            document.getElementById("button_dgi").style.top = '268px';
+            document.getElementById("button_dgi").style.left = '761px';
+            document.getElementById("button_dgi").style.top = '251px';
             document.getElementById("button_dgi").onclick = respond;
 
 
@@ -106,9 +106,9 @@ function startGame(completedCallback) {
         if (counter == 2) {
                    p++;
             console.log('Interaction #3');//
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX1-1.jpg' />";
-            document.getElementById("button_dgi").style.left = '655px';
-            document.getElementById("button_dgi").style.top = '268px';
+            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX2.png' />";
+            document.getElementById("button_dgi").style.left = '723px';
+            document.getElementById("button_dgi").style.top = '245px';
             document.getElementById("button_dgi").onclick = respond;
 
 
@@ -120,9 +120,9 @@ function startGame(completedCallback) {
 
           if (counter == 3) {
             p++;//
-              document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX1-2.jpg' />";
-            document.getElementById("button_dgi").style.left = '755px';
-            document.getElementById("button_dgi").style.top = '268px';
+              document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX3.png' />";
+            document.getElementById("button_dgi").style.left = '799px';
+            document.getElementById("button_dgi").style.top = '250px';
             document.getElementById("button_dgi").onclick = respond;
 
         }      
@@ -132,18 +132,18 @@ function startGame(completedCallback) {
         
         
         
-        if (counter == 4) {
+        if (counter == 5666) {
             p++;//
             document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX1-3.jpg' />";
-            document.getElementById("button_dgi").style.left = '705px';
-            document.getElementById("button_dgi").style.top = '218px';
+            document.getElementById("button_dgi").style.left = '724px';
+            document.getElementById("button_dgi").style.top = '327px';
             document.getElementById("button_dgi").onclick = respond;
 
         }
         
         
         
-                if (counter == 5) {
+                if (counter == 4) {
                     //presses SEND
             p++;//
             console.log('Interaction #5');
@@ -152,11 +152,11 @@ function startGame(completedCallback) {
             document.getElementById("dropzone").style.display = 'none';
             document.getElementById("wrong").style.display = 'none';
             //change screen to DGI keypad screen
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX1-4.jpg' />";
+            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX4.png' />";
             /// respond
-            document.getElementById("button_dgi").style.left = '665px';
-            document.getElementById("button_dgi").style.top = '390px';
-                    document.getElementById("button_dgi").style.width = '100px';
+            document.getElementById("button_dgi").style.left = '724px';
+            document.getElementById("button_dgi").style.top = '327px';
+                    document.getElementById("button_dgi").style.width = '130px';
             document.getElementById("button_dgi").onclick = respond;
 
         }
@@ -172,7 +172,7 @@ function startGame(completedCallback) {
             document.getElementById("dropzone").style.display = 'none';
             document.getElementById("wrong").style.display = 'none';
             //change screen to DGI keypad screen
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX2.jpg' />";
+            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX5.png' />";
             /// respond
             document.getElementById("button_dgi").style.display = 'inline';
             document.getElementById("keypad_button").style.display = 'none';
@@ -189,13 +189,13 @@ function startGame(completedCallback) {
             p++;
             document.getElementById("button_dgi").style.left = '295px';
             document.getElementById("button_dgi").style.top = '90px';
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX3.jpg' />";
+            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX6.png' />";
              document.getElementById("button_dgi").onclick = respond;  
             
 
         }
  if(counter == 8){
-                    document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/scratchValEX4.jpg' />";
+                    document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX7.png' />";
                 
                     // calling completion
             finalScore = getCalculatedScore();

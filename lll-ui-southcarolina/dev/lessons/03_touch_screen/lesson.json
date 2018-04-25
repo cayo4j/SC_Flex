@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Touch Screen",
 			"video": {
-				"url": "lessons/shared/videos/Touchscreen.mp4"
+				"url": "lessons/shared/videos/Touch Screen.mp4"
 			},
 
 				"cuepoints": [
@@ -21,7 +21,27 @@
 						"time": "4.26",
 						"play": true
 					},
-					"caption": "The on/off switch is located on the back of the terminal. "
+					"caption": "The on/off switch is located on the back of the terminal. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -35,7 +55,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/terminal-homescreen.png",
+								"url": "lessons/shared/images/power-btn-on.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/power-btn-on-highlight.png",
 								"width": 800,
 								"height": 450
 							}
