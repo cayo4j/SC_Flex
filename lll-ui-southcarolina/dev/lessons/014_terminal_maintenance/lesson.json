@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Course End",
+			"name": "Terminal Maintenance",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd.mp4"
+				"url": "lessons/shared/videos/Terminal Maintenance.mp4"
 			},
 
 				"cuepoints": [
@@ -16,7 +16,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Now let’s talk about maintaining your equipment."
+					"caption": "Now letï¿½s talk about maintaining your equipment."
 				},
 				{
 
@@ -24,7 +24,7 @@
 						"time": "2.24",
 						"play": true
 					},
-					"caption": "It’s a good idea to keep a soft, lint-free cloth on hand for cleaning. "
+					"caption": "Itï¿½s a good idea to keep a soft, lint-free cloth on hand for cleaning. "
 				},
 				{
 
@@ -418,7 +418,7 @@
 						"time": "169.20",
 						"play": true
 					},
-					"caption": "Now let’s have you try loading the paper. "
+					"caption": "Now letï¿½s have you try loading the paper. "
 				}
 				]
 },
