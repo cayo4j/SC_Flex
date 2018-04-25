@@ -21,7 +21,7 @@
 							"left": -9999,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"url": "lessons/shared/images/esmm-monitor.png",
 								"width": 800,
 								"height": 450
 							}
@@ -32,16 +32,16 @@
 				{
 
 					"videoControl" : {
-						"time": "4",
+						"time": "4.23",
 						"play": true
 					},
-					"caption": "Near your terminal most likely youâ€™ll have a Multimedia Monitor connected to it.",
+					"caption": "Near your terminal most likely you’ll have a Player Information Display (or PID) connected to it.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"url": "lessons/shared/images/esmm-monitor-transaction.png",
 								"width": 800,
 								"height": 450
 							}
@@ -57,16 +57,16 @@
 				{
 
 					"videoControl" : {
-						"time": "9.227",
+						"time": "11.08",
 						"play": true
 					},
-					"caption": "This 22\" monitor replaces the VFD for displaying player transaction information for player security when purchasing and cashing tickets.",
+					"caption": "This display shows player transaction information for player security when purchasing and cashing tickets.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor.jpg",
+								"url": "lessons/shared/images/esmm-monitor-transaction.png",
 								"width": 800,
 								"height": 450
 							}
@@ -85,7 +85,7 @@
 				{
 
 					"videoControl" : {
-						"time": "17.412",
+						"time": "17.12",
 						"play": true
 					},
 					"caption": "In addition, this monitor displays advertising, winner awareness and messaging",
@@ -94,7 +94,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"url": "lessons/shared/images/esmm-monitor-advertising.png",
 								"width": 800,
 								"height": 450
 							}
@@ -104,7 +104,7 @@
 				{
 
 					"videoControl" : {
-						"time": "22.828",
+						"time": "22.17",
 						"play": true
 					},
 					"caption": "and it is clearly visible to players up to 15 feet away.",
@@ -113,7 +113,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"url": "lessons/shared/images/esmm-monitor-transaction.png",
 								"width": 800,
 								"height": 450
 							}
@@ -132,16 +132,16 @@
 				{
 
 					"videoControl" : {
-						"time": "26.458",
+						"time": "26.14",
 						"play": true
 					},
-					"caption": "Ensure the Multimedia Monitor power is ON so it is always displaying information to your players.",
+					"caption": "Ensure that the display power button is ON so that it is always displaying information to your players.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
+								"url": "lessons/shared/images/esmm-monitor-transaction.png",
 								"width": 800,
 								"height": 450
 							}
@@ -169,7 +169,7 @@
 				{
 
 					"videoControl" : {
-						"time": "32.018",
+						"time": "32.10",
 						"play": true
 					},
 					"caption": "It can help you increase lottery sales at your store!",
@@ -198,10 +198,10 @@
 				{
 
 					"videoControl" : {
-						"time": "34.858",
+						"time": "35.12",
 						"play": true
 					},
-					"caption": "Letâ€™s talk about another piece of lottery hardware you may have connected to your terminal, the Ticket Scan Plus, or TSP.",
+					"caption": "Letâ€™s talk about another piece of lottery hardware you may have connected to your terminal, the Ticket Checker.",
 					"overlays": [
 						{
 							"left": 0,
@@ -217,10 +217,10 @@
 				{
 
 					"videoControl" : {
-						"time": "42.303",
+						"time": "40.23",
 						"play": true
 					},
-					"caption": "The TSP is the next generation of self-service designed for players to check their Draw Game and Scratcher tickets for winning status without interrupting your store routine.",
+					"caption": "The Ticket Checker is the next generation of self-service designed for players to check their Draw Game and Instant tickets for winning status without interrupting your store routine.",
 					"overlays": [
 						{
 							"left": -9999,
@@ -236,7 +236,7 @@
 				{
 
 					"videoControl" : {
-						"time": "51.256",
+						"time": "50.01",
 						"play": true
 					},
 					"caption": "The built-in red beam shows the player where to place the ticket.",
@@ -245,7 +245,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/tsp-red-beam.jpg",
+								"url": "lessons/shared/images/tsp-red-beam.png",
 								"width": 800,
 								"height": 450
 							}
@@ -264,7 +264,7 @@
 				{
 
 					"videoControl" : {
-						"time": "55.113",
+						"time": "53.12",
 						"play": true
 					},
 					"caption": "Players simply hold the ticket barcode under the red beam, watch for the confirmation code to indicate the ticket has been successfully read, and watch for the results on the display.",
@@ -273,7 +273,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/scan_scratch_tsp.jpg",
+								"url": "lessons/shared/images/tsp-scan-instant.png",
 								"width": 800,
 								"height": 450
 							}
@@ -293,7 +293,7 @@
 				{
 
 					"videoControl" : {
-						"time": "64.26",
+						"time": "62.24",
 						"play": true
 					},
 					"caption": "If a ticket is a winner, the player presents it to you for validation.",
@@ -312,10 +312,132 @@
 				{
 
 					"videoControl" : {
-						"time": "68.608",
+						"time": "67.01",
 						"play": true
 					},
-					"caption": "Ready to move on? Let's go."
+					"caption": "Now let’s talk about some of the other items that may be connected to your terminal."
+				},
+				{
+
+					"videoControl" : {
+						"time": "71.05",
+						"play": true
+					},
+					"caption": "Look at this area, where there are Local Area Network, or LAN, and Ethernet ports. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-back-connections.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "77.01",
+						"play": true
+					},
+					"caption": "Where we have a dual communications set-up,",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-back-connections.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "79.18",
+						"play": true
+					},
+					"caption": "the 2 types of set-up are Satellite and Ventus.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/satellite-ventus.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "82.29",
+						"play": true
+					},
+					"caption": "Your network cable plugs in here.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/flex-back-connections.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "85.05",
+						"play": true
+					},
+					"caption": "The Network Cable connects to the Indoor Unit, or IDU, for satellite communications",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/indoor-unit.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "90.17",
+						"play": true
+					},
+					"caption": "or to the Ventus modem here for cellular communications.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ventus-modem.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "94.17",
+						"play": true
+					},
+					"caption": "And that wraps up your hardware peripherals."
 				}
 ]
 },
