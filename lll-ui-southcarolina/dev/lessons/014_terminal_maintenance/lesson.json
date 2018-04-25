@@ -75,7 +75,18 @@
 						"time": "22.08",
 						"play": true
 					},
-					"caption": "The cleaning process for the Touch Screen, Barcode Scanner, Play Slip Reader, and Ticket Checker is the same. "
+					"caption": "The cleaning process for the Touch Screen, Barcode Scanner, Play Slip Reader, and Ticket Checker is the same. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/tsp-back-shelf.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -137,7 +148,18 @@
 						"time": "40.28",
 						"play": true
 					},
-					"caption": "For the Play Slip Reader pay close attention to the white strip located behind the Touch Screen. "
+					"caption": "For the Play Slip Reader pay close attention to the white strip located behind the Touch Screen. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/GT1200_reader_strip.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -161,7 +183,18 @@
 						"time": "55.07",
 						"play": true
 					},
-					"caption": "Due to the high gloss on the paper, residue can be left behind on the Print Head. "
+					"caption": "Due to the high gloss on the paper, residue can be left behind on the Print Head. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sc-ultra-printer.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -169,7 +202,18 @@
 						"time": "59.13",
 						"play": true
 					},
-					"caption": "Over time, this residue could affect the print quality, possibly causing issues such as streaks on the tickets. "
+					"caption": "Over time, this residue could affect the print quality, possibly causing issues such as streaks on the tickets. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sc-ultra-printer.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -217,7 +261,24 @@
 						"time": "87.16",
 						"play": true
 					},
-					"caption": "The terminal will display PAPER LOW when the Printer detects the paper is getting low."
+					"caption": "The terminal will display PAPER LOW when the Printer detects the paper is getting low.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sc-ultra-printer.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 465,
+                            "top": 360,
+                            "label": "PAPER LOW",
+                            "blink": "none"
+                        }
+					]
 				},
 				{
 
@@ -225,7 +286,24 @@
 						"time": "92.19",
 						"play": true
 					},
-					"caption": "You should change the paper as soon as possible after the message appears."
+					"caption": "You should change the paper as soon as possible after the message appears.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sc-ultra-printer.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 465,
+                            "top": 360,
+                            "label": "PAPER LOW",
+                            "blink": "none"
+                        }
+					]
 				},
 				{
 
@@ -233,7 +311,24 @@
 						"time": "96.10",
 						"play": true
 					},
-					"caption": "If the message is ignored, the Printer will function until it no longer detects enough paper."
+					"caption": "If the message is ignored, the Printer will function until it no longer detects enough paper.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/sc-ultra-printer.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 465,
+                            "top": 360,
+                            "label": "PAPER LOW",
+                            "blink": "none"
+                        }
+					]
 				},
 				{
 
@@ -241,7 +336,18 @@
 						"time": "101.04",
 						"play": true
 					},
-					"caption": "A PAPER OUT message will display which prevents any further functions from being performed until a new roll is loaded."
+					"caption": "A PAPER OUT message will display which prevents any further functions from being performed until a new roll is loaded.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-paper-out.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -329,7 +435,18 @@
 						"time": "143.20",
 						"play": true
 					},
-					"caption": "At the bottom of the piece of paper that just dispensed, you should see the words Accutherm-Ultra and other information."
+					"caption": "At the bottom of the piece of paper that just dispensed, you should see the words Accutherm-Ultra and other information.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/accutherm-receipt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -418,7 +535,7 @@
 						"time": "169.20",
 						"play": true
 					},
-					"caption": "Now let�s have you try loading the paper. "
+					"caption": "Now let's have you try loading the paper. "
 				}
 				]
 },
