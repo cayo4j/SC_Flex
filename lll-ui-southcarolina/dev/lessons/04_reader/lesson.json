@@ -21,7 +21,7 @@
 				{
 
 					"videoControl" : {
-						"time": "2.407",
+						"time": "2.27",
 						"play": true
 					},
 					"caption": "The Play Slip Reader is located on the top of the Touch Screen",
@@ -41,7 +41,7 @@
 				{
 
 					"videoControl" : {
-						"time": "5.35",
+						"time": "6.04",
 						"play": true
 					},
 					"caption": "and is used to quickly produce wagers using Play Slips.",
@@ -50,7 +50,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"url": "lessons/shared/images/inserting-playslip-vertical.png",
 								"width": 800,
 								"height": 450
 							}
@@ -60,16 +60,16 @@
 				{
 
 					"videoControl" : {
-						"time": "11.305",
+						"time": "9.12",
 						"play": true
 					},
-					"caption": "Simply insert the Play Slip ticket with the completed side facing you",
+					"caption": "Simply insert the Play Slip with the completed side facing you",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"url": "lessons/shared/images/inserting-playslip-vertical.png",
 								"width": 800,
 								"height": 450
 							}
@@ -79,7 +79,7 @@
 				{
 
 					"videoControl" : {
-						"time": "16.335",
+						"time": "12.29",
 						"play": true
 					},
 					"caption": "into the Play Slip Reader either horizontally or vertically.",
@@ -88,7 +88,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
+								"url": "lessons/shared/images/inserting-playslip-vertical.png",
 								"width": 800,
 								"height": 450
 							}
@@ -107,16 +107,16 @@
 				{
 
 					"videoControl" : {
-						"time": "20.364",
+						"time": "16.28",
 						"play": true
 					},
-					"caption": "Scratch off tickets should NEVER be placed in the Play Slip Reader!",
+					"caption": "Instant tickets should NEVER be placed in the Play Slip Reader!",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"url": "lessons/shared/images/inserting-scratch-no.png",
 								"width": 800,
 								"height": 450
 							}
@@ -126,7 +126,7 @@
 				{
 
 					"videoControl" : {
-						"time": "23.91",
+						"time": "19.25",
 						"play": true
 					},
 					"caption": "Let's take a look inside."
@@ -134,56 +134,16 @@
 				{
 
 					"videoControl" : {
-						"time": "30.079",
+						"time": "21.13",
 						"play": true
 					},
-					"caption": "Right here on top of the Touch Screen is a silver Release Button that allows the Touch Screen to open like a door."
-				},
-				{
-
-					"videoControl" : {
-						"time": "36.002",
-						"play": true
-					},
-					"caption": "If I press this button and pull the Touch Screen forward, I see a second door."
-				},
-				{
-
-					"videoControl" : {
-						"time": "40.64",
-						"play": true
-					},
-					"caption": "This door has a green button that looks like a down arrow. "
-				},
-				{
-
-					"videoControl" : {
-						"time": "44.321",
-						"play": true
-					},
-					"caption": "I open this second door the same way"
-				},
-				{
-
-					"videoControl" : {
-						"time": "46.117",
-						"play": true
-					},
-					"caption": "and I see a glass lens, a very sensitive and important piece of the terminal. Why?"
-				},
-				{
-
-					"videoControl" : {
-						"time": "48.566",
-						"play": true
-					},
-					"caption": "This lens is used to read the play slips that are fed through the Play Slip Reader.",
+					"caption": "Right here on top of the Touch Screen is a silver Release Button that allows the Touch Screen to open like a door.",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
+								"url": "lessons/shared/images/reader-exercise-01.png",
 								"width": 800,
 								"height": 450
 							}
@@ -193,33 +153,136 @@
 				{
 
 					"videoControl" : {
-						"time": "53.572",
+						"time": "27.13",
 						"play": true
 					},
-					"caption": "If a play slip were to become jammed in this area of the terminal, access this area to remove it. We'll cover this in detail later in the course."
+					"caption": "If I press this button and pull the Touch Screen forward, I see a second door.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-01.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "31.24",
+						"play": true
+					},
+					"caption": "This door has a green button that looks like a down arrow. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-02.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "34.21",
+						"play": true
+					},
+					"caption": "I open this second door the same way",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-04.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "37.00",
+						"play": true
+					},
+					"caption": "and I see a glass lens, a very sensitive and important piece of the terminal. Why?",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/GT1200_reader_strip.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "42.07",
+						"play": true
+					},
+					"caption": "This lens is used to read the Play Slips that are fed through the Play Slip Reader.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/GT1200_reader_strip.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "45.29",
+						"play": true
+					},
+					"caption": "If a Play slip were to become jammed access this area to remove it. We'll cover this in detail later in the course.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-03.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 
 				},
 				{
 
 					"videoControl" : {
-						"time": "53.572",
+						"time": "53.15",
 						"play": true
 					},
-					"caption": "Remember, Scratch Off tickets should NEVER be placed in the Reader because they will leave residue on the glass lens and damage it."
+					"caption": "Remember, Instant tickets should NEVER be placed in the Reader because they will leave residue on the glass lens and damage it."
 
 				},
 				{
 
 					"videoControl" : {
-						"time": "53.572",
+						"time": "60.20",
 						"play": true
 					},
 					"caption": "Ready, let's move on."
 
-				}
-				
-				
-				
+				}				
 ]
 },
 				{

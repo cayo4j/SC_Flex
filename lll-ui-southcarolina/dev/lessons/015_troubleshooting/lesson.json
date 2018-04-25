@@ -16,56 +16,620 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Well, that's it!"
+					"caption": "Now, let's look at the Services menu and the options available to you for Terminal troubleshooting."
 				},
 				{
 
 					"videoControl" : {
-						"time": "2.03",
+						"time": "5.12",
 						"play": true
 					},
-					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+					"caption": "I'll touch Services",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "7.08",
+						"time": "7.04",
 						"play": true
 					},
-					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
+					"caption": "and the Services menu displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "12",
+						"time": "9.04",
 						"play": true
 					},
-					"caption": "To receive your certificate, just answer the questions on the following screens."
+					"caption": "All of your Services options, including Terminal diagnostics tests, display right here on this menu.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "16.96",
+						"time": "14.27",
 						"play": true
 					},
-					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
+					"caption": "First, let’s look at the CIS Reader test button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
 					"videoControl" : {
-						"time": "22.14",
+						"time": "18.18",
 						"play": true
 					},
-					"caption": "Once you have your certificate, you'll be on your way."
+					"caption": "Touch this button and you will be prompted to insert a Play Slip into the Reader.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cis-reader-test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 
 				},
 				{
 
 					"videoControl" : {
-						"time": "25.02",
+						"time": "22.23",
 						"play": true
 					},
-					"caption": "Good Luck!"
+					"caption": "The Play Slip's raw data will display and you can check that the Reader is properly functioning.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cis-reader-test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "27.22",
+						"play": true
+					},
+					"caption": "Follow the breadcrumbs back to the Services menu.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cis-reader-test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "30.23",
+						"play": true
+					},
+					"caption": "Here is the Printer Test button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "32.27",
+						"play": true
+					},
+					"caption": "and a receipt will print displaying all of the characters, so you can check that they are printing correctly.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "35.06",
+						"play": true
+					},
+					"caption": "You should perform a Printer test every time you change the Printer paper.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer_test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "40.26",
+						"play": true
+					},
+					"caption": "Back again at the Services menu, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.16",
+						"play": true
+					},
+					"caption": "you will see the next diagnostic button is the IP Test button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.24",
+						"play": true
+					},
+					"caption": "Touch this button to test your Terminal's connection to the network.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "50.09",
+						"play": true
+					},
+					"caption": "Follow the breadcrumbs back to the Services menu",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ip-test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "53.16",
+						"play": true
+					},
+					"caption": "and touch the Barcode Reader Test button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "56.11",
+						"play": true
+					},
+					"caption": "You will be prompted to scan a barcode with the Barcode Scanner.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/barcode-reader-test.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "58.28",
+						"play": true
+					},
+					"caption": "Finally, after returning to the Services menu, ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "62.14",
+						"play": true
+					},
+					"caption": "you can perform a Terminal Reset by touching the Terminal Reset button.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "65.16",
+						"play": true
+					},
+					"caption": "This will reboot your Terminal and requires a Terminal sign-in.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "69.15",
+						"play": true
+					},
+					"caption": "And that's a quick look at the Services menu.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "72.28",
+						"play": true
+					},
+					"caption": "Let's look at the Printer again. So, what happens if the Printer jams? "
+				},
+				{
+
+					"videoControl" : {
+						"time": "75.27",
+						"play": true
+					},
+					"caption": "I'll show you how to clear a paper jam (which rarely happens) in under a minute."
+				},
+				{
+
+					"videoControl" : {
+						"time": "80.26",
+						"play": true
+					},
+					"caption": "Your Terminal screen will read PRINTER PAPER JAM.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/printer-paper-jam.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "80.26",
+						"play": true
+					},
+					"caption": "Open the Printer cover and leave the roll in place. "
+				},
+				{
+
+					"videoControl" : {
+						"time": "85.07",
+						"play": true
+					},
+					"caption": "Carefully pull the paper out to clear the jam, doing your best not to tear the paper."
+				},
+				{
+
+					"videoControl" : {
+						"time": "88.11",
+						"play": true
+					},
+					"caption": "Now close the Printer cover; the paper will advance and cut off."
+				},
+				{
+
+					"videoControl" : {
+						"time": "91.15",
+						"play": true
+					},
+					"caption": "Return to the Services menu and run a Printer Test. That’s it! ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "96.14",
+						"play": true
+					},
+					"caption": "You've cleared a Printer jam.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "101.01",
+						"play": true
+					},
+					"caption": "It is also possible that you may need to clear a jammed Play Slip from the Play Slip Reader. Let me show you how."
+				},
+				{
+
+					"videoControl" : {
+						"time": "105.05",
+						"play": true
+					},
+					"caption": "I press the silver release button on the top of the Touch Screen and pull the Touch Screen forward.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-01.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "106.29",
+						"play": true
+					},
+					"caption": "This second door has a green button that looks like a down arrow.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-02.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "113.07",
+						"play": true
+					},
+					"caption": "Press down on the arrow to open the door.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-02.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "118.09",
+						"play": true
+					},
+					"caption": "Being very careful not to scratch the glass lens, remove the jammed Play slip.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-03.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "122.05",
+						"play": true
+					},
+					"caption": "Close the Terminal up",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reader-exercise-04.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "124.29",
+						"play": true
+					},
+					"caption": "and return to the Services menu and run a CIS Reader Test."
+				},
+				{
+
+					"videoControl" : {
+						"time": "129.21",
+						"play": true
+					},
+					"caption": "And that's how easy it is to maintain your equipment."
+				},
+				{
+
+					"videoControl" : {
+						"time": "131.07",
+						"play": true
+					},
+					"caption": "If you have any issues that you cannot solve on your own, refer to the sticker on the front of the Printer and contact the IGT Help Desk for assistance."
+				},
+				{
+
+					"videoControl" : {
+						"time": "135.03",
+						"play": true
+					},
+					"caption": "Now here's your chance to give it a try."
 				}
 				]
 },
