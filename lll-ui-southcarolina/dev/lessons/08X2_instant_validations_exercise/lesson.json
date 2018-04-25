@@ -1,5 +1,5 @@
 {
-    "title": "Performing Draw Game Validation - Exercise",
+    "title": "Validating Scratch Tickets - Exercise",
     "activities": [
 
         {
@@ -9,8 +9,8 @@
 			
 			"feedback": {
 				"valid": {
-					"label": "Great job!  Click OK to proceed.",
-					"text": "performing a draw game validation!"
+					"label": "That was some great work! Let's keep moving.",
+					"text": " "
 				},
 				"invalid": {
 					"label": " "
