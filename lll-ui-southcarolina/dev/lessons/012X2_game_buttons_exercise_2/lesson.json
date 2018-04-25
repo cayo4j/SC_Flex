@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Course End",
+			"name": "𝘗𝘰𝘸𝘦𝘳𝘣𝘢𝘭𝘭 - Do",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd.mp4"
+				"url": "lessons/shared/videos/PowerballDo.mp4"
 			},
 
 				"cuepoints": [
@@ -13,69 +13,1400 @@
 				{
 
 					"videoControl" : {
+						"time": "-1",
+						"play": true
+					},
+					"caption": " "
+				},
+				{
+
+					"videoControl" : {
 						"time": "0",
 						"play": true
 					},
-					"caption": "Well, that's it!"
+					"caption": "Here's the player now!"
 				},
 				{
 
 					"videoControl" : {
-						"time": "2.03",
+						"time": "1.98",
 						"play": true
 					},
-					"caption": "We went over all of the pieces of your new Altura Flex terminal and your new terminal application."
+					"caption": "Hi, I want a 𝘗𝘰𝘸𝘦𝘳𝘣𝘢𝘭𝘭 ticket with 𝘗𝘰𝘸𝘦𝘳 𝘗𝘭𝘢𝘺 for 2 boards and if I win I want the Cash Value Option."
 				},
 				{
 
 					"videoControl" : {
-						"time": "7.08",
+						"time": "8.811",
 						"play": true
 					},
-					"caption": "We know you are going to find the terminal to be a welcomed addition to your retail location."
+					"caption": "For the first board I want the numbers 1, 5, 10, 12 and 15 and the Powerball 2. "
 				},
 				{
 
 					"videoControl" : {
-						"time": "12",
+						"time": "17.957",
 						"play": true
 					},
-					"caption": "To receive your certificate, just answer the questions on the following screens."
+					"caption": "For the second Board I'll just take a Quick Pick."
 				},
 				{
 
 					"videoControl" : {
-						"time": "16.96",
+						"time": "21.88",
 						"play": true
 					},
-					"caption": "Then return to the Learner Center and click Transcript to view and print your certificate."
+					"caption": "Here are the Game Options for this player. Go ahead and give it a shot.",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_home_offset.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ]
+				},
+ //INTERACTIONS
+				{
+
+					"videoControl" : {
+						"time": "25.5",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_home_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 229,
+                            "top": 174,
+                            "image": {
+                                "url": "lessons/shared/images/btn_powerball_homescreen.jpg",
+                                "width": 79,
+                                "height": 37
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
 				},
 				{
 
 					"videoControl" : {
-						"time": "22.14",
+						"time": "28.2",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_options_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 220,
+                            "top": 189,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_boards.jpg",
+                                "width": 160,
+                                "height": 38
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+				{
+
+					"videoControl" : {
+						"time": "28.4",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_boards_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 419,
+                            "top": 180,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_boards_btn2.jpg",
+                                "width": 38,
+                                "height": 36
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                     
+ {
+
+					"videoControl" : {
+						"time": "28.6",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_options_2boards_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 220,
+                            "top": 350,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay.jpg",
+                                "width": 158,
+                                "height": 37
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+{
+
+					"videoControl" : {
+						"time": "28.8",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_options_pplay_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 648,
+                            "top": 337,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_manual_entry.jpg",
+                                "width": 86,
+                                "height": 39
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+{
+
+					"videoControl" : {
+						"time": "29",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 378,
+                            "top": 93,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_manual_entry1.jpg",
+                                "width": 35,
+                                "height": 33
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+{
+
+					"videoControl" : {
+						"time": "29.2",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_1_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 522,
+                            "top": 92,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_manual_entry5.jpg",
+                                "width": 34,
+                                "height": 34
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                  
+{
+
+					"videoControl" : {
+						"time": "29.4",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_5_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 700,
+                            "top": 92,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_manual_entry10.jpg",
+                                "width": 33,
+                                "height": 34
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                     
+{
+
+					"videoControl" : {
+						"time": "29.6",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_10_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 416,
+                            "top": 129,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_manual_entry12.jpg",
+                                "width": 32,
+                                "height": 35
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                     
+{
+
+					"videoControl" : {
+						"time": "29.8",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_12_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 522,
+                            "top": 130,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_manual_entry15.jpg",
+                                "width": 34,
+                                "height": 33
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                   
+{
+
+					"videoControl" : {
+						"time": "30",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_15_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 415,
+                            "top": 93,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_powerball2.jpg",
+                                "width": 34,
+                                "height": 33
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                       
+{
+
+					"videoControl" : {
+						"time": "30.2",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_b_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 525,
+                            "top": 58,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_quickpick.jpg",
+                                "width": 93,
+                                "height": 35
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				}, 
+
+{
+
+					"videoControl" : {
+						"time": "30.4",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_qp_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 527,
+                            "top": 60,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_powerball_quickpick.jpg",
+                                "width": 91,
+                                "height": 32
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                     
+{
+
+					"videoControl" : {
+						"time": "30.6",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_pball_manual_send_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 642,
+                            "top": 379,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_powerball_quickpick_send.jpg",
+                                "width": 92,
+                                "height": 38
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                     
+{
+
+					"videoControl" : {
+						"time": "30.8",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_home_total_pball_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 534,
+                            "top": 387,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_total.jpg",
+                                "width": 92,
+                                "height": 36
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                     
+{
+
+					"videoControl" : {
+						"time": "31",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_total_pball_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 552,
+                            "top": 206,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_total1.jpg",
+                                "width": 45,
+                                "height": 47
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+{
+
+					"videoControl" : {
+						"time": "31.2",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_total_pball1_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 602,
+                            "top": 252,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_total0.jpg",
+                                "width": 46,
+                                "height": 46
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+{
+
+					"videoControl" : {
+						"time": "31.4",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_total_pball10_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 602,
+                            "top": 252,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_total0.jpg",
+                                "width": 46,
+                                "height": 46
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+{
+
+					"videoControl" : {
+						"time": "31.6",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_total_pball100_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 602,
+                            "top": 252,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_total0.jpg",
+                                "width": 46,
+                                "height": 46
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+ {
+
+					"videoControl" : {
+						"time": "31.8",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_total_pball1000_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 629,
+                            "top": 297,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_total_total.jpg",
+                                "width": 68,
+                                "height": 50
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                   
+ {
+
+					"videoControl" : {
+						"time": "32",
+						"play": false
+					},
+					"caption": " ",
+                    "overlays": [
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/videomask.jpg",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_total_pball_change_offset.jpg",
+								"width": 800,
+								"height": 450
+							},
+                            "isSubmit": true
+		                   
+						},
+                        
+                        {
+                            "left": 553,
+                            "top": 299,
+                            "image": {
+                                "url": "lessons/shared/images/btn_pball_powerplay_total_clear.jpg",
+                                "width": 68,
+                                "height": 46
+                            },
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>WAGER OPTIONS:</b>\<br/><p align='left'>Game: Powerball\<br/>Boards: 2\<br/>Draws: 1\<br/># of Tickets: 1\<br/>Jackpot Option: CVO\<br/>Power Play: YES\<br/>Numbers:\<br/>Board A: 1,5,10,12,15, PB 2\<br/>Board B: Quick Pick\<br/>Amount Paid: $10.00</p>",
+                            "blink": "none"
+						}
+                     ],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},                    
+                    
+                    
+                    
+                    
+				{
+
+					"videoControl" : {
+						"time": "36.5",
 						"play": true
 					},
-					"caption": "Once you have your certificate, you'll be on your way."
-
+					"caption": "Nice work!",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/screen_home.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                    ]
 				},
 				{
 
 					"videoControl" : {
-						"time": "25.02",
+						"time": "38.5",
 						"play": true
 					},
-					"caption": "Good Luck!"
+					"caption": "Let's review how a playslip for this wager would look.",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball_playslip.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                    ]
+				},
+				{
+
+					"videoControl" : {
+						"time": "42",
+						"play": true
+					},
+					"caption": "The player's numbers appear here on Board A.",
+                    "overlays": [
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pball_playslip_boardA.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_pball_boardA.png",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                    ]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46",
+						"play": true
+					},
+					"caption": "For Board B, QP is selected on the top and the bottom so that both the 5 numbers and the Powerball are Quick Picks.",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pball_playslip_boardA.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_pball_playslip_qp.png",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                                 
+                    ]
+				},
+				{
+
+					"videoControl" : {
+						"time": "54.3",
+						"play": true
+					},
+					"caption": "Here is where 𝘗𝘰𝘸𝘦𝘳 𝘗𝘭𝘢𝘺 is selected.",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pball_playslip_boardA.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						},
+                        {
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_pball_playslip_powerplay.png",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                    ]
+				},
+				{
+
+					"videoControl" : {
+						"time": "57.2",
+						"play": true
+					},
+					"caption": "And here the Cash Value Option is marked.",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/pball_playslip_boardA_cvo.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                    ]
+				},
+				{
+
+					"videoControl" : {
+						"time": "61",
+						"play": true
+					},
+					"caption": "If the player had not selected a jackpot prize payment option, the terminal would have rejected the playslip.",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball_playslip.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                    ]
+				},
+				{
+
+					"videoControl" : {
+						"time": "65.63",
+						"play": true
+					},
+					"caption": "Well, we've gone over all you need to know about 𝘗𝘰𝘸𝘦𝘳𝘣𝘢𝘭𝘭! Let's keep going!",
+                    "overlays": [{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/powerball_playslip.jpg",
+								"width": 800,
+								"height": 450
+							}
+		                   
+						}
+                    ]
 				}
-				]
-},
+	]
+	},
 				{
-
 					"type": "summary",
 					"name": "Summary",
-
+	
 					"isOptional": true
-
+	
 				}
-]
-}
+	]}
