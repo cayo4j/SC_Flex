@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Play Slip Reader",
+			"name": "Reader",
 			"video": {
-				"url": "lessons/shared/videos/PlaySlipReader.mp4"
+				"url": "lessons/shared/videos/Reader.mp4"
 			},
 
 				"cuepoints": [
