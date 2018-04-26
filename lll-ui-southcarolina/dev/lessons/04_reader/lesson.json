@@ -24,18 +24,7 @@
 						"time": "2.27",
 						"play": true
 					},
-					"caption": "The Play Slip Reader is located on the top of the Touch Screen",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-playslip-vertical.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "The Play Slip Reader is located on the top of the Touch Screen"
 
 				},
 				{
@@ -92,15 +81,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/inserting-scratch-no.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -147,6 +127,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/04_reader_img1.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -162,7 +151,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/reader-exercise-01.png",
+								"url": "lessons/shared/images/reader-exercise-02.png",
 								"width": 800,
 								"height": 450
 							}
@@ -182,6 +171,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/reader-exercise-02.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/04_reader_img2.png",
 								"width": 800,
 								"height": 450
 							}

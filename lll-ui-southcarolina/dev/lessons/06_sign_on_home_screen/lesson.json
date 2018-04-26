@@ -155,7 +155,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/coming-soon.png",
+								"url": "lessons/shared/images/sign-on-submit.png",
 								"width": 800,
 								"height": 450
 							}
@@ -783,7 +783,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/coming-soon.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -802,7 +802,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/coming-soon.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1232,7 +1232,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1251,7 +1251,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/flex-homescreen.png",
 								"width": 800,
 								"height": 450
 							}

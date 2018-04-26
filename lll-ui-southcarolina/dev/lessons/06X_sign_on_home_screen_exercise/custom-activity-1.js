@@ -87,7 +87,7 @@ function startGame(completedCallback) {
 
 			switch(p){
 				case 0:
-                 document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS:</b><br/>Press the Power Button on the Touch Screen frame to power it on.";   
+                 document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS:</b><br/>Now, try signing on to the terminal.";   
 				//swal({title: "", text: "Look at the items and identify each one that should NOT be used on the Touch Screen. Touch or click those items to stamp them with a red X."});
 				break;
                 case 1:
@@ -106,44 +106,7 @@ function startGame(completedCallback) {
 		};
 		instructionation(p);
 		
-		function crossout(){
-			if(pencilsClicked == true){
-				console.log ('\n\n\n****\nPENCILS\n****\n\n\n');
-				$('#photo').css({'background': 'url(lessons/shared/images/touchscreen-pencils.jpg) no-repeat'});
-				$('#photo').css({'background-size': '100%'});
-			}
-			if(pensClicked == true){
-				console.log ('\n\n\n****\nPENS\n****\n\n\n');
-				$('#photo').css({'background': 'url(lessons/shared/images/touchscreen-pens.jpg) no-repeat'});
-				$('#photo').css({'background-size': '100%'});
-			}
-			if(nailsClicked == true){
-				console.log ('\n\n\n****\nNAILS\n****\n\n\n');
-				$('#photo').css({'background': 'url(lessons/shared/images/touchscreen-nails.jpg) no-repeat'});
-				$('#photo').css({'background-size': '100%'});
-			}
-			if(pencilsClicked == true && pensClicked == true){
-				console.log ('\n\n\n****\nPENCILS & PENS\n****\n\n\n');
-				$('#photo').css({'background': 'url(lessons/shared/images/touchscreen-pencils-pens.jpg) no-repeat'});
-				$('#photo').css({'background-size': '100%'});
-			}
-			if(pencilsClicked == true && nailsClicked == true){
-				console.log ('\n\n\n****\nPENCILS & NAILS\n****\n\n\n');
-				$('#photo').css({'background': 'url(lessons/shared/images/touchscreen-nails-pencils.jpg) no-repeat'});
-				$('#photo').css({'background-size': '100%'});
-			}
-			if(pensClicked == true && nailsClicked == true){
-				console.log ('\n\n\n****\nPENS & NAILS\n****\n\n\n');
-				$('#photo').css({'background': 'url(lessons/shared/images/touchscreen-nails-pens.jpg) no-repeat'});
-				$('#photo').css({'background-size': '100%'});
-			}
-			if(pensClicked == true && nailsClicked == true && pencilsClicked == true){
-				console.log ('\n\n\n****\nPENCILS, PENS, NAILS!! EX COMPLETE!!\n****\n\n\n');
-				$('#photo').css({'background': 'url(lessons/shared/images/touchscreen-final.jpg) no-repeat'});
-				$('#photo').css({'background-size': '100%'});
-			}
-			
-		}
+
 		
 $('canvas').css({'cursor': 'pointer'});
 //$('canvas').click(function(e){
@@ -163,7 +126,7 @@ $('canvas').css({'cursor': 'pointer'});
                       step2 = true;
                       signOn();
                   }else{
-                      if(step1 != false){swal({title: "Incorrect.", text: "Press the Power Button on the Touch Screen frame."});};
+                      if(step1 != false){swal({title: "Incorrect.", text: "Pdtrdtj"});};
                      
                   }; 
                 

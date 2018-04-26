@@ -1,5 +1,5 @@
 {
-    "title": "Power Up, Touch Screen and Sign On - Exercise",
+    "title": "Sign On and Home Screen - Exercise",
     "activities": [
         {
             "type": "custom",
@@ -20,7 +20,7 @@
         },
         {
 			"type": "guiSimulation",
-			"name": "Home Screen and Sign On - Interactive Exercise",
+			"name": "Sign On and Home Screen - Exercise",
 			"label": "Clear a jammed Play Slip in the reader. Follow each step.",
 			
 			"cuepoints": [

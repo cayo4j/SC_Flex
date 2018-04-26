@@ -3,7 +3,7 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Play Slip Reader - Exercise",
+			"name": "Reader - Exercise",
 			"label": "Multiple Choice",
 			"video": {
 				"url": "lessons/shared/html/chime.mp3"
@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/va-logo-screen-exercise.jpg",
+								"url": "lessons/shared/images/sc_login_page.png",
 								"width": 800,
 								"height": 450
 							}
@@ -33,8 +33,8 @@
 		
 		{
 			"type": "singleChoice",
-			"name": "Play Slip Reader - Exercise",
-			"label": "True or False: Play Slips must be inserted into the Play Slip Reader vertically.",
+			"name": "Reader - Exercise",
+			"label": "True or False: Play Slips must be inserted into the Reader vertically.",
 			"options": [
 				{
 					"label": "True",
@@ -58,8 +58,8 @@
 		},
 		{
 			"type": "singleChoice",
-			"name": "Play Slip Reader - Exercise",
-			"label": "True or False: Instant tickets should never be inserted into the Play Slip Reader.",
+			"name": "Reader - Exercise",
+			"label": "True or False: Instant tickets should never be inserted into the Reader.",
 			"options": [
 				{
 					"label": "True",
@@ -73,11 +73,11 @@
 			"feedback": {
 				"valid": {
 					"label": " Right! ",
-					"text": "Instant tickets should never be inserted into the reader."
+					"text": "Instant tickets should never be inserted into the Reader."
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the correct answer is True. Instant tickets should never be inserted into the Play Slip Reader."
+					"text": "the correct answer is True. Instant tickets should never be inserted into the Reader."
 				}
 			}
 		},
