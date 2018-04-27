@@ -3,78 +3,22 @@
     "activities": [
         {
             "type": "custom",
-            "name": " ",
+            "name": " "
             
 			
-			"feedback": {
-				"valid": {
-					"label": "Nicely done! You identified all of the items that are NOT safe to use with the Touch Screen.",
-					"text": " "
-				},
-				"invalid": {
-					"label": "Nicely done! You identified all of the items that are NOT safe to use with the Touch Screen.",
-					"text": " "
-				}
-			}
+//			"feedback": {
+//				"valid": {
+//				"label": "Nice Work! That's exactly how you sign on.",
+//					"text": "That's exactly how you sign on.",
+//					"type": "success"
+//			},
+//				"invalid": {
+//					"label": "Nice Work! That's exactly how you sign on.",
+//					"text": "That's exactly how you sign on."
+//				}
+//			}
 
         },
-        {
-			"type": "guiSimulation",
-			"name": "Sign On and Home Screen - Exercise",
-			"label": "Clear a jammed Play Slip in the reader. Follow each step.",
-			
-			"cuepoints": [
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/welcome-screen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-enter1.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-enter2.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-enter3.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/sign-on-submit.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
-				}
-			]	
-		},
 
         {
             "type": "summary",
