@@ -10,14 +10,7 @@
 
 				"cuepoints": [
 
-				{
 
-					"videoControl" : {
-						"time": "-1",
-						"play": true
-					},
-					"caption": "on"
-				},
 				{
 
 					"videoControl" : {
@@ -53,6 +46,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO1.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -69,6 +71,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/terminal-settings.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO2.png",
 								"width": 800,
 								"height": 450
 							}
@@ -91,6 +102,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO3.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -107,6 +127,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/terminal-settings.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO4.png",
 								"width": 800,
 								"height": 450
 							}
@@ -148,6 +177,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO5.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -164,6 +202,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO6.png",
 								"width": 800,
 								"height": 450
 							}
@@ -186,6 +233,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO7.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -202,6 +258,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO7_touch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -243,6 +308,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO8.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -258,11 +332,11 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/news-message.png",
+								"url": "lessons/shared/images/news-message-breadcrumbs.png",
 								"width": 800,
 								"height": 450
 							}
-						}
+						} 
 					]
 				},
 				{
@@ -300,6 +374,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO9.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -319,6 +402,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO9_touch.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -334,7 +426,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.png",
+								"url": "lessons/shared/images/video-help.png",
 								"width": 800,
 								"height": 450
 							}
@@ -353,7 +445,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.png",
+								"url": "lessons/shared/images/video-help.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_CO10.png",
 								"width": 800,
 								"height": 450
 							}
@@ -372,7 +473,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/services.png",
+								"url": "lessons/shared/images/video-help.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_TH11.png",
 								"width": 800,
 								"height": 450
 							}
@@ -392,6 +502,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_termset_TH12.png",
 								"width": 800,
 								"height": 450
 							}
@@ -433,6 +552,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ .png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -449,6 +577,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/transaction-history.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ .png",
 								"width": 800,
 								"height": 450
 							}
@@ -471,6 +608,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ .png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -490,6 +636,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ .png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -506,6 +661,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ .png",
 								"width": 800,
 								"height": 450
 							}
@@ -566,6 +730,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ .png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -582,6 +755,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/ .png",
 								"width": 800,
 								"height": 450
 							}
