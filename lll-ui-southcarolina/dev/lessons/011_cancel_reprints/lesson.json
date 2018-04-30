@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Cancel and Reprints",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd.mp4"
+				"url": "lessons/shared/videos/CancelandReprints.mp4"
 			},
 
 				"cuepoints": [
@@ -23,6 +23,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_cancelandreprint.png",
 								"width": 800,
 								"height": 450
 							}
@@ -50,6 +59,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_touchcancelOnline.png",
 								"width": 800,
 								"height": 450
 							}
@@ -110,6 +128,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_COsubmit.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 
@@ -149,7 +176,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_COtotalArea.png",
+								"width": 800,
+								"height": 450
+							}
+						}
 					]
 				},
 				{
@@ -165,6 +201,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/cancel-confirmation.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_touchOKAY.png",
 								"width": 800,
 								"height": 450
 							}
@@ -187,7 +232,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_COminiSalesDisplay.png",
+								"width": 800,
+								"height": 450
+							}
+						}
 					]
 				},
 				{
@@ -203,6 +257,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/cancel-online-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_touchTotal.png",
 								"width": 800,
 								"height": 450
 							}
