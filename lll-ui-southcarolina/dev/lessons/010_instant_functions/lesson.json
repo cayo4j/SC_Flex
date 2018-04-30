@@ -61,7 +61,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_overlay1.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -80,7 +89,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_receiveshipment.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 
 				},
@@ -153,7 +171,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/receive-shipment.png",
+								"url": "lessons/shared/images/receive-shipment-receipt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -172,11 +190,20 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/receive-shipment.png",
+								"url": "lessons/shared/images/receive-shipment-success.png",
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_highlightstatbar.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -193,7 +220,27 @@
 						"time": "45.23",
 						"play": true
 					},
-					"caption": "Managers will have an option called Activate Pack."
+					"caption": "Managers will have an option called Activate Pack.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-functions-manager.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_activatepack.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -201,7 +248,18 @@
 						"time": "49.04",
 						"play": true
 					},
-					"caption": "To activate, the manager scans a ticket from the pack"
+					"caption": "To activate, the manager scans a ticket from the pack",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/activate-packs.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -209,7 +267,27 @@
 						"time": "52.11",
 						"play": true
 					},
-					"caption": "or manually enters the game and pack numbers and touches Send."
+					"caption": "or manually enters the game and pack numbers and touches Send.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/activate-packs.png",
+								"width": 800,
+								"height": 450
+							}
+						}, 
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_hl_keypadSend.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -217,7 +295,18 @@
 						"time": "56.22",
 						"play": true
 					},
-					"caption": "An activation confirmation receipt prints and the pack is activated."
+					"caption": "An activation confirmation receipt prints and the pack is activated.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/activate-packs-receipt.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -225,7 +314,27 @@
 						"time": "60.26",
 						"play": true
 					},
-					"caption": "If the game has ended, the pack will fail to activate. A Stop Sign will appear indicating the pack cannot be activated."
+					"caption": "If the game has ended, the pack will fail to activate. A Stop Sign will appear indicating the pack cannot be activated.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/activate-packs-invalid.png",
+								"width": 800,
+								"height": 450
+							}
+						}, 
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_hilite_redx.png",
+								"width": 800,
+								"height": 450
+							}
+						} 
+					]
 				},
 				{
 
@@ -262,7 +371,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_instant_reports_btn.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -281,7 +399,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_firstreports.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -300,7 +427,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_firstreports.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -316,6 +452,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/instant-reports.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_firstreports_NOtouch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -338,7 +483,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_firstreports_touch.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -376,7 +530,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_detailprintbutton.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -395,7 +558,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_touchthebreadcrumbs.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -414,7 +586,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_packsreports.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -433,7 +614,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_onlyhighlightpacksettlements.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -452,7 +642,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_onlyhighlighttheotherpackreport.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -468,6 +667,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/instant-reports.png",
+								"width": 800,
+								"height": 450
+							}
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_onlyTouchpacksettlements.png",
 								"width": 800,
 								"height": 450
 							}
@@ -509,7 +717,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_touchTodayWhyDontYou.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -547,7 +764,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_hereWeGoTouchingBreadcrumbs.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -566,7 +792,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_returnReports.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -585,7 +820,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_top24.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -604,7 +848,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_topPrizesReport.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -623,7 +876,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_lastDayToSell.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -642,7 +904,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_lastDayToSellTouchIt.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -680,7 +951,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_lastDayGetOutGoBack.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
@@ -696,6 +976,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/instant-reports.png",
+								"width": 800,
+								"height": 450
+							}
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_highlightAnotherButton.png",
 								"width": 800,
 								"height": 450
 							}
@@ -718,6 +1007,15 @@
 								"width": 800,
 								"height": 450
 							}
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_highlightAnotherButton.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 				},
@@ -737,6 +1035,15 @@
 								"width": 800,
 								"height": 450
 							}
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_orderStatReport.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 				},
@@ -753,6 +1060,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/instant-reports.png",
+								"width": 800,
+								"height": 450
+							}
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/10_finalCuepoint.png",
 								"width": 800,
 								"height": 450
 							}
