@@ -94,7 +94,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_touchOnlineVal.png",
 								"width": 800,
 								"height": 450
 							}
@@ -141,7 +141,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_numericKeypad.png",
 								"width": 800,
 								"height": 450
 							}
@@ -173,7 +173,18 @@
 						"time": "40.56",
 						"play": true
 					},
-					"caption": "The reason for this screen is so that you can ensure you have the money on hand to pay that prize amount to the player."
+					"caption": "The reason for this screen is so that you can ensure you have the money on hand to pay that prize amount to the player.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/validation-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -196,7 +207,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_touchYes.png",
 								"width": 800,
 								"height": 450
 							}
@@ -224,7 +235,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_touchNo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -252,7 +263,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_actuallyTouchingYes.png",
 								"width": 800,
 								"height": 450
 							}
@@ -299,7 +310,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_confirmTouchOK.png",
 								"width": 800,
 								"height": 450
 							}
@@ -327,7 +338,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_touchHome.png",
 								"width": 800,
 								"height": 450
 							}
@@ -402,7 +413,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_touchInstantVal.png",
 								"width": 800,
 								"height": 450
 							}
@@ -505,7 +516,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-validation.png",
+								"url": "lessons/shared/images/instant-validation-confirmation.png",
 								"width": 800,
 								"height": 450
 							}
@@ -514,7 +525,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/08_instantValtouchOK.png",
 								"width": 800,
 								"height": 450
 							}
