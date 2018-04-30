@@ -1,9 +1,9 @@
 {
-    "title": "Financial",
+    "title": " ",
 	"activities": [
 		{
 			"type": "video",
-			"name": " Game Reports - Exercise",
+			"name": "Online Functions - Exercise",
 			"label": "Multiple Choice",
 			"video": {
 				"url": "lessons/shared/html/chime.mp3"
@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/jurisdiction_logo.jpg",
+								"url": "lessons/shared/images/sc_login_page.png",
 								"width": 800,
 								"height": 450
 							}
@@ -33,7 +33,7 @@
 
 		{
 			"type": "guiSimulation",
-			"name": " Game Reports - Exercise",
+			"name": "Online Functions - Exercise",
 			"label": " ",
 			
 			"cuepoints": [
@@ -43,7 +43,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/screen_home.jpg",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							},
@@ -51,12 +51,12 @@
 		                   
 						},
 						{
-							"left": 511,
-							"top": 222,
+							"left": 10,
+							"top": 175,
 							"image": {
-								"url": "lessons/shared/images/button_reports_financial.jpg",
-								"width": 143,
-								"height": 36
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 125,
+								"height": 34
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -65,7 +65,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps\<br />to print a Today sales report.</p>",
+                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps to print your Weekly Invoice report. </p>",
                             "blink": "none"
                         }
 					],
@@ -84,7 +84,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/screen_reports.jpg",
+								"url": "lessons/shared/images/online-functions.png",
 								"width": 800,
 								"height": 450
 							},
@@ -92,12 +92,12 @@
 		                   
 						},
 						{
-							"left": 288,
-							"top": 150,
+							"left": 400,
+							"top": 118,
 							"image": {
-								"url": "lessons/shared/images/btn_daily_reports_exercise.jpg",
-								"width": 117,
-								"height": 36
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 170,
+								"height": 34
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -106,7 +106,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps\<br />to print a Today sales report.</p>",
+                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps to print your Weekly Invoice report.</p>",
                             "blink": "none"
                         }
 					],
@@ -125,7 +125,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/screen_reports_daily.jpg",
+								"url": "lessons/shared/images/weekly-invoice-report.png",
 								"width": 800,
 								"height": 450
 							},
@@ -136,7 +136,7 @@
 							"left": 267,
 							"top": 155,
 							"image": {
-								"url": "lessons/shared/images/btn_reports_daily_today.jpg",
+								"url": "lessons/shared/images/btn_transparent.png",
 								"width": 82,
 								"height": 32
 							},
@@ -147,7 +147,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps\<br />to print a Today sales report.</p>",
+                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps to print your Weekly Invoice report.</p>",
                             "blink": "none"
                         }
 					],
@@ -158,45 +158,7 @@
 					},
             pointsAvailable: 0.0
 				},
-                {
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_reports_daily_view1.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 360,
-							"top": 369,
-							"image": {
-								"url": "lessons/shared/images/btn_daily_view1_print.jpg",
-								"width": 83,
-								"height": 33
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps\<br />to print a Today sales report.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            pointsAvailable: 0.0
-				}
+               
                 
                 
                 
