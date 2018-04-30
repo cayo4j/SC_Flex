@@ -557,7 +557,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ .png",
+								"url": "lessons/shared/images/07_touchArrows.png",
 								"width": 800,
 								"height": 450
 							}
@@ -585,7 +585,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ .png",
+								"url": "lessons/shared/images/07_touchPrint.png",
 								"width": 800,
 								"height": 450
 							}
@@ -613,7 +613,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ .png",
+								"url": "lessons/shared/images/07_fingerServicesBC.png",
 								"width": 800,
 								"height": 450
 							}
@@ -641,7 +641,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ .png",
+								"url": "lessons/shared/images/07_variousTestButtons.png",
 								"width": 800,
 								"height": 450
 							}
@@ -669,7 +669,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ .png",
+								"url": "lessons/shared/images/07_touchVersionInfo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -692,6 +692,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_touchVersionInfo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -708,6 +717,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_touchVersionInfo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -735,7 +753,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ .png",
+								"url": "lessons/shared/images/07_tempMonitorCO.png",
 								"width": 800,
 								"height": 450
 							}
@@ -763,7 +781,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ .png",
+								"url": "lessons/shared/images/07_commlog.png",
 								"width": 800,
 								"height": 450
 							}
@@ -783,6 +801,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_commlog.png",
 								"width": 800,
 								"height": 450
 							}

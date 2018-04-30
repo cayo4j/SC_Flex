@@ -1,74 +1,7 @@
 {
     "title": "Mail",
 	"activities": [
-		{
-			"type": "video",
-			"name": " and News - Exercise",
-			"label": "Multiple Choice",
-			"video": {
-				"url": "lessons/shared/html/chime.mp3"
-			},
-			"cuepoints": [
 
-				{
-					"videoControl" : {
-						"time": "0",
-						"play": true
-					},
-					"caption": " ",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/jurisdiction_logo.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-                        {
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_home_mailx.jpg",
-								"width": 800,
-								"height": 450
-							}
-                        },
-                        {
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_special_functions.jpg",
-								"width": 800,
-								"height": 450
-							}
-		                   
-						},
-                        {
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_mail_exercise.jpg",
-								"width": 800,
-								"height": 450
-							} 
-		                   
-						},
-                        {
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
-								"width": 800,
-								"height": 450
-							} 
-		                   
-						}
-					]
-				}
-			]
-		},
 
 		{
 			"type": "guiSimulation",
@@ -82,379 +15,162 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/screen_home_mailx.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 504,
-							"top": 258,
-							"image": {
-								"url": "lessons/shared/images/btn_specialFunctions.jpg",
-								"width": 156,
-								"height": 41
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You've got mail!<br />Click the appropriate button to reach your Mail messages.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				},
-				
-		
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_special_functions.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 273,
-							"top": 108,
-							"image": {
-								"url": "lessons/shared/images/btn_MailEX.jpg",
-								"width": 123,
-								"height": 48
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You've got mail!<br />Click the appropriate button to reach your Mail messages.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				},
-				
-		
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_mail_exercise.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 193,
-							"top": 144,
-							"image": {
-								"url": "lessons/shared/images/btn_numberTwo.jpg",
-								"width": 38,
-								"height": 36
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>It looks like you have two new Mail messages.<br />Read the second mail message.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				},
-                {
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 403,
-							"top": 238,
-							"image": {
-								"url": "lessons/shared/images/btn_mailMessage.jpg",
-								"width": 198,
-								"height": 136
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area of the screen<br />where the Mail message appears.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				},
-                {
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 228,
-							"top": 144,
-							"image": {
-								"url": "lessons/shared/images/btn_mail_line2.jpg",
-								"width": 31,
-								"height": 36
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area that tells you<br />the message has been read.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				},
-                {
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_mail_exercise2.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 144,
-							"top": 58,
-							"image": {
-								"url": "lessons/shared/images/btn_mail_gohome.jpg",
-								"width": 56,
-								"height": 40
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Return Home</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				},
-                
-                {
-                    
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_home.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 504,
-							"top": 258,
-							"image": {
-								"url": "lessons/shared/images/btn_specialFunctions.jpg",
-								"width": 156,
-								"height": 41
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You read your News Message when you signed on,<br/>but would like to review the message.<br/>Click the button that will take you to your News Messages.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				},
-                {
-                    
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_special_functions.jpg",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 423,
-							"top": 108,
-							"image": {
-								"url": "lessons/shared/images/btn_newsk.jpg",
-								"width": 123,
-								"height": 48
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You read your News Message when you signed on,<br/>but would like to review the message.<br/>Click the button that will take you to your News Messages.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-		            "pointsAvailable": 0
-				},
-               
-                {
-                    
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/screen_news.jpg",
-								"width": 800,
-								"height": 450
-							},
-                            "isSubmit": true
-						},
-						{
-							"left": 360,
-							"top": 369,
-							"image": {
-								"url": "lessons/shared/images/btn_printnews.jpg",
-								"width": 83,
-								"height": 35
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click Print.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					},
-            		"pointsAvailable": 0
-				}
-	]
-				
-		},
-		{		
-			"type": "guiSimulation",
-			"name": "Terminal Settings and Services - Text Based Exercise",
-			"label": "Clear a jammed Play Slip in the reader. Follow each step.",
-			
-			"cuepoints": [
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
 								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
-							}
+							},
+							"isSubmit": true
+		                   
 						},
+						{
+							"left": 758,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 36,
+								"height": 37
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You've got mail!<br />Click the appropriate button to reach your Mail messages.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+				
+		
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/mail-screen-blank.png",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 150,
+							"top": 220,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 320,
+								"height": 36
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You have new mail messages.<br /> Read the mail message. </p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+				
+		
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/mail-screen.png ",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 469,
+							"top": 116,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 320,
+								"height": 321
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area where the mail message appears.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+                {
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/mail-screen.png ",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 153,
+							"top": 118,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 313,
+								"height": 103
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area that shows the message has been read.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
+				},
+                {
+					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
@@ -462,12 +178,41 @@
 								"url": "lessons/shared/images/mail-screen.png",
 								"width": 800,
 								"height": 450
-							}
-						}
-					]
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 151,
+							"top": 114,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 319,
+								"height": 144
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You would like to review a news message. <br />Click the buttons that will take you to your news messages. </p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					},
+            		"pointsAvailable": 0
 				}
-			]	
+
+	]
+				
 		},
+
 		{
 			"type": "summary",
 			"name": "Summary",

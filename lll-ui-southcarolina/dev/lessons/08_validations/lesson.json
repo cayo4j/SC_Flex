@@ -13,14 +13,6 @@
 				{
 
 					"videoControl" : {
-						"time": "-1",
-						"play": true
-					},
-					"caption": "on"
-				},
-				{
-
-					"videoControl" : {
 						"time": "0",
 						"play": true
 					},
@@ -39,6 +31,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/08_CO1.png",
 								"width": 800,
 								"height": 450
 							}
@@ -88,6 +89,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -123,6 +133,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/online-validation.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
 								"width": 800,
 								"height": 450
 							}
@@ -172,6 +191,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -191,6 +219,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -207,6 +244,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/validation-prompt.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
 								"width": 800,
 								"height": 450
 							}
@@ -248,6 +294,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -267,6 +322,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -283,6 +347,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/online-validation-mini-sales.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
 								"width": 800,
 								"height": 450
 							}
@@ -321,6 +394,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
 								"width": 800,
 								"height": 450
 							}
@@ -417,7 +499,27 @@
 						"time": "100.76",
 						"play": true
 					},
-					"caption": "I'll touch OK to pay the prize"
+					"caption": "I'll touch OK to pay the prize",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-validation.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/something.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
