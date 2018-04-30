@@ -17,14 +17,14 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Now let's look at a Lottery ticket.",
+					"caption": "The Online Reports menu is accessed from the Online Functions button on the Home Screen.",
                     "overlays": [
 
 						{
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/coach-karen.jpg",
+                                "url": "lessons/shared/images/homescreen.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -34,17 +34,1003 @@
 				{
 
 					"videoControl" : {
-						"time": "4.309",
+						"time": "5.00",
 						"play": true
 					},
-					"caption": "The game logo, date and time the ticket was printed, and your retailer number are here at the top.",
+					"caption": "I'll touch Online Functions",
                     "overlays": [
 
 						{
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/txTwo_ticket.jpg",
+                                "url": "lessons/shared/images/homescreen.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "7.03",
+						"play": true
+					},
+					"caption": "and the Reports menu displays.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "9.06",
+						"play": true
+					},
+					"caption": "First, let's look at the Sales Report.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "11.25",
+						"play": true
+					},
+					"caption": "This report summarizes Online Game sales by game, validations, cancels, and other Online Game activity.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "19.18",
+						"play": true
+					},
+					"caption": "I'll touch Sales Report.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "21.16",
+						"play": true
+					},
+					"caption": "This report, like many of the Online reports, can be run for Today, a specific day of the week, Week to Date, Weekly, or Other, which allows you to choose any date from the last 52 weeks.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/sales-report-timeframe.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "34.14",
+						"play": true
+					},
+					"caption": "I'll touch Today",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/sales-report-timeframe.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "36.01",
+						"play": true
+					},
+					"caption": "and the Sales report for today displays.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/sales-report-timeframe.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "38.20",
+						"play": true
+					},
+					"caption": "All reports can be viewed on the terminal or can be printed by touching the Print button here.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/sales-report-today.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "44.07",
+						"play": true
+					},
+					"caption": "I'll touch Online Functions",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/sales-report-today.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "46.03",
+						"play": true
+					},
+					"caption": "to return to the Reports menu.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "47.27",
+						"play": true
+					},
+					"caption": "Next is the Summary Report.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "49.25",
+						"play": true
+					},
+					"caption": "This report summarizes and verifies Instant Ticket Activations, Instant Ticket Returns, Online Sales, Cancels, Cashes, and Promotion credits processed by the terminal.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "62.06",
+						"play": true
+					},
+					"caption": "This report summarizes and verifies Instant Ticket Activations, Instant Ticket Returns, Online Sales, Cancels, Cashes, and Promotion credits processed by the terminal.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "70.03",
+						"play": true
+					},
+					"caption": "The Weekly Invoice report provides the information you need to know in advance of the Lottery sweep from your bank account to settle the week's activities.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "77.09",
+						"play": true
+					},
+					"caption": "This Report prints upon the first sign-on on Sunday morning and lists all the online and instant activity for the previous week",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "80.03",
+						"play": true
+					},
+					"caption": "and the EFT amount due to the Lottery.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "83.03",
+						"play": true
+					},
+					"caption": "You can touch Previous Weekly Invoice",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "87.27",
+						"play": true
+					},
+					"caption": "to access prior invoice reports by using the buttons for the last nine weeks",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/previous-weekly-invoice-timeframe.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "91.24",
+						"play": true
+					},
+					"caption": "or choose other to enter an earlier date.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/previous-weekly-invoice-timeframe.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "94.00",
+						"play": true
+					},
+					"caption": "I'll go back to the Reports menu.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/previous-weekly-invoice-timeframe.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "99.01",
+						"play": true
+					},
+					"caption": "The Cashes Report displays the online and instant game prizes paid by you.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "106.17",
+						"play": true
+					},
+					"caption": "The Adjustments Report lists detailed adjustments and is useful for verifying financial adjustments made by the Lottery.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "113.19",
+						"play": true
+					},
+					"caption": "The next report is the Selling Bonus Report, which shows a summary of all Instant and Online Game Bonuses.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "118.17",
+						"play": true
+					},
+					"caption": "The Commissions Report displays the sales commission your store earned on all games.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "131.24",
+						"play": true
+					},
+					"caption": "The Liability Report lists numbers that have reached at least 95% sold for the next draw for Pick 3 or Pick 4. This report is useful for determining the outstanding liability for the upcoming game draw.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "136.02",
+						"play": true
+					},
+					"caption": "Draw Game winning numbers reports are also accessed from the Reports menu.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "143.05",
+						"play": true
+					},
+					"caption": "The Winning Numbers - Last 10 Draws report shows the selected game’s winning numbers for the last 10 drawings.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "152.10",
+						"play": true
+					},
+					"caption": "The Winning Numbers - Daily report shows the numbers drawn for the selected game draw date, the number of winners, and the prize amount for each level.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "160.22",
+						"play": true
+					},
+					"caption": "The Winning Numbers - All Games Report displays the winning numbers for the last drawing or the last four draws based on the number of draws per day.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "163.15",
+						"play": true
+					},
+					"caption": "I'll touch Winning Numbers - All Games",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "165.06",
+						"play": true
+					},
+					"caption": "and the report displays.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/winning-numbers-all-games.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "169.28",
+						"play": true
+					},
+					"caption": "Winning Numbers reports are used for winner awareness to help promote sales in your store. ",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/winning-numbers-all-games.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "177.25",
+						"play": true
+					},
+					"caption": "The Current Jackpot report provides the convenience of viewing the current jackpot totals for all jackpot games on one report.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						}
+					]
+				},
+				{
+
+					"videoControl" : {
+						"time": "177.25",
+						"play": true
+					},
+					"caption": "That's an overview of the Online Reports.",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/online-functions.png",
                                 "width": 800,
                                 "height": 450
                             }
