@@ -59,7 +59,7 @@
 		{
 			"type": "singleChoice",
 			"name": "Barcode Scanner - Exercise",
-			"label": "True or False: The Barcode Scanner is used to scan both Scratch off and Draw Game Ticket barcodes.",
+			"label": "True or False: The Barcode Scanner is used to scan both Instant and Draw Game Ticket barcodes.",
 			"options": [
 				{
 					"label": "True",
@@ -73,7 +73,7 @@
 			"feedback": {
 				"valid": {
 					"label": "You are right!",
-					"text": "The External Barcode Scanner is used to read both Scratch off and Draw Game ticket barcodes."
+					"text": "The External Barcode Scanner is used to read both Instant and Draw Game ticket barcodes."
 				},
 				"invalid": {
 					"label": "Sorry,",

@@ -14,14 +14,14 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's start out by turning on the terminal. There are two power buttons you can use."
+					"caption": "Let's start out by turning on the Terminal. There are two power buttons you can use."
 				},
 				{
 					"videoControl" : {
 						"time": "4.26",
 						"play": true
 					},
-					"caption": "The on/off switch is located on the back of the terminal. ",
+					"caption": "The on/off switch is located on the back of the Terminal. ",
 					"overlays": [
 						{
 							"left": 0,
@@ -143,7 +143,7 @@
 						"time": "32.06",
 						"play": true
 					},
-					"caption": "The amber light will turn green and the terminal will begin to load."
+					"caption": "The amber light will turn green and the Terminal will begin to load."
 				},
 				{
 
@@ -170,7 +170,7 @@
 						"time": "38.08",
 						"play": true
 					},
-					"caption": "The Touch Screen is the main point of access to your terminal functions.",
+					"caption": "The Touch Screen is the main point of access to all of your terminal functions.",
 					"overlays": [
 						{
 							"left": 0,

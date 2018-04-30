@@ -15,7 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Hello!  Welcome to the online retailer training for your new Flex terminal. "
+					"caption": "Hello!  Welcome to the online retailer training for your new Flex Terminal. "
 				},
 				{
 
@@ -23,13 +23,13 @@
 						"time": "4.15",
 						"play": true
 					},
-					"caption": "In this training series, we'll introduce you to the equipment and the game functions available on the terminal. ",
+					"caption": "In this training series, we'll introduce you to the equipment and the game functions available on the Terminal. ",
 					"overlays": [
 						{
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/flex-terminal-peripherals.png",
+								"url": "lessons/shared/images/flex-Terminal-peripherals.png",
 								"width": 800,
 								"height": 450
 							}
@@ -42,7 +42,7 @@
 						"time": "10.02",
 						"play": true
 					},
-					"caption": "We'll provide you with the opportunity to explore the terminal and practice making tickets just like you would in your store. "
+					"caption": "We'll provide you with the opportunity to explore the Terminal and practice making tickets just like you would in your store. "
 				},
 				{
 
@@ -58,7 +58,7 @@
 						"time": "20.17",
 						"play": true
 					},
-					"caption": "Your terminal is loaded with many features. "
+					"caption": "Your Terminal is loaded with many features. "
 
 				},
 				{
@@ -94,7 +94,7 @@
 						"time": "27.26",
 						"play": true
 					},
-					"caption": "You have a colorful Touch Screen that gives you easy access to all of your terminal functions. ",
+					"caption": "You have a colorful Touch Screen that gives you easy access to all of your Terminal functions. ",
 					"overlays": [
 						{
 							"left": 0,
