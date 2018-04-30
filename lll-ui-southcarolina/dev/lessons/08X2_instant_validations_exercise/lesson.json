@@ -1,5 +1,5 @@
 {
-    "title": "Validating Scratch Tickets - Exercise",
+    "title": "Instants Validation - Exercise",
     "activities": [
 
         {
@@ -9,7 +9,7 @@
 			
 			"feedback": {
 				"valid": {
-					"label": "That was some great work! Let's keep moving.",
+					"label": "That was awesome! Let's keep moving.",
 					"text": " "
 				},
 				"invalid": {
