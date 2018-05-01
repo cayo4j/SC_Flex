@@ -15,18 +15,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "I want to talk briefly about some of the peripheral hardware you will have in your store.",
-					"overlays": [
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "I want to talk briefly about some of the peripheral hardware you will have in your store."
 
 				},
 				{
@@ -35,7 +24,7 @@
 						"time": "4.23",
 						"play": true
 					},
-					"caption": "Near your terminal most likely you�ll have a Player Information Display (or PID) connected to it.",
+					"caption": "Near your terminal most likely you'll have a Player Information Display (or PID) connected to it.",
 					"overlays": [
 						{
 							"left": 0,
@@ -47,9 +36,9 @@
 							}
 						},
 						{
-                            "left": 649,
+                            "left": 49,
                             "top": 14,
-                            "label": "Multimedia Monitor",
+                            "label": "Player Information Display",
                             "blink": "none"						
 						}
 					]
@@ -67,15 +56,6 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/esmm-monitor-transaction.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-monitor-advertising.jpg",
 								"width": 800,
 								"height": 450
 							}
@@ -117,15 +97,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/esmm-power-button.png",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -154,15 +125,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/coach-anthony-centered.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}						
 					]
 				},
@@ -178,16 +140,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/coach-anthony-centered.jpg",
-								"width": 800,
-								"height": 450
-							}
-						},
-{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/ticket-scan-plus.jpg",
+								"url": "lessons/shared/images/esmm-monitor-transaction.png",
 								"width": 800,
 								"height": 450
 							}
@@ -207,7 +160,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/ticket-scan-plus.jpg",
+								"url": "lessons/shared/images/ticket-scan-plus.png",
 								"width": 800,
 								"height": 450
 							}
@@ -223,10 +176,10 @@
 					"caption": "The Ticket Checker is the next generation of self-service designed for players to check their Draw Game and Instant tickets for winning status without interrupting your store routine.",
 					"overlays": [
 						{
-							"left": -9999,
+							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/tsp-red-beam.jpg",
+								"url": "lessons/shared/images/ticket-scan-plus.png",
 								"width": 800,
 								"height": 450
 							}
@@ -249,15 +202,6 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/scan_scratch_tsp.jpg",
-								"width": 800,
-								"height": 450
-							}
 						}
 					]
 				},
@@ -277,16 +221,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": -9999,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/retailer-handing-cash.jpg",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					
 					]
 				},
@@ -302,7 +237,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/retailer-handing-cash.jpg",
+								"url": "lessons/shared/images/retailer-handing-cash.png",
 								"width": 800,
 								"height": 450
 							}
@@ -315,7 +250,7 @@
 						"time": "67.01",
 						"play": true
 					},
-					"caption": "Now let�s talk about some of the other items that may be connected to your terminal."
+					"caption": "Now let's talk about some of the other items that may be connected to your terminal."
 				},
 				{
 
@@ -333,16 +268,7 @@
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -404,7 +330,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/13_arrow.png",
 								"width": 800,
 								"height": 450
 							}

@@ -33,7 +33,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/09_callout1.png",
 								"width": 800,
 								"height": 450
 							}
@@ -62,7 +62,16 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout1.png",
+                                "width": 800,
+                                "height": 450
+                            }
+						},
+                        {
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/09_callout1Touch.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -83,15 +92,6 @@
                             "top": 0,
                             "image": {
                                 "url": "lessons/shared/images/online-functions.png",
-                                "width": 800,
-                                "height": 450
-                            }
-						},
-                        {
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -120,7 +120,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout2.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -149,7 +149,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout2.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -178,7 +178,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout2Touch.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -207,7 +207,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout3.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -236,7 +236,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout3Touch.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -257,15 +257,6 @@
                             "top": 0,
                             "image": {
                                 "url": "lessons/shared/images/sales-report-today.png",
-                                "width": 800,
-                                "height": 450
-                            }
-						},
-                        {
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -294,7 +285,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_printButton.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -323,7 +314,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout4Touch.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -344,15 +335,6 @@
                             "top": 0,
                             "image": {
                                 "url": "lessons/shared/images/online-functions.png",
-                                "width": 800,
-                                "height": 450
-                            }
-						},
-                        {
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -381,7 +363,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout5.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -410,7 +392,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout5.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -439,7 +421,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout6.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -468,7 +450,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout6.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -497,7 +479,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout6.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -526,7 +508,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout6Touch.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -555,7 +537,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout7.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -584,7 +566,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout8.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -613,7 +595,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout8Touch.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -642,7 +624,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout9.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -671,7 +653,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout10.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -700,7 +682,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout11.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -729,7 +711,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout12.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -758,7 +740,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout13.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -787,7 +769,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout14.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -800,7 +782,7 @@
 						"time": "143.05",
 						"play": true
 					},
-					"caption": "The Winning Numbers - Last 10 Draws report shows the selected game’s winning numbers for the last 10 drawings.",
+					"caption": "The Winning Numbers - Last 10 Draws report shows the selected games winning numbers for the last 10 drawings.",
                     "overlays": [
 
 						{
@@ -816,7 +798,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout15.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -845,7 +827,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout16.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -874,7 +856,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout17.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -903,7 +885,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout17Touch.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -927,15 +909,6 @@
                                 "width": 800,
                                 "height": 450
                             }
-						},
-                        {
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
-                                "width": 800,
-                                "height": 450
-                            }
 						}
 					]
 				},
@@ -953,15 +926,6 @@
                             "top": 0,
                             "image": {
                                 "url": "lessons/shared/images/winning-numbers-all-games.png",
-                                "width": 800,
-                                "height": 450
-                            }
-						},
-                        {
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -990,7 +954,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
+                                "url": "lessons/shared/images/09_callout18.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -1011,15 +975,6 @@
                             "top": 0,
                             "image": {
                                 "url": "lessons/shared/images/online-functions.png",
-                                "width": 800,
-                                "height": 450
-                            }
-						},
-                        {
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
                                 "width": 800,
                                 "height": 450
                             }

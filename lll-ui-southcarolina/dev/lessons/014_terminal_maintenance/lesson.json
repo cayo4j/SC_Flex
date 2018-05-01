@@ -115,7 +115,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/14_callout1.png",
 								"width": 800,
 								"height": 450
 							}
@@ -252,6 +252,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/14_callout2.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -370,8 +379,8 @@
 							}
 						},
 						{
-                            "left": 465,
-                            "top": 360,
+                            "left": 627,
+                            "top": 69,
                             "label": "PAPER LOW",
                             "blink": "none"
                         }
@@ -395,8 +404,8 @@
 							}
 						},
 						{
-                            "left": 465,
-                            "top": 360,
+                            "left": 627,
+                            "top": 69,
                             "label": "PAPER LOW",
                             "blink": "none"
                         }
@@ -420,8 +429,8 @@
 							}
 						},
 						{
-                            "left": 465,
-                            "top": 360,
+                            "left": 627,
+                            "top": 69,
                             "label": "PAPER LOW",
                             "blink": "none"
                         }
@@ -577,6 +586,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/14_callout3.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -593,6 +611,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/14_callout4.png",
 								"width": 800,
 								"height": 450
 							}
