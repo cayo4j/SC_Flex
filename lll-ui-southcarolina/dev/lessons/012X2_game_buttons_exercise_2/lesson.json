@@ -568,9 +568,61 @@
                         "attemptsAvailable": 3,
                         "timeout": 12
 					}
+				},
+				{
+
+                    "caption": " ",
+                    "overlays": [
+ 
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/powerball-total-EX-change.png",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 633,
+                            "top": 302,
+                            "image": {
+                                "url": "lessons/shared/images/btn_transparent.png",
+                                "width": 120,
+                                "height": 38
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        }
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+					}
 				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 			]
-		}
+		},
+
+        {
+            "type": "summary",
+            "name": "Summary",
+			"isOptional": false
+        }
 	]
 }
     
