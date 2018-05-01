@@ -5,12 +5,10 @@
 		{
 			"type": "guiSimulation",
 			"name": "Game Buttons – Exercise 2",
-			"label": " ",
-			"videoControl": {
-                        "time": 0,
-                        "play": false
-                    },
-                    "caption": " ",
+		
+"cuepoints": [
+				{
+              
                     "overlays": [
 
 						{
@@ -24,12 +22,12 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 152,
-                            "top": 77,
+                            "left": 149,
+                            "top": 74,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 108,
-                                "height": 33
+                                "width": 145,
+                                "height": 47
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -37,9 +35,9 @@
                         },
 
 						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
+                            "left": 300,
+                            "top": 200,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
                             "blink": "none"
 						}
                     ],
@@ -64,8 +62,8 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 183,
-                            "top": 228,
+                            "left": 174,
+                            "top": 193,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
                                 "width": 35,
@@ -74,14 +72,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -115,14 +106,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -155,14 +139,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -195,14 +172,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -235,14 +205,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -275,14 +238,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -315,14 +271,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -355,14 +304,7 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -371,46 +313,7 @@
         },
 		
 
-		{
 
-                    "caption": " ",
-                    "overlays": [
- 
-						{
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/powerball-manual-3Draws-pb2.png",
-                                "width": 800,
-                                "height": 450
-                            },
-                            "isSubmit": true
-                        },
-                        {
-                            "left": 251,
-                            "top": 320,
-                            "image": {
-                                "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
-                            },
-                            "isSubmit": true,
-                            "isCorrect": true,
-                            "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
-                    ],
-                    "reveal": {
-                        "attemptsAvailable": 3,
-                        "timeout": 12
-                    }
-        },
 		
 
 		{
@@ -429,24 +332,17 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 251,
-                            "top": 320,
+                            "left": 236,
+                            "top": 269,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
+                                "width": 91,
+                                "height": 35
                             },
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -471,24 +367,17 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 251,
-                            "top": 320,
+                            "left": 636,
+                            "top": 410,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
+                                "width": 123,
+                                "height": 35
                             },
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -513,11 +402,11 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 251,
-                            "top": 320,
+                            "left": 674,
+                            "top": 189,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
+                                "width": 41,
                                 "height": 34
                             },
                             "isSubmit": true,
@@ -526,9 +415,9 @@
                         },
 
 						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $20.00 bill.  Process their payment.",
                             "blink": "none"
 						}
                     ],
@@ -555,24 +444,17 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 251,
-                            "top": 320,
+                            "left": 674,
+                            "top": 225,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
+                                "width": 37,
+                                "height": 35
                             },
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -597,24 +479,17 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 251,
-                            "top": 320,
+                            "left": 674,
+                            "top": 225,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
+                                "width": 37,
+                                "height": 35
                             },
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -639,24 +514,17 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 251,
-                            "top": 320,
+                            "left": 674,
+                            "top": 225,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
+                                "width": 37,
+                                "height": 35
                             },
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -665,46 +533,7 @@
         },
 		
 
-		{
 
-                    "caption": " ",
-                    "overlays": [
- 
-						{
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/powerball-total-2000.png",
-                                "width": 800,
-                                "height": 450
-                            },
-                            "isSubmit": true
-                        },
-                        {
-                            "left": 251,
-                            "top": 320,
-                            "image": {
-                                "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
-                            },
-                            "isSubmit": true,
-                            "isCorrect": true,
-                            "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
-                    ],
-                    "reveal": {
-                        "attemptsAvailable": 3,
-                        "timeout": 12
-                    }
-        },
 		
 
 		{
@@ -723,56 +552,25 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 251,
-                            "top": 320,
+                            "left": 633,
+                            "top": 262,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 65,
-                                "height": 34
+                                "width": 120,
+                                "height": 38
                             },
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        },
-
-						{
-                            "left": 25,
-                            "top": 396,
-                            "label": "<b>INSTRUCTIONS:</b>\<br>A player has requested a Powerball ticket for 3 Draws for the numbers 1, 5, 10, 12, and 15 and the Powerball 2. Use the terminal application to manually place this wager for the player.",
-                            "blink": "none"
-						}
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
                         "timeout": 12
-                    }
-        }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-            ]
-        },
-        {
-            "type": "summary",
-            "name": "Summary"
-        }
-    ]
+					}
+				}
+			]
+		}
+	]
 }
+    
