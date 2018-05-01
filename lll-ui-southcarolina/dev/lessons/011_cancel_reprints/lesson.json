@@ -41,7 +41,7 @@
 				{
 
 					"videoControl" : {
-						"time": "3.24",
+						"time": "3.75",
 						"play": true
 					},
 					"caption": "Some draw game tickets may be cancelled according to game rules. Let's review how to cancel a ticket now."
@@ -360,7 +360,7 @@
 				{
 
 					"videoControl" : {
-						"time": "44.25",
+						"time": "45",
 						"play": true
 					},
 					"caption": "You may also run into a situation where you need to reprint a ticket that has torn, mis-printed, or been damaged in some way when printing."
@@ -545,7 +545,7 @@
 				{
 
 					"videoControl" : {
-						"time": "0",
+						"time": "85",
 						"play": true
 					},
 					"caption": "And finally Last Cancellation prints a receipt for the last cancellation.",
@@ -573,7 +573,7 @@
 				{
 
 					"videoControl" : {
-						"time": "0",
+						"time": "90.1",
 						"play": true
 					},
 					"caption": "Let's move on!"
