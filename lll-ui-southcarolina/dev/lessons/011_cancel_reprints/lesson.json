@@ -284,7 +284,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cancel-online-total.png",
+								"url": "lessons/shared/images/cancel-total.png",
 								"width": 800,
 								"height": 450
 							}
@@ -326,7 +326,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_clearButton.png",
+								"width": 800,
+								"height": 450
+							}
+						}
 					]
 				},
 				{
@@ -399,6 +408,15 @@
 								"width": 800,
 								"height": 450
 							}
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_touchReprints.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 				},
@@ -446,7 +464,27 @@
 						"time": "68.02",
 						"play": true
 					},
-					"caption": "Last Transaction lets you print a receipt for the most recent transaction processed by the terminal."
+					"caption": "Last Transaction lets you print a receipt for the most recent transaction processed by the terminal.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_lastTransaction.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
+					]
 				},
 				{
 
@@ -461,6 +499,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/reprints.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_lastPlay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -483,6 +530,15 @@
 								"width": 800,
 								"height": 450
 							}
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_someMoreLastThings.png",
+								"width": 800,
+								"height": 450
+							}
 						} 
 					]
 				},
@@ -502,7 +558,16 @@
 								"width": 800,
 								"height": 450
 							}
-						} 
+						} ,
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/11_theLastLastThing.png",
+								"width": 800,
+								"height": 450
+							}
+						}  
 					]
 				},
 				{
