@@ -34,6 +34,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -91,6 +100,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -107,6 +125,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/cis-reader-test.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -165,6 +192,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -244,6 +280,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -260,6 +305,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -298,6 +352,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -358,6 +421,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -374,6 +446,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -520,6 +601,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -536,6 +626,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/reader-exercise-02.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -605,7 +704,18 @@
 						"time": "124.29",
 						"play": true
 					},
-					"caption": "and return to the Services menu and run a CIS Reader Test."
+					"caption": "and return to the Services menu and run a CIS Reader Test.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
