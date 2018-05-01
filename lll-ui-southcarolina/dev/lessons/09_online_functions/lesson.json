@@ -28,6 +28,15 @@
                                 "width": 800,
                                 "height": 450
                             }
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -247,7 +256,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/sales-report-timeframe.png",
+                                "url": "lessons/shared/images/sales-report-today.png",
                                 "width": 800,
                                 "height": 450
                             }
@@ -383,35 +392,6 @@
 
 					"videoControl" : {
 						"time": "49.25",
-						"play": true
-					},
-					"caption": "This report summarizes and verifies Instant Ticket Activations, Instant Ticket Returns, Online Sales, Cancels, Cashes, and Promotion credits processed by the terminal.",
-                    "overlays": [
-
-						{
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/online-functions.png",
-                                "width": 800,
-                                "height": 450
-                            }
-						},
-                        {
-                            "left": 0,
-                            "top": 0,
-                            "image": {
-                                "url": "lessons/shared/images/co_tts_tkt_logo.png",
-                                "width": 800,
-                                "height": 450
-                            }
-						}
-					]
-				},
-				{
-
-					"videoControl" : {
-						"time": "62.06",
 						"play": true
 					},
 					"caption": "This report summarizes and verifies Instant Ticket Activations, Instant Ticket Returns, Online Sales, Cancels, Cashes, and Promotion credits processed by the terminal.",
