@@ -1,5 +1,5 @@
 {
-    "title": "Performing Draw Game Validation - Exercise",
+    "title": "Game Buttons - Exercise 1",
     "activities": [
 
         {
@@ -9,8 +9,8 @@
 			
 			"feedback": {
 				"valid": {
-					"label": "Great job!  Click OK to proceed.",
-					"text": "performing a draw game validation!"
+					"label": "Great job",
+					"text": "performing a playslip wager!"
 				},
 				"invalid": {
 					"label": " "

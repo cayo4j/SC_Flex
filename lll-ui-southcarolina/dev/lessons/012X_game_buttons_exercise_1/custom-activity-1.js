@@ -76,21 +76,10 @@ function startGame(completedCallback) {
         if (counter == 2) {
             p++;
             console.log('Interaction #2');
-            //change instructions
-            //document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Enter the 18-digit serial number.";
-            //change screen
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/validate_ex_aon.png' />";
-            //replace ticket with zoomed in version
-            //document.getElementById("zoomed").innerHTML = "<img src='lessons/shared/images/terminal_ticket_zoomed.png' draggable='false'/>";
-            document.getElementById("ticket").style.display = 'none';
-            //document.getElementById("zoomed").style.height = 'auto';
-            document.getElementById("wrong").style.display = 'none';
-            document.getElementById("dropzone").style.display = 'none';
-            //re-render draw game inquiry button
-            //
-            document.getElementById("button_dgi").style.display = 'inline';
 
-            document.getElementById("button_dgi").onclick = respond;
+            // calling completion
+            finalScore = getCalculatedScore();
+            completedCallback(finalScore); //this ends the exercise.
 
 
             //kill DnD
