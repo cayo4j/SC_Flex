@@ -16,18 +16,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Ok, now let's look at this area of the screen.",
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/homescreen.png",
-								"width": 800,
-								"height": 450
-							}
-						}
-					]
+					"caption": "Ok, now let's look at this area of the screen."
 				},
 				{
 
@@ -436,7 +425,7 @@
 				{
 
 					"videoControl" : {
-						"time": "53.08",
+						"time": "55.13",
 						"play": true
 					},
 					"caption": "Let's say this player wants 3 draws.",
@@ -455,7 +444,7 @@
 				{
 
 					"videoControl" : {
-						"time": "55.13",
+						"time": "57.29",
 						"play": true
 					},
 					"caption": "Simply touch 3 from the Draws options,",
@@ -483,7 +472,7 @@
 				{
 
 					"videoControl" : {
-						"time": "57.29",
+						"time": "61.01",
 						"play": true
 					},
 					"caption": "and 3 draws are now selected.",
@@ -511,7 +500,7 @@
 				{
 
 					"videoControl" : {
-						"time": "61.01",
+						"time": "63.06",
 						"play": true
 					},
 					"caption": "All wager options are selected on this one screen.",
@@ -530,7 +519,7 @@
 				{
 
 					"videoControl" : {
-						"time": "63.06",
+						"time": "66.13",
 						"play": true
 					},
 					"caption": "To manually enter a player's numbers, touch Choose Numbers here,",
@@ -558,7 +547,7 @@
 				{
 
 					"videoControl" : {
-						"time": "66.13",
+						"time": "71.03",
 						"play": true
 					},
 					"caption": "or touch Quick Pick.",
@@ -586,7 +575,7 @@
 				{
 
 					"videoControl" : {
-						"time": "71.03",
+						"time": "73",
 						"play": true
 					},
 					"caption": "If I touch Choose Numbers,",
@@ -605,7 +594,7 @@
 				{
 
 					"videoControl" : {
-						"time": "73",
+						"time": "75",
 						"play": true
 					},
 					"caption": "the Manual Entry screen displays.",
@@ -624,7 +613,7 @@
 				{
 
 					"videoControl" : {
-						"time": "75",
+						"time": "77.05",
 						"play": true
 					},
 					"caption": "From here I can enter the player's numbers, ",
@@ -652,7 +641,7 @@
 				{
 
 					"videoControl" : {
-						"time": "77.05",
+						"time": "79.23",
 						"play": true
 					},
 					"caption": "or I can still choose Quick Pick.",
@@ -680,7 +669,7 @@
 				{
 
 					"videoControl" : {
-						"time": "79.23",
+						"time": "82.12",
 						"play": true
 					},
 					"caption": "Numbers turn orange when selected,",
@@ -708,7 +697,7 @@
 				{
 
 					"videoControl" : {
-						"time": "82.12",
+						"time": "85.207",
 						"play": true
 					},
 					"caption": "even the Power Ball.",
@@ -736,7 +725,7 @@
 				{
 
 					"videoControl" : {
-						"time": "84.26",
+						"time": "86.5",
 						"play": true
 					},
 					"caption": "One more thing I should point out are the Game Tabs on the top of the screen here.",
@@ -764,7 +753,7 @@
 				{
 
 					"videoControl" : {
-						"time": "86.13",
+						"time": "91",
 						"play": true
 					},
 					"caption": "You can use these to toggle between Games.",
@@ -783,7 +772,7 @@
 				{
 
 					"videoControl" : {
-						"time": "90.23",
+						"time": "93.806",
 						"play": true
 					},
 					"caption": "When I've finished entering the customer's numbers, I'll touch Send.",
@@ -811,7 +800,7 @@
 				{
 
 					"videoControl" : {
-						"time": "93.09",
+						"time": "97.2",
 						"play": true
 					},
 					"caption": "I am asked if the customer would like to add Power Play. I'll touch No.",
@@ -839,7 +828,7 @@
 				{
 
 					"videoControl" : {
-						"time": "97.02",
+						"time": "101.6",
 						"play": true
 					},
 					"caption": "The ticket cost is shown here in the Mini Display.",
@@ -867,7 +856,7 @@
 				{
 
 					"videoControl" : {
-						"time": "101.11",
+						"time": "105.142",
 						"play": true
 					},
 					"caption": "From here I can touch Total to total out the player.",
@@ -895,7 +884,7 @@
 				{
 
 					"videoControl" : {
-						"time": "104.23",
+						"time": "108.6",
 						"play": true
 					},
 					"caption": "Now I can enter the cash the customer gave me. ",
@@ -914,7 +903,7 @@
 				{
 
 					"videoControl" : {
-						"time": "108.12",
+						"time": "111.6",
 						"play": true
 					},
 					"caption": "The customer gave me a $10.00 bill, so I'll touch 1 ",
@@ -942,7 +931,7 @@
 				{
 
 					"videoControl" : {
-						"time": "111.12",
+						"time": "115.5",
 						"play": true
 					},
 					"caption": "0",
@@ -970,7 +959,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.28",
+						"time": "116.694",
 						"play": true
 					},
 					"caption": "0",
@@ -998,7 +987,7 @@
 				{
 
 					"videoControl" : {
-						"time": "115.10",
+						"time": "117.23",
 						"play": true
 					},
 					"caption": "0",
@@ -1026,7 +1015,7 @@
 				{
 
 					"videoControl" : {
-						"time": "116.10",
+						"time": "118.424",
 						"play": true
 					},
 					"caption": "and then touch Total.",
@@ -1054,7 +1043,7 @@
 				{
 
 					"videoControl" : {
-						"time": "117.08",
+						"time": "120.013",
 						"play": true
 					},
 					"caption": "The Change Due to the player is displayed here.",
@@ -1082,7 +1071,7 @@
 				{
 
 					"videoControl" : {
-						"time": "118.05",
+						"time": "122.715",
 						"play": true
 					},
 					"caption": "Now, I'll touch Clear ",
@@ -1110,7 +1099,7 @@
 				{
 
 					"videoControl" : {
-						"time": "121.08",
+						"time": "124.55",
 						"play": true
 					},
 					"caption": "and I'm returned to the Home screen where I'm ready for my next transaction.",
@@ -1129,7 +1118,7 @@
 				{
 
 					"videoControl" : {
-						"time": "124.14",
+						"time": "128.532",
 						"play": true
 					},
 					"caption": "It's important to Clear out the current customer ",
@@ -1148,7 +1137,7 @@
 				{
 
 					"videoControl" : {
-						"time": "128.10",
+						"time": "130.45",
 						"play": true
 					},
 					"caption": "before moving forward with the next customer. ",
@@ -1167,7 +1156,7 @@
 				{
 
 					"videoControl" : {
-						"time": "132.14",
+						"time": "132.694",
 						"play": true
 					},
 					"caption": "Easy right? ",
@@ -1186,7 +1175,7 @@
 				{
 
 					"videoControl" : {
-						"time": "133.23",
+						"time": "133.936",
 						"play": true
 					},
 					"caption": "Next, let's place a wager using the Quick Pick buttons for Palmetto Cash 5.",
@@ -1205,7 +1194,7 @@
 				{
 
 					"videoControl" : {
-						"time": "138.04",
+						"time": "138.527",
 						"play": true
 					},
 					"caption": "This customer asks for a Palmetto Cash 5 $1 QP, so I touch $1 QP here ",
@@ -1233,7 +1222,7 @@
 				{
 
 					"videoControl" : {
-						"time": "145.05",
+						"time": "145.332",
 						"play": true
 					},
 					"caption": "and the screen prompts me to ask the customer if they would like to add Power-Up.",
@@ -1252,7 +1241,7 @@
 				{
 
 					"videoControl" : {
-						"time": "149.10",
+						"time": "149.787",
 						"play": true
 					},
 					"caption": "The customer would like to add Power-Up, so I'll touch Yes",
@@ -1280,7 +1269,7 @@
 				{
 
 					"videoControl" : {
-						"time": "153.14",
+						"time": "153.434",
 						"play": true
 					},
 					"caption": "and notice here that the cost of the Power-Up option has been added to the cost of the ticket.",
@@ -1308,7 +1297,7 @@
 				{
 
 					"videoControl" : {
-						"time": "158.13",
+						"time": "158.787",
 						"play": true
 					},
 					"caption": "I'll touch Total",
@@ -1336,7 +1325,7 @@
 				{
 
 					"videoControl" : {
-						"time": "160.00",
+						"time": "160.206",
 						"play": true
 					},
 					"caption": "and here I enter the amount of cash the customer gave me, in this case a $20 bill.",
@@ -1355,7 +1344,7 @@
 				{
 
 					"videoControl" : {
-						"time": "164.29",
+						"time": "165.404",
 						"play": true
 					},
 					"caption": "If I make an entry mistake, I would just touch CLEAR here",
@@ -1374,7 +1363,7 @@
 				{
 
 					"videoControl" : {
-						"time": "168.29",
+						"time": "169.127",
 						"play": true
 					},
 					"caption": "or use the back arrow button.",
@@ -1402,7 +1391,7 @@
 				{
 
 					"videoControl" : {
-						"time": "171.13",
+						"time": "171.5",
 						"play": true
 					},
 					"caption": "I touch Total again,",
@@ -1430,7 +1419,7 @@
 				{
 
 					"videoControl" : {
-						"time": "172.28",
+						"time": "173.2",
 						"play": true
 					},
 					"caption": "and notice that the Change Due to the customer shows here.",
@@ -1458,7 +1447,7 @@
 				{
 
 					"videoControl" : {
-						"time": "175.23",
+						"time": "176",
 						"play": true
 					},
 					"caption": "I may print a receipt for the customer showing cash and change given by touching the Print button.",
@@ -1486,7 +1475,7 @@
 				{
 
 					"videoControl" : {
-						"time": "181.12",
+						"time": "181.842",
 						"play": true
 					},
 					"caption": "Otherwise, I just touch Clear and I'm returned to the Home screen where I'm ready for my next customer.",
@@ -1514,7 +1503,7 @@
 				{
 
 					"videoControl" : {
-						"time": "187.11",
+						"time": "187.712",
 						"play": true
 					},
 					"caption": "Next, I'm placing a wager using a Play Slip for Pick 3. I just insert it into the Play Slip Reader,",
@@ -1533,7 +1522,7 @@
 				{
 
 					"videoControl" : {
-						"time": "193.17",
+						"time": "193.883",
 						"play": true
 					},
 					"caption": "and complete the transaction by Totaling the player.",
@@ -1561,7 +1550,7 @@
 				{
 
 					"videoControl" : {
-						"time": "196.20",
+						"time": "196.948",
 						"play": true
 					},
 					"caption": "Play It Again is an easy feature, where you can place a wager for a player ",
@@ -1589,7 +1578,7 @@
 				{
 
 					"videoControl" : {
-						"time": "204.05",
+						"time": "201.078",
 						"play": true
 					},
 					"caption": "using the same options from a previously generated ticket. ",
@@ -1617,7 +1606,7 @@
 				{
 
 					"videoControl" : {
-						"time": "206.04",
+						"time": "204.521",
 						"play": true
 					},
 					"caption": "Touch Play It Again ",
@@ -1645,7 +1634,7 @@
 				{
 
 					"videoControl" : {
-						"time": "207.26",
+						"time": "206.099",
 						"play": true
 					},
 					"caption": "and scan a ticket barcode ",
@@ -1664,7 +1653,7 @@
 				{
 
 					"videoControl" : {
-						"time": "211.11",
+						"time": "208.123",
 						"play": true
 					},
 					"caption": "or manually enter the barcode on the original ticket. ",
@@ -1683,7 +1672,7 @@
 				{
 
 					"videoControl" : {
-						"time": "212.27",
+						"time": "211.744",
 						"play": true
 					},
 					"caption": "I'll scan a ticket ",
@@ -1702,7 +1691,7 @@
 				{
 
 					"videoControl" : {
-						"time": "214.07",
+						"time": "213.1",
 						"play": true
 					},
 					"caption": "and touch Submit ",
@@ -1721,7 +1710,7 @@
 				{
 
 					"videoControl" : {
-						"time": "214.07",
+						"time": "214.5",
 						"play": true
 					},
 					"caption": "and the ticket prints. ",
@@ -1740,7 +1729,7 @@
 				{
 
 					"videoControl" : {
-						"time": "215.24",
+						"time": "216.218",
 						"play": true
 					},
 					"caption": "Complete the transaction by Totaling the player.",
@@ -1759,7 +1748,7 @@
 				{
 
 					"videoControl" : {
-						"time": "218.14",
+						"time": "218.606",
 						"play": true
 					},
 					"caption": "Now I'll give you the chance to place a wager using the game buttons we just reviewed."
