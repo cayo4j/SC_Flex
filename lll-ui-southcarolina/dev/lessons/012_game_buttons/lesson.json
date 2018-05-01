@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Course End",
+			"name": "Game Buttons",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd.mp4"
+				"url": "lessons/shared/videos/Game Buttons.mp4"
 			},
 
 				"cuepoints": [
@@ -754,7 +754,7 @@
 				{
 
 					"videoControl" : {
-						"time": "172.28",
+						"time": "113.28",
 						"play": true
 					},
 					"caption": "",
@@ -868,7 +868,7 @@
 				{
 
 					"videoControl" : {
-						"time": "53.08",
+						"time": "121.08",
 						"play": true
 					},
 					"caption": "and I'm returned to the Home screen where I'm ready for my next transaction.",
@@ -890,7 +890,7 @@
 						"time": "124.14",
 						"play": true
 					},
-					"caption": "It’s important to Clear out the current customer ",
+					"caption": "It's important to Clear out the current customer ",
 					"overlays": [
 						{
 							"left": 0,

@@ -5,7 +5,7 @@
 			"type": "video",
 			"name": "Hardware Peripherals",
 			"video": {
-				"url": "lessons/shared/videos/HardwarePeripherals.mp4"
+				"url": "lessons/shared/videos/Hardware Peripherals.mp4"
 			},
 
 				"cuepoints": [
@@ -35,7 +35,7 @@
 						"time": "4.23",
 						"play": true
 					},
-					"caption": "Near your terminal most likely you’ll have a Player Information Display (or PID) connected to it.",
+					"caption": "Near your terminal most likely youï¿½ll have a Player Information Display (or PID) connected to it.",
 					"overlays": [
 						{
 							"left": 0,
@@ -315,7 +315,7 @@
 						"time": "67.01",
 						"play": true
 					},
-					"caption": "Now let’s talk about some of the other items that may be connected to your terminal."
+					"caption": "Now letï¿½s talk about some of the other items that may be connected to your terminal."
 				},
 				{
 

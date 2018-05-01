@@ -3,9 +3,9 @@
 	"activities": [
 		{
 			"type": "video",
-			"name": "Course End",
+			"name": "Troubleshooting",
 			"video": {
-				"url": "lessons/shared/videos/CourseEnd.mp4"
+				"url": "lessons/shared/videos/Troubleshooting.mp4"
 			},
 
 				"cuepoints": [
@@ -81,7 +81,7 @@
 						"time": "14.27",
 						"play": true
 					},
-					"caption": "First, let’s look at the CIS Reader test button.",
+					"caption": "First, letï¿½s look at the CIS Reader test button.",
 					"overlays": [
 						{
 							"left": 0,
@@ -464,7 +464,7 @@
 						"time": "91.15",
 						"play": true
 					},
-					"caption": "Return to the Services menu and run a Printer Test. That’s it! ",
+					"caption": "Return to the Services menu and run a Printer Test. Thatï¿½s it! ",
 					"overlays": [
 						{
 							"left": 0,
