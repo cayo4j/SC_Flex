@@ -24,7 +24,18 @@
 						"time": "2.24",
 						"play": true
 					},
-					"caption": "It's a good idea to keep a soft, lint-free cloth on hand for cleaning. "
+					"caption": "It's a good idea to keep a soft, lint-free cloth on hand for cleaning. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/lint-free-cloth.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -32,7 +43,18 @@
 						"time": "7.06",
 						"play": true
 					},
-					"caption": "You should also have some cleaning solution that is ammonia and vinegar-free."
+					"caption": "You should also have some cleaning solution that is ammonia and vinegar-free.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cleaning-01.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -40,7 +62,18 @@
 						"time": "11.11",
 						"play": true
 					},
-					"caption": "91 percent isopropyl alcohol wipes are useful."
+					"caption": "91 percent isopropyl alcohol wipes are useful.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cleaning-02.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -48,7 +81,18 @@
 						"time": "14.18",
 						"play": true
 					},
-					"caption": "You can pick these up at any drug store. "
+					"caption": "You can pick these up at any drug store. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cleaning-03.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -63,6 +107,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -94,7 +147,18 @@
 						"time": "28.19",
 						"play": true
 					},
-					"caption": "Use either the alcohol wipes or the cleaning solution and a soft, lint-free cloth. "
+					"caption": "Use either the alcohol wipes or the cleaning solution and a soft, lint-free cloth. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cleaning-04.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -140,7 +204,18 @@
 						"time": "37.14",
 						"play": true
 					},
-					"caption": "Never spray cleaning solution directly onto any of the equipment."
+					"caption": "Never spray cleaning solution directly onto any of the equipment.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cleaning-05.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -167,7 +242,18 @@
 						"time": "46.06",
 						"play": true
 					},
-					"caption": "This is the area that reads the Play Slips and should be kept free of dust and debris."
+					"caption": "This is the area that reads the Play Slips and should be kept free of dust and debris.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/GT1200_reader_strip.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -175,7 +261,18 @@
 						"time": "51.09",
 						"play": true
 					},
-					"caption": "Now when it comes to the Printer, it is recommended to use the alcohol wipes. "
+					"caption": "Now when it comes to the Printer, it is recommended to use the alcohol wipes. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/cleaning-06.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -395,7 +492,7 @@
 						"time": "125.23",
 						"play": true
 					},
-					"caption": "then place the new roll into the Printer.  It is important that the paper feeds from the bottom toward you."
+					"caption": "then place the new roll into the Printer. It is important that the paper feeds from the bottom toward you."
 				},
 				{
 
