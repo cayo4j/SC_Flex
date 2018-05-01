@@ -371,7 +371,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/homescreen-dropdown-status.png",
 								"width": 800,
 								"height": 450
 							}

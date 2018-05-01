@@ -21,7 +21,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/wv-logo-exercise.png",
+								"url": "lessons/shared/images/sc_login_page.png",
 								"width": 800,
 								"height": 450
 							}
@@ -65,7 +65,7 @@
 		{
 			"type": "singleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: What is the name of the device where Draw Game tickets and Play Slips are fed through to validate a ticket or place a wager?  ",
+			"label": "Multiple Choice: What is the name of the device where Play Slips are fed through to place a wager?   ",
 			"options": [
 				{
 					"label": "Stacker",
@@ -95,7 +95,7 @@
 		{
 			"type": "singleChoice",
 			"name": "Assessment",
-			"label": "True or False: Scratch off tickets should NOT be placed in the reader. ",
+			"label": "True or False: Instant Tickets should NOT be placed in the reader. ",
 			"options": [
 				{
 					"label": "True",
@@ -121,7 +121,7 @@
 		{
 			"type": "singleChoice",
 			"name": "Assessment",
-			"label": "True or False: The terminal will NOT function if it is not connected properly to the printer. ",
+			"label": "True or False: The terminal will NOT function if it is not connected properly to the printer.  ",
 			"options": [
 				{
 					"label": "True",
@@ -147,7 +147,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: Which of these are NOT recommended for use with the Touch Screen? Click all that apply. ",
+			"label": "Multiple Choice: Which of these are NOT recommended for use with the Touch Screen? Click all that apply.  ",
 			"options": [
 				{
 					"label": "Fingertips",
@@ -207,7 +207,7 @@
 		{
 			"type": "multipleChoice",
 			"name": "Assessment",
-			"label": "Multiple Choice: The ESMM Monitor (Select All That Apply):",
+			"label": "Multiple Choice: The Player Information Display  (Select All That Apply):",
 			"options": [
 				{
 					"label": "Displays Player Transaction Information",
@@ -218,7 +218,7 @@
 					"isCorrect": true
 				},
 				{
-					"label": "May be Placed on the Flex Terminal Shelf on the Back of the Terminal",
+					"label": "Should be Placed on the Flex Terminal Shelf on the Back of the Terminal",
 					"isCorrect": true
 				},
 				{
@@ -267,7 +267,7 @@
 		{
 			"type": "singleChoice",
 			"name": "Assessment",
-			"label": "True or False: Validation activities for Draw games may be completed through the Reader and Barcode Scanner, and Scratch Off games are validated with the Barcode Scanner.",
+			"label": "True or False: Validation activities for Draw game and Instant game tickets are validated with the Barcode Scanner.",
 			"options": [
 				{
 					"label": "True",
@@ -293,15 +293,15 @@
 		{
 			"type": "singleChoice",
 			"name": "Assessment",
-			"label": "True or False: The external Barcode Scanner is only used to scan Draw Game Tickets.",
+			"label": "True or False: You should perform a printer test every time you change the printer paper.",
 			"options": [
 				{
 					"label": "True",
-					"isCorrect": false
+					"isCorrect": true
 				},
 				{
 					"label": "False",
-					"isCorrect": true
+					"isCorrect": false
 				}
 			],
 			"feedback": {
@@ -311,41 +311,12 @@
 				},
 				"invalid": {
 					"label": "Incorrect.",
-					"text": "The correct response is: False."
+					"text": "The correct response is: True."
 				}
 			},
 			"pointsAvailable": 0.5
 		},
-		{
-			"type": "singleChoice",
-			"name": "Assessment",
-			"label": "Multiple Choice: How can you check the status of terminal devices?",
-			"options": [
-				{
-					"label": "From the Terminal Settings function",
-					"isCorrect": false
-				},
-				{
-					"label": "Turn the terminal on and off again to test connected devices",
-					"isCorrect": false
-				},
-				{
-					"label": "Touch Device Statuses on the Home Screen",
-					"isCorrect": true
-				}
-			],
-			"feedback": {
-				"valid": {
-					"label": "Well done.",
-					"text": "That is correct."
-				},
-				"invalid": {
-					"label": "Incorrect.",
-					"text": "The correct response is: Touch Device Statuses on the Home Screen."
-				}
-			},
-			"pointsAvailable": 0.5
-		},
+		
 		{
 			"type": "summary",
 			"name": "Summary",

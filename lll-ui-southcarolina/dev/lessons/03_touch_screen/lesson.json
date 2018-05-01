@@ -249,19 +249,12 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/screensaver.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
 						},
-						{
-							"left": 430,
-							"top": 145,
-							"image": {
-								"url": "lessons/shared/images/target.gif"
-								
-							}
-						},
+						
 						{
 							"left": 437,
 							"top": 168,

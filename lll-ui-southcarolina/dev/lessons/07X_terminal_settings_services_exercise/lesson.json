@@ -1,11 +1,11 @@
 {
-    "title": "Mail",
+    "title": " ",
 	"activities": [
 
 
 		{
 			"type": "guiSimulation",
-			"name": " and News - Exercise",
+			"name": " Terminal Settings and Services - Exercise",
 			"label": "mailnews",
 			
 			"cuepoints": [
@@ -45,8 +45,7 @@
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					},
-            		"pointsAvailable": 0
+					}
 				},
 				
 		
@@ -86,8 +85,7 @@
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					},
-            		"pointsAvailable": 0
+					}
 				},
 				
 		
@@ -127,8 +125,7 @@
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					},
-            		"pointsAvailable": 0
+					}
 				},
                 {
 					"overlays": [
@@ -166,8 +163,7 @@
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					},
-            		"pointsAvailable": 0
+					}
 				},
                 {
 					"overlays": [
@@ -205,8 +201,7 @@
 					"reveal": {
 						"attemptsAvailable": 3,
 						"timeout": 12
-					},
-            		"pointsAvailable": 0
+					}
 				}
 
 	]
@@ -218,8 +213,7 @@
 			"name": "Summary",
             "isOptional": "true"
 		}
-	],
-    "pointsRatio": 0
+	]
 }
 
 

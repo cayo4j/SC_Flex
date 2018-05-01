@@ -70,7 +70,7 @@
 		{
 			"type": "singleChoice",
 			"name": "Hardware Peripherals - Exercise",
-			"label": "The Ticket Checker designed is used by players to validate their own Draw Game and Instant tickets.",
+			"label": "The Ticket Checker is used by players to validate their own Draw Game and Instant tickets.",
 			"options": [
 				{
 					"label": "True",
