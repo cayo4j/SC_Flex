@@ -333,6 +333,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -387,6 +396,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/flex-back-connections.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/co_tts_tkt_logo.png",
 								"width": 800,
 								"height": 450
 							}
