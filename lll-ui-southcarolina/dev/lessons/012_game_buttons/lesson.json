@@ -16,7 +16,18 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Ok, now let's look at this area of the screen."
+					"caption": "Ok, now let's look at this area of the screen.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/homescreen_gameButtons.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -30,16 +41,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/homescreen_gameButtons.png",
 								"width": 800,
 								"height": 450
 							}
@@ -58,20 +60,11 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/homescreen_gameButtons_QP.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -86,20 +79,11 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/homescreen_gameButtons_large.png",
 								"width": 800,
 								"height": 450
 							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
-								"width": 800,
-								"height": 450
-							}
-						}
+						} 
 					]
 				},
 				{
@@ -171,7 +155,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/inserting-playslip-horizontal.png",
+								"url": "lessons/shared/images/inserting-playslip-vertical.png",
 								"width": 800,
 								"height": 450
 							}
@@ -218,7 +202,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_co_powerball.png",
 								"width": 800,
 								"height": 450
 							}
@@ -246,7 +230,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_co_powerball_touch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -312,7 +296,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playperdraw.png",
 								"width": 800,
 								"height": 450
 							}
@@ -340,7 +324,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playDraws.png",
 								"width": 800,
 								"height": 450
 							}
@@ -368,7 +352,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_nopowerplay.png",
 								"width": 800,
 								"height": 450
 							}
@@ -396,7 +380,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_oneplayperticket.png",
 								"width": 800,
 								"height": 450
 							}
@@ -462,7 +446,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchThreeDraws.png",
 								"width": 800,
 								"height": 450
 							}
@@ -490,7 +474,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playDraws.png",
 								"width": 800,
 								"height": 450
 							}
@@ -537,7 +521,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchChooseNum.png",
 								"width": 800,
 								"height": 450
 							}
@@ -565,7 +549,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchQP.png",
 								"width": 800,
 								"height": 450
 							}
@@ -585,6 +569,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-options-3draws.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/12_touchChooseNum.png",
 								"width": 800,
 								"height": 450
 							}
@@ -631,7 +624,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_chooseNumbersManually.png",
 								"width": 800,
 								"height": 450
 							}
@@ -659,7 +652,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchQP.png",
 								"width": 800,
 								"height": 450
 							}
@@ -687,7 +680,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_chooseNumbersManually.png",
 								"width": 800,
 								"height": 450
 							}
@@ -715,7 +708,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_evenThePowerball.png",
 								"width": 800,
 								"height": 450
 							}
@@ -743,7 +736,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_gameTabs.png",
 								"width": 800,
 								"height": 450
 							}
@@ -763,6 +756,15 @@
 							"top": 0,
 							"image": {
 								"url": "lessons/shared/images/powerball-manual-3draws-qp.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/12_gameTabs.png",
 								"width": 800,
 								"height": 450
 							}
@@ -790,7 +792,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchSend.png",
 								"width": 800,
 								"height": 450
 							}
@@ -818,7 +820,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchPPlayNo.png",
 								"width": 800,
 								"height": 450
 							}
@@ -846,7 +848,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_miniSales.png",
 								"width": 800,
 								"height": 450
 							}
@@ -874,7 +876,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchTotal.png",
 								"width": 800,
 								"height": 450
 							}
@@ -921,7 +923,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_handOne.png",
 								"width": 800,
 								"height": 450
 							}
@@ -949,7 +951,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_handZero.png",
 								"width": 800,
 								"height": 450
 							}
@@ -977,7 +979,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_handZero.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1005,7 +1007,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_handZero.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1033,7 +1035,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchTotalCashScreen.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1061,7 +1063,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playerChangeDue.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1089,7 +1091,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playerPaidNowClear.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1188,6 +1190,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/12_palmettoCash5.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},
@@ -1212,7 +1223,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchPalmettoQP1.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1231,7 +1242,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/cash5-powerUp-prompt.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1259,7 +1270,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_powerUpYes.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1287,7 +1298,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_addedToCostOfTicket.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1315,7 +1326,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_cash5_touchTotal.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1381,7 +1392,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_backArrow.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1409,7 +1420,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_cash5TotalTouch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1428,7 +1439,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"url": "lessons/shared/images/cash5-qp1-total.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1437,7 +1448,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_cash5-qp1-total-change.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1456,7 +1467,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"url": "lessons/shared/images/cash5-qp1-total.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1465,7 +1476,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_touchPrintcash5.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1484,7 +1495,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"url": "lessons/shared/images/cash5-qp1-total.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1493,7 +1504,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_justTouchClear.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1512,7 +1523,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cash5-qp1-total-change.png",
+								"url": "lessons/shared/images/inserting-playslip-pick3.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1540,7 +1551,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_totalingPlayslipBet.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1568,7 +1579,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playItAgainSam.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1596,7 +1607,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playItAgainSam.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1624,7 +1635,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/co_tts_tkt_logo.png",
+								"url": "lessons/shared/images/12_playItAgainSamTouch.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1700,7 +1711,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/play-it-again.png",
+								"url": "lessons/shared/images/play-it-again-submit.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1719,7 +1730,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/homescreen.png",
+								"url": "lessons/shared/images/pick3-mini-sales.png",
 								"width": 800,
 								"height": 450
 							}
