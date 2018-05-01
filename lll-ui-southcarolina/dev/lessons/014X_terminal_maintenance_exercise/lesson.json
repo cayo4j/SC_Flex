@@ -4,7 +4,7 @@
 		
 {
 			"type": "guiSimulation",
-			"name": "Printer - Exercise",
+			"name": "Terminal Maintenance - Exercise",
 			"label": "Now change the roll stock.  It's easy! First click the button to open the Printer.",
 			
 			"cuepoints": [
@@ -286,12 +286,12 @@
 		                   
 						},
 						{
-							"left": 7,
-							"top": 180,
+							"left": 5,
+							"top": 104,
 							"image": {
-								"url": "lessons/shared/images/03ax_3.png",
+								"url": "lessons/shared/images/btn_transparent.png",
 								"width": 132,
-								"height": 33
+								"height": 35
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -315,7 +315,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/special-functions.png",
+								"url": "lessons/shared/images/services.png",
 								"width": 800,
 								"height": 450
 							},
@@ -323,12 +323,12 @@
 		                   
 						},
 						{
-							"left": 424,
-							"top": 78,
+							"left": 366,
+							"top": 146,
 							"image": {
-								"url": "lessons/shared/images/03ax_3.png",
-								"width": 178,
-								"height": 33
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 184,
+								"height": 38
 							},
                             "blink": "triple",
 		                    "isSubmit": true,

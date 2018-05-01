@@ -4,7 +4,7 @@
 	
 {
 			"type": "guiSimulation",
-			"name": "Play Slip Reader - Exercise",
+			"name": "Troubleshooting - Exercise",
 			"label": "Clear a jammed Play Slip in the reader. Follow each step.",
 			
 			"cuepoints": [
@@ -102,10 +102,10 @@
 		                   
 						},
 						{
-							"left": 470,
-							"top": 207,
+							"left":370,
+							"top": 200,
 							"image": {
-								"url": "lessons/shared/images/03ax_3.png",
+								"url": "lessons/shared/images/btn_transparent.png",
 								"width": 160,
 								"height": 240
 							},
