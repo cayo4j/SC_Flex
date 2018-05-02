@@ -187,12 +187,12 @@
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="sign_on_complete" />
+              <imsss:primaryObjective objectiveID="touch_screen_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="sign_on_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sign_on_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="touch_screen_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.touch_screen_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
                 <adlseq:mapInfo targetObjectiveID="lll.sequencing.external_hdw_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
@@ -226,15 +226,15 @@
               </imsss:preConditionRule>
             </imsss:sequencingRules>
             <imsss:objectives>
-              <imsss:primaryObjective objectiveID="sign_on_exercise_complete" />
+              <imsss:primaryObjective objectiveID="touch_screen_ex_complete" />
               <imsss:objective objectiveID="previous_sco_complete" />
             </imsss:objectives>
             <adlseq:objectives>
-              <adlseq:objective objectiveID="sign_on_exercise_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sign_on_exercise_complete" readCompletionStatus="true" writeCompletionStatus="true" />
+              <adlseq:objective objectiveID="touch_screen_ex_complete">
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.touch_screen_ex_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sign_on_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.touch_screen_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
@@ -273,7 +273,7 @@
                 <adlseq:mapInfo targetObjectiveID="lll.sequencing.reader_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.sign_on_exercise_complete" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.touch_screen_ex_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
@@ -1143,7 +1143,7 @@
                 <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_ex_complete" readCompletionStatus="true" writeCompletionStatus="true" />
               </adlseq:objective>
               <adlseq:objective objectiveID="previous_sco_complete">
-                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals" readCompletionStatus="true" writeCompletionStatus="false" />
+                <adlseq:mapInfo targetObjectiveID="lll.sequencing.hardware_peripherals_complete" readCompletionStatus="true" writeCompletionStatus="false" />
               </adlseq:objective>
             </adlseq:objectives>
           </imsss:sequencing>
@@ -1422,7 +1422,7 @@
       <file href="lessons/03_touch_screen/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
-    <resource identifier="touch_screen_exercise_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03X_touch_screen_exercise">
+    <resource identifier="touch_screen_ex_resources" type="webcontent" adlcp:scormType="sco" href="index.html#/lesson/03X_touch_screen_exercise">
       <file href="lessons/03X_touch_screen_exercise/lesson.json" />
       <dependency identifierref="common_files" />
     </resource>
