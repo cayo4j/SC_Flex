@@ -143,7 +143,7 @@ $('canvas').css({'cursor': 'pointer'});
 		
    //first action
             if(step1 == true){
-                  if(canvasX > 123 && canvasY > 88 && canvasX < 169 && canvasY < 101){
+                  if(canvasX > 100 && canvasY > 75 && canvasX < 200 && canvasY < 120){
                       step1 = false;
                       step2 = true;
                       swal({title:"", text:"Great job! That's exactly how you power up your terminal and sign on. I have another task for you."}, ()=>{
