@@ -245,11 +245,11 @@
 			"options": [
 				{
 					"label": "True",
-					"isCorrect": true
+					"isCorrect": false
 				},
 				{
 					"label": "False",
-					"isCorrect": false
+					"isCorrect": true
 				}
 			],
 			"feedback": {
