@@ -373,7 +373,7 @@
 				{
 
 					"videoControl" : {
-						"time": "49.25",
+						"time": "50.02",
 						"play": true
 					},
 					"caption": "This report summarizes and verifies Instant Ticket Activations, Instant Ticket Returns, Online Sales, Cancels, Cashes, and Promotion credits processed by the terminal.",
@@ -402,7 +402,7 @@
 				{
 
 					"videoControl" : {
-						"time": "70.03",
+						"time": "62.07",
 						"play": true
 					},
 					"caption": "The Weekly Invoice report provides the information you need to know in advance of the Lottery sweep from your bank account to settle the week's activities.",
@@ -431,7 +431,7 @@
 				{
 
 					"videoControl" : {
-						"time": "77.09",
+						"time": "70.255",
 						"play": true
 					},
 					"caption": "This Report prints upon the first sign-on on Sunday morning and lists all the online and instant activity for the previous week",
@@ -460,7 +460,7 @@
 				{
 
 					"videoControl" : {
-						"time": "80.03",
+						"time": "77.363",
 						"play": true
 					},
 					"caption": "and the EFT amount due to the Lottery.",
@@ -489,7 +489,7 @@
 				{
 
 					"videoControl" : {
-						"time": "83.03",
+						"time": "80.295",
 						"play": true
 					},
 					"caption": "You can touch Previous Weekly Invoice",
@@ -518,7 +518,7 @@
 				{
 
 					"videoControl" : {
-						"time": "87.27",
+						"time": "83.224",
 						"play": true
 					},
 					"caption": "to access prior invoice reports by using the buttons for the last nine weeks",
@@ -547,7 +547,7 @@
 				{
 
 					"videoControl" : {
-						"time": "91.24",
+						"time": "87.708",
 						"play": true
 					},
 					"caption": "or choose other to enter an earlier date.",
@@ -576,7 +576,7 @@
 				{
 
 					"videoControl" : {
-						"time": "94.00",
+						"time": "92.062",
 						"play": true
 					},
 					"caption": "I'll go back to the Reports menu.",
@@ -605,7 +605,7 @@
 				{
 
 					"videoControl" : {
-						"time": "99.01",
+						"time": "94.232",
 						"play": true
 					},
 					"caption": "The Cashes Report displays the online and instant game prizes paid by you.",
@@ -634,7 +634,7 @@
 				{
 
 					"videoControl" : {
-						"time": "106.17",
+						"time": "99.13",
 						"play": true
 					},
 					"caption": "The Adjustments Report lists detailed adjustments and is useful for verifying financial adjustments made by the Lottery.",
@@ -663,7 +663,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.19",
+						"time": "106.797",
 						"play": true
 					},
 					"caption": "The next report is the Selling Bonus Report, which shows a summary of all Instant and Online Game Bonuses.",
@@ -692,7 +692,7 @@
 				{
 
 					"videoControl" : {
-						"time": "118.17",
+						"time": "113.19",
 						"play": true
 					},
 					"caption": "The Commissions Report displays the sales commission your store earned on all games.",
@@ -721,7 +721,7 @@
 				{
 
 					"videoControl" : {
-						"time": "131.24",
+						"time": "118.17",
 						"play": true
 					},
 					"caption": "The Liability Report lists numbers that have reached at least 95% sold for the next draw for Pick 3 or Pick 4. This report is useful for determining the outstanding liability for the upcoming game draw.",
@@ -750,7 +750,7 @@
 				{
 
 					"videoControl" : {
-						"time": "136.02",
+						"time": "131.24",
 						"play": true
 					},
 					"caption": "Draw Game winning numbers reports are also accessed from the Reports menu.",
@@ -779,7 +779,7 @@
 				{
 
 					"videoControl" : {
-						"time": "143.05",
+						"time": "136.02",
 						"play": true
 					},
 					"caption": "The Winning Numbers - Last 10 Draws report shows the selected games winning numbers for the last 10 drawings.",
@@ -808,7 +808,7 @@
 				{
 
 					"videoControl" : {
-						"time": "152.10",
+						"time": "143.05",
 						"play": true
 					},
 					"caption": "The Winning Numbers - Daily report shows the numbers drawn for the selected game draw date, the number of winners, and the prize amount for each level.",
@@ -837,7 +837,7 @@
 				{
 
 					"videoControl" : {
-						"time": "160.22",
+						"time": "152.10",
 						"play": true
 					},
 					"caption": "The Winning Numbers - All Games Report displays the winning numbers for the last drawing or the last four draws based on the number of draws per day.",
@@ -866,7 +866,7 @@
 				{
 
 					"videoControl" : {
-						"time": "163.15",
+						"time": "160.22",
 						"play": true
 					},
 					"caption": "I'll touch Winning Numbers - All Games",
@@ -895,7 +895,7 @@
 				{
 
 					"videoControl" : {
-						"time": "165.06",
+						"time": "163.15",
 						"play": true
 					},
 					"caption": "and the report displays.",
@@ -915,7 +915,7 @@
 				{
 
 					"videoControl" : {
-						"time": "169.28",
+						"time": "165.06",
 						"play": true
 					},
 					"caption": "Winning Numbers reports are used for winner awareness to help promote sales in your store. ",
@@ -935,7 +935,7 @@
 				{
 
 					"videoControl" : {
-						"time": "177.25",
+						"time": "169.28",
 						"play": true
 					},
 					"caption": "The Current Jackpot report provides the convenience of viewing the current jackpot totals for all jackpot games on one report.",

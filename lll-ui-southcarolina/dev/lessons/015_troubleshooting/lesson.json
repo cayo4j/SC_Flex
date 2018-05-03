@@ -185,7 +185,7 @@
 						"time": "30.23",
 						"play": true
 					},
-					"caption": "Here is the Printer Test button.",
+					"caption": "Here is the Printer Test button.  Touching this will test the Printer,",
 					"overlays": [
 						{
 							"left": 0,
@@ -210,7 +210,7 @@
 				{
 
 					"videoControl" : {
-						"time": "32.27",
+						"time": "35.06",
 						"play": true
 					},
 					"caption": "and a receipt will print displaying all of the characters, so you can check that they are printing correctly.",
@@ -229,7 +229,7 @@
 				{
 
 					"videoControl" : {
-						"time": "35.06",
+						"time": "40.26",
 						"play": true
 					},
 					"caption": "You should perform a Printer test every time you change the Printer paper.",
@@ -248,7 +248,7 @@
 				{
 
 					"videoControl" : {
-						"time": "40.26",
+						"time": "44.16",
 						"play": true
 					},
 					"caption": "Back again at the Services menu, ",
@@ -267,7 +267,7 @@
 				{
 
 					"videoControl" : {
-						"time": "44.16",
+						"time": "46.24",
 						"play": true
 					},
 					"caption": "you will see the next diagnostic button is the IP Test button.",
@@ -295,7 +295,7 @@
 				{
 
 					"videoControl" : {
-						"time": "46.24",
+						"time": "50.09",
 						"play": true
 					},
 					"caption": "Touch this button to test your Terminal's connection to the network.",
@@ -323,7 +323,7 @@
 				{
 
 					"videoControl" : {
-						"time": "50.09",
+						"time": "53.16",
 						"play": true
 					},
 					"caption": "Follow the breadcrumbs back to the Services menu",
@@ -351,7 +351,7 @@
 				{
 
 					"videoControl" : {
-						"time": "53.16",
+						"time": "56.11",
 						"play": true
 					},
 					"caption": "and touch the Barcode Reader Test button.",
@@ -379,7 +379,7 @@
 				{
 
 					"videoControl" : {
-						"time": "56.11",
+						"time": "58.28",
 						"play": true
 					},
 					"caption": "You will be prompted to scan a barcode with the Barcode Scanner.",
@@ -398,7 +398,7 @@
 				{
 
 					"videoControl" : {
-						"time": "58.28",
+						"time": "62.14",
 						"play": true
 					},
 					"caption": "Finally, after returning to the Services menu, ",
@@ -417,7 +417,7 @@
 				{
 
 					"videoControl" : {
-						"time": "62.14",
+						"time": "65.16",
 						"play": true
 					},
 					"caption": "you can perform a Terminal Reset by touching the Terminal Reset button.",
@@ -445,7 +445,7 @@
 				{
 
 					"videoControl" : {
-						"time": "65.16",
+						"time": "69.15",
 						"play": true
 					},
 					"caption": "This will reboot your Terminal and requires a Terminal sign-in.",
@@ -473,7 +473,7 @@
 				{
 
 					"videoControl" : {
-						"time": "69.15",
+						"time": "72.28",
 						"play": true
 					},
 					"caption": "And that's a quick look at the Services menu.",
@@ -492,7 +492,7 @@
 				{
 
 					"videoControl" : {
-						"time": "72.28",
+						"time": "75.27",
 						"play": true
 					},
 					"caption": "Let's look at the Printer again. So, what happens if the Printer jams? "
@@ -500,7 +500,7 @@
 				{
 
 					"videoControl" : {
-						"time": "75.27",
+						"time": "80.26",
 						"play": true
 					},
 					"caption": "I'll show you how to clear a paper jam (which rarely happens) in under a minute."
@@ -508,7 +508,7 @@
 				{
 
 					"videoControl" : {
-						"time": "80.26",
+						"time": "85.07",
 						"play": true
 					},
 					"caption": "Your Terminal screen will read PRINTER PAPER JAM.",
@@ -527,7 +527,7 @@
 				{
 
 					"videoControl" : {
-						"time": "80.26",
+						"time": "88.11",
 						"play": true
 					},
 					"caption": "Open the Printer cover and leave the roll in place. "
@@ -535,7 +535,7 @@
 				{
 
 					"videoControl" : {
-						"time": "85.07",
+						"time": "91.15",
 						"play": true
 					},
 					"caption": "Carefully pull the paper out to clear the jam, doing your best not to tear the paper."
@@ -543,7 +543,7 @@
 				{
 
 					"videoControl" : {
-						"time": "88.11",
+						"time": "96.14",
 						"play": true
 					},
 					"caption": "Now close the Printer cover; the paper will advance and cut off."
@@ -551,7 +551,7 @@
 				{
 
 					"videoControl" : {
-						"time": "91.15",
+						"time": "101.01",
 						"play": true
 					},
 					"caption": "Return to the Services menu and run a Printer Test. That's it! ",
@@ -579,7 +579,7 @@
 				{
 
 					"videoControl" : {
-						"time": "96.14",
+						"time": "105.05",
 						"play": true
 					},
 					"caption": "You've cleared a Printer jam.",
@@ -598,7 +598,7 @@
 				{
 
 					"videoControl" : {
-						"time": "101.01",
+						"time": "107.29",
 						"play": true
 					},
 					"caption": "It is also possible that you may need to clear a jammed Play Slip from the Play Slip Reader. Let me show you how."
@@ -606,7 +606,7 @@
 				{
 
 					"videoControl" : {
-						"time": "105.05",
+						"time": "113.07",
 						"play": true
 					},
 					"caption": "I press the silver release button on the top of the Touch Screen and pull the Touch Screen forward.",
@@ -634,7 +634,7 @@
 				{
 
 					"videoControl" : {
-						"time": "106.29",
+						"time": "118.09",
 						"play": true
 					},
 					"caption": "This second door has a green button that looks like a down arrow.",
@@ -662,7 +662,7 @@
 				{
 
 					"videoControl" : {
-						"time": "113.07",
+						"time": "122.05",
 						"play": true
 					},
 					"caption": "Press down on the arrow to open the door.",
@@ -681,7 +681,7 @@
 				{
 
 					"videoControl" : {
-						"time": "118.09",
+						"time": "124.29",
 						"play": true
 					},
 					"caption": "Being very careful not to scratch the glass lens, remove the jammed Play slip.",
@@ -700,7 +700,7 @@
 				{
 
 					"videoControl" : {
-						"time": "122.05",
+						"time": "129.21",
 						"play": true
 					},
 					"caption": "Close the Terminal up",
@@ -719,7 +719,7 @@
 				{
 
 					"videoControl" : {
-						"time": "124.29",
+						"time": "131.07",
 						"play": true
 					},
 					"caption": "and return to the Services menu and run a CIS Reader Test.",
@@ -747,7 +747,7 @@
 				{
 
 					"videoControl" : {
-						"time": "129.21",
+						"time": "135.03",
 						"play": true
 					},
 					"caption": "And that's how easy it is to maintain your equipment."
@@ -755,7 +755,7 @@
 				{
 
 					"videoControl" : {
-						"time": "131.07",
+						"time": "138",
 						"play": true
 					},
 					"caption": "If you have any issues that you cannot solve on your own, refer to the sticker on the front of the Printer and contact the IGT Help Desk for assistance."
@@ -763,7 +763,7 @@
 				{
 
 					"videoControl" : {
-						"time": "135.03",
+						"time": "146",
 						"play": true
 					},
 					"caption": "Now here's your chance to give it a try."

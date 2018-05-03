@@ -470,7 +470,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/insert-scratch-reader-no.png",
+								"url": "lessons/shared/images/inserting-scratch-no.png",
 								"width": 800,
 								"height": 450
 							}
@@ -502,7 +502,18 @@
 						"time": "97.641",
 						"play": true
 					},
-					"caption": "and an Instant Validation confirmation screen displays."
+					"caption": "and an Instant Validation confirmation screen displays.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/instant-validation-confirmation.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
