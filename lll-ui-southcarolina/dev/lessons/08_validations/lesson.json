@@ -357,16 +357,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/online-validation-mini-sales.png",
-								"width": 800,
-								"height": 450
-							}
-						},
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/something.png",
+								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
 							}
