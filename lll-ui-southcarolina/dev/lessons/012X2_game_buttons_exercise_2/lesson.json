@@ -35,8 +35,8 @@
                         },
 
 						{
-                            "left": 300,
-                            "top": 200,
+                            "left": 0,
+                            "top": 0,
                             "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
                             "blink": "none"
 						}
@@ -72,7 +72,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -106,7 +113,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -139,7 +153,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -172,7 +193,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -205,7 +233,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -238,7 +273,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -271,7 +313,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -304,7 +353,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -342,7 +398,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -377,7 +440,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -454,7 +524,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $20.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -489,7 +566,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $20.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -524,7 +608,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $20.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -562,7 +653,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $20.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -595,7 +693,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $20.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
