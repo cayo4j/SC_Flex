@@ -22,12 +22,12 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 149,
-                            "top": 74,
+                            "left": 370,
+                            "top": 257,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 145,
-                                "height": 47
+                                "width": 37,
+                                "height": 25
                             },
                             "isSubmit": true,
                             "isCorrect": true,
