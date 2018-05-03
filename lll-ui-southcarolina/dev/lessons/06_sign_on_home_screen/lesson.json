@@ -17,7 +17,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's take a look at the terminal screen.",
+					"caption": "Let's take our first look at the terminal screen.",
 					"overlays": [
 						{
 							"left": 0,
@@ -290,7 +290,7 @@
 						"time": "30.832",
 						"play": true
 					},
-					"caption": "'Let's look at the Home Screen, starting with the top of the screen.",
+					"caption": "Let's look at the Home Screen, starting with the top of the screen.",
 					"overlays": [
 						{
 							"left": 0,

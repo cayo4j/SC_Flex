@@ -52,7 +52,7 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the correct answer is False.  Play Slips can be inserted vertically or horizontally as long as the completed side is facing you."
+					"text": "The correct answer is False.  Play Slips can be inserted vertically or horizontally as long as the completed side is facing you."
 				}
 			}
 		},
@@ -77,7 +77,7 @@
 				},
 				"invalid": {
 					"label": "Sorry,",
-					"text": "the correct answer is True. Instant tickets should never be inserted into the Reader."
+					"text": "The correct answer is True. Instant tickets should never be inserted into the Reader."
 				}
 			}
 		},
