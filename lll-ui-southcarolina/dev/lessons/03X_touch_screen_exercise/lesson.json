@@ -1,28 +1,188 @@
 {
-    "title": "Touch Screen - Exercise",
+    "title": " ",
     "activities": [
-        {
-            "type": "custom",
-            "name": " ",
-            
-			
-			"feedback": {
-				"valid": {
-					"label": "Success",
-					"text": "Click OK to Continue"
-				},
-				"invalid": {
-					"label": "Nicely done!",
-					"text": "You identified all of the items that are NOT safe to use with the Touch Screen."
-				}
-			}
 
+		{
+			"type": "guiSimulation",
+			"name": "Touch Screen - Exercise",
+		
+"cuepoints": [
+				{
+              
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/touchscreen-power-off.png",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 149,
+                            "top": 74,
+                            "image": {
+                                "url": "lessons/shared/images/btn_transparent.png",
+                                "width": 145,
+                                "height": 47
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br/>Press the Power Button at the bottom of the Touch Screen to power it on.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
         },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+   
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/pens-knuckles.png",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 129,
+                            "top": 129,
+                            "image": {
+                                "url": "lessons/shared/images/btn_transparent.png",
+                                "width": 230,
+                                "height": 218
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "Great job! That's exactly how you power up your terminal. I have another task for you.<br/><b>INSTRUCTIONS:</b><br/>Look at the items below and identify each one that should NOT be used on the Touch Screen.<br/>",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+
+		{
+
+                    "caption": " ",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/finger-fingernails.png",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 433,
+                            "top": 112,
+                            "image": {
+                                "url": "lessons/shared/images/btn_transparent.png",
+                                "width": 252,
+                                "height": 251
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "Nice Work!<br/><b>INSTRUCTIONS:</b><br/>Look at the items below and identify each one that should NOT be used on the Touch Screen.<br/>",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/pencils-knuckles.png",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 433,
+                            "top": 112,
+                            "image": {
+                                "url": "lessons/shared/images/btn_transparent.png",
+                                "width": 252,
+                                "height": 251
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "Great!<br/><b>INSTRUCTIONS:</b><br/>Look at the items below and identify each one that should NOT be used on the Touch Screen.<br/>",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        }
+				
+				
+				
+				
+				
+				
+				
+				
+			]
+		},
 
         {
             "type": "summary",
             "name": "Summary",
-			"isOptional": true
+			"isOptional": false
         }
-    ]
+	]
 }
+    
