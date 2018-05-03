@@ -582,7 +582,18 @@
 						"time": "150.06",
 						"play": true
 					},
-					"caption": "If you do not see this message, the paper is not loaded correctly."
+					"caption": "If you do not see this message, the paper is not loaded correctly.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/accutherm-receipt.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 

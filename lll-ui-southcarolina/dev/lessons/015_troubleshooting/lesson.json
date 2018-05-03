@@ -144,7 +144,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/cis-reader-test.png",
+								"url": "lessons/shared/images/cis-reader-test-display.png",
 								"width": 800,
 								"height": 450
 							}
@@ -684,7 +684,7 @@
 						"time": "124.29",
 						"play": true
 					},
-					"caption": "Being very careful not to scratch the glass lens, remove the jammed Play slip.",
+					"caption": "Being very careful not to scratch the glass lens, remove the jammed Play Slip.",
 					"overlays": [
 						{
 							"left": 0,
