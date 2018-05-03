@@ -942,7 +942,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/powerball-total.png",
+								"url": "lessons/shared/images/powerball-total-1.png",
 								"width": 800,
 								"height": 450
 							}
@@ -970,7 +970,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/powerball-total-1.png",
+								"url": "lessons/shared/images/powerball-total-10.png",
 								"width": 800,
 								"height": 450
 							}
@@ -998,7 +998,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/powerball-total-10.png",
+								"url": "lessons/shared/images/powerball-total-100.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1026,7 +1026,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/powerball-total-100.png",
+								"url": "lessons/shared/images/powerball-total-1000.png",
 								"width": 800,
 								"height": 450
 							}
@@ -1054,7 +1054,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/powerball-total-1000.png",
+								"url": "lessons/shared/images/powerball-total-change.png",
 								"width": 800,
 								"height": 450
 							}

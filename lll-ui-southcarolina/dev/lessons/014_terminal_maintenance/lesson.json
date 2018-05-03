@@ -327,7 +327,18 @@
 						"time": "65.29",
 						"play": true
 					},
-					"caption": "The Print Head is located inside the front of the Printer below the two white rollers. "
+					"caption": "The Print Head is located inside the front of the Printer below the two white rollers. ",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/print-head-rollers.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 
@@ -335,7 +346,18 @@
 						"time": "70.11",
 						"play": true
 					},
-					"caption": "From time to time, make sure you wipe down both the Print Head and the paper path with an alcohol wipe."
+					"caption": "From time to time, make sure you wipe down both the Print Head and the paper path with an alcohol wipe.",
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/alcohol-wipe.png",
+								"width": 800,
+								"height": 450
+							}
+						}
+					]
 				},
 				{
 

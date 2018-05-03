@@ -35,8 +35,8 @@
                         },
 
 						{
-                            "left": 300,
-                            "top": 100,
+                            "left": 0,
+                            "top": 0,
                             "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Quick Pick Palmetto Cash 5 wager for 5 Plays<br>and would like 1 Play Per Ticket.<br>Use the terminal application to manually place this wager for the player.",
                             "blink": "none"
 						}
@@ -72,7 +72,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Quick Pick Palmetto Cash 5 wager for 5 Plays<br>and would like 1 Play Per Ticket.<br>Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -106,7 +113,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Quick Pick Palmetto Cash 5 wager for 5 Plays<br>and would like 1 Play Per Ticket.<br>Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -139,7 +153,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Quick Pick Palmetto Cash 5 wager for 5 Plays<br>and would like 1 Play Per Ticket.<br>Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -172,7 +193,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Quick Pick Palmetto Cash 5 wager for 5 Plays<br>and would like 1 Play Per Ticket.<br>Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -205,7 +233,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Quick Pick Palmetto Cash 5 wager for 5 Plays<br>and would like 1 Play Per Ticket.<br>Use the terminal application to manually place this wager for the player.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -261,7 +296,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/cash5-total.png",
+                                "url": "lessons/shared/images/cash5-total-5.png",
                                 "width": 800,
                                 "height": 450
                             },
@@ -278,7 +313,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $5.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -294,7 +336,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/cash5-total.png",
+                                "url": "lessons/shared/images/cash5-total-50.png",
                                 "width": 800,
                                 "height": 450
                             },
@@ -311,7 +353,14 @@
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $5.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
@@ -332,7 +381,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/cash5-total.png",
+                                "url": "lessons/shared/images/cash5-total-500.png",
                                 "width": 800,
                                 "height": 450
                             },
@@ -340,23 +389,69 @@
                         },
                         {
                             "left": 633,
-                            "top": 303,
+                            "top": 261,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 123,
-                                "height": 36
+                                "width": 127,
+                                "height": 41
                             },
                             "isSubmit": true,
                             "isCorrect": true,
                             "blink": "once"
-                        }
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $5.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,
                         "timeout": 12
                     }
         },
-		
+{
+
+                    "caption": " ",
+                    "overlays": [
+ 
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/cash5-total-500.png",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        {
+                            "left": 633,
+                            "top": 300,
+                            "image": {
+                                "url": "lessons/shared/images/btn_transparent.png",
+                                "width": 127,
+                                "height": 41
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        },
+
+						{
+                            "left": 30,
+                            "top": 20,
+                            "label": "The player hands you a $5.00 bill.  Process their payment.",
+                            "blink": "none"
+						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        }		
 
 		
 		

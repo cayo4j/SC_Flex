@@ -388,12 +388,12 @@
                             "isSubmit": true
                         },
                         {
-                            "left": 236,
-                            "top": 269,
+                            "left": 472,
+                            "top": 265,
                             "image": {
                                 "url": "lessons/shared/images/btn_transparent.png",
-                                "width": 91,
-                                "height": 35
+                                "width": 97,
+                                "height": 44
                             },
                             "isSubmit": true,
                             "isCorrect": true,
@@ -676,7 +676,7 @@
                             "left": 0,
                             "top": 0,
                             "image": {
-                                "url": "lessons/shared/images/powerball-total-EX-change.png",
+                                "url": "lessons/shared/images/powerball-total-EX-change_14.png",
                                 "width": 800,
                                 "height": 450
                             },
