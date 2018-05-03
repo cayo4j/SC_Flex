@@ -14,7 +14,7 @@
 						"time": "0",
 						"play": true
 					},
-					"caption": "Let's start out by turning on the Terminal. There are two power buttons you can use."
+					"caption": "Let's start out by turning on the Terminal. There are 2 power buttons you can use."
 				},
 				{
 					"videoControl" : {
@@ -157,7 +157,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/external-hardware-01.png",
+								"url": "lessons/shared/images/flex-homescreen-welcome.png",
 								"width": 800,
 								"height": 450
 							}
@@ -230,7 +230,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/sc_login_page.png",
+								"url": "lessons/shared/images/touchscreen-power-off.png",
 								"width": 800,
 								"height": 450
 							}
@@ -252,12 +252,20 @@
 								"url": "lessons/shared/images/homescreen.png",
 								"width": 800,
 								"height": 450
+							} 
+						},
+						
+						{
+							"left": 646,
+							"top": 196,
+							"image": {
+								"url": "lessons/shared/images/target.gif"
 							}
 						},
 						
 						{
-							"left": 437,
-							"top": 168,
+							"left": 631,
+							"top": 199,
 							"image": {
 								"url": "lessons/shared/images/hand-up.png"
 							}
