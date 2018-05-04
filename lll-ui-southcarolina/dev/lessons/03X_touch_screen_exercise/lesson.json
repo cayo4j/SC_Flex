@@ -78,7 +78,7 @@
                             "left": 0,
                             "top": 0,
                             "label": "Great job! That's exactly how you power up your terminal. I have another task for you.<br/><b>INSTRUCTIONS:</b><br/>Look at the items below and identify each one that should NOT be used on the Touch Screen.<br/>",
-                            "blink": "none"
+                            "blink": "twice"
 						}
                     ],
                     "reveal": {
@@ -114,12 +114,12 @@
                             "isCorrect": true,
                             "blink": "once"
                         },
-
+						
 						{
                             "left": 0,
                             "top": 0,
                             "label": "Nice Work!<br/><b>INSTRUCTIONS:</b><br/>Look at the items below and identify each one that should NOT be used on the Touch Screen.<br/>",
-                            "blink": "none"
+                            "blink": "twice"
 						}
                     ],
                     "reveal": {
@@ -154,13 +154,48 @@
                             "isCorrect": true,
                             "blink": "once"
                         },
-
+						
 						{
                             "left": 0,
                             "top": 0,
                             "label": "Great!<br/><b>INSTRUCTIONS:</b><br/>Look at the items below and identify each one that should NOT be used on the Touch Screen.<br/>",
-                            "blink": "none"
+                            "blink": "twice"
 						}
+                    ],
+                    "reveal": {
+                        "attemptsAvailable": 3,
+                        "timeout": 12
+                    }
+        },
+		{
+
+                    "caption": " ",
+                    "overlays": [
+
+						{
+                            "left": 0,
+                            "top": 0,
+                            "image": {
+                                "url": "lessons/shared/images/touchscreen-final.jpg",
+                                "width": 800,
+                                "height": 450
+                            },
+                            "isSubmit": true
+                        },
+                        
+						
+                        {
+                            "left": 365,
+                            "top": 278,
+                            "image": {
+                                "url": "lessons/shared/images/btn_transparent.png",
+                                "width": 93,
+                                "height": 48
+                            },
+                            "isSubmit": true,
+                            "isCorrect": true,
+                            "blink": "once"
+                        }
                     ],
                     "reveal": {
                         "attemptsAvailable": 3,

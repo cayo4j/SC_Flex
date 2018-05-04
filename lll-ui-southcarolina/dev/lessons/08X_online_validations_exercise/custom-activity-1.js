@@ -25,7 +25,7 @@ function startGame(completedCallback) {
     });
 
             
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/terminal_ticket_drag.jpg' />"
+            document.getElementById("guiholder2").innerHTML = "<img src='lessons/shared/images/terminal_ticket_drag.jpg' />"
             document.getElementById("ticket").style.display = 'inline';
             document.getElementById("dropzone").style.display = 'inline';
             document.getElementById("wrong").style.display = 'inline';
@@ -67,7 +67,7 @@ function startGame(completedCallback) {
         
         
         
-        if (counter == 1) {
+        if (counter == 34653476) {
                     p++;
             console.log('Interaction #2');
             swal({
@@ -104,17 +104,35 @@ function startGame(completedCallback) {
 
         }
 
-        if (counter == 2) {
+        if (counter == 1) {
                    p++;
             console.log('Interaction #3');//
           //change instructions
+            document.getElementById("guiholder2").style.display = 'none';
             document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>The Flex Terminal displays the validated amount.  Press Total.";
             document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/online-validation-mini-sales.png' />";
-            document.getElementById("button_dgi").style.left = '886px';
-            document.getElementById("button_dgi").style.top = '457px';
+            document.getElementById("button_dgi").style.display = 'inline';
+            //document.getElementById("zoomed").style.height = 'auto';
+            document.getElementById("wrong").style.display = 'none';
+            document.getElementById("dropzone").style.display = 'none';
+            
+            document.getElementById("button_dgi").style.left = '635px';;
+
+            document.getElementById("button_dgi").style.top = '407px';
+            document.getElementById("button_dgi").style.width = '125px';
             document.getElementById("button_dgi").onclick = respond;
 
-
+          //kill DnD
+            //DnD
+            var dragtic = document.querySelectorAll("#ticket,#dropzone,#wrong");
+            [].forEach.call(dragtic, function(dt) {
+                dt.removeEventListener('dragstart', handleDragStart, false);
+                dt.removeEventListener('dragenter', handleDragEnter, false);
+                dt.removeEventListener('dragover', handleDragOver, false);
+                dt.removeEventListener('dragleave', handleDragLeave, false);
+                dt.removeEventListener('drop', handleDrop, false);
+                dt.removeEventListener('dragend', handleDragEnd, false);
+            });  
 
 
 
@@ -124,8 +142,8 @@ function startGame(completedCallback) {
      
         
 
- if(counter == 3){
-                    document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/homescreen.png' />";
+ if(counter == 2){
+                    document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/validation-confirmation.png' />";
                 
                     // calling completion
             finalScore = getCalculatedScore();

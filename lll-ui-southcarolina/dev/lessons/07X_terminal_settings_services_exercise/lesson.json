@@ -37,7 +37,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You've got mail!<br />Click the appropriate button to reach your Mail messages.</p>",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You've got mail!<br />Click the Shortcut button to reach your Mail messages.</p>",
                             "blink": "none"
                         }
 					],
@@ -118,82 +118,6 @@
                             "left": 15,
                             "top": 10,
                             "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area where the mail message appears.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},
-                {
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/mail-screen.png ",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 153,
-							"top": 118,
-							"image": {
-								"url": "lessons/shared/images/btn_transparent.png",
-								"width": 313,
-								"height": 103
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Click the area that shows the message has been read.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},
-                {
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/mail-screen.png",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 151,
-							"top": 114,
-							"image": {
-								"url": "lessons/shared/images/btn_transparent.png",
-								"width": 319,
-								"height": 144
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>You would like to review a news message. <br />Click the buttons that will take you to your news messages. </p>",
                             "blink": "none"
                         }
 					],

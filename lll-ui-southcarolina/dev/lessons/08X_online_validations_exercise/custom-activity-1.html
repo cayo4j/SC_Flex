@@ -3,12 +3,19 @@
    #container{
    height: 100%;
    width:100%;
-   padding: 50px;
+
    /* border: 2px dashed green;*/
    }
    #guiholder{
-   height: 600px;
-   width: 1051px;
+   height:450px;
+   width: 800px;
+   /* border: 2px dashed red; */
+   /*padding-left: 200px;*/
+   margin-top: 0px;
+   }
+      #guiholder2{
+   height:450px;
+   width: 800px;
    /* border: 2px dashed red; */
    padding-left: 200px;
    margin-top: 0px;
@@ -40,6 +47,7 @@
    text-align:left;
    border: 2px solid red;
    background-color:aliceblue;
+   z-index:5000;
    }
    #ticket{
    position:absolute;
@@ -50,14 +58,16 @@
    .draggable { width: 90px; height: 80px; padding: 5px; float: left; margin: 0 10px 10px 0; font-size: .9em; }
    #wrong{
    position:absolute;
-   top: 60px; left: 300px;
-   height: 100px; width: 300px;
-      /* border:10px solid green;*/
+	top: 0px;
+    left: 260px;
+    height: 100px;
+    width: 300px
    }
    #dropzone{
    position:absolute;
-   top: 120px; left:620px;
-   height: 200px; width: 200px;
+   top: 82px;
+    left: 520px;
+   height: 200px; width: 300px;
        /*border:10px solid red;*/
    }
    #zoomed{
@@ -92,9 +102,10 @@
    <div id="keypad_button"></div>
     <!-- <div id="hinter"></div> -->	
    <div id="button_dgi"></div>
-   <div id="guiholder">
+   <div id="guiholder2">
       <img src='lessons/shared/images/terminal_ticket_drag.jpg' />  
    </div>
+   <div id="guiholder"></div>
 </div>
 </div>
 <div id="preload">
