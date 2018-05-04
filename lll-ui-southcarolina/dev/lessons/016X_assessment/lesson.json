@@ -241,15 +241,15 @@
 		{
 			"type": "singleChoice",
 			"name": "Assessment",
-			"label": "True or False: All Reports are accessed from the Reports button on the Home Screen.",
+			"label": "True or False: All Reports are accessed from the Online Functions button on the Home Screen.",
 			"options": [
 				{
 					"label": "True",
-					"isCorrect": false
+					"isCorrect": true
 				},
 				{
 					"label": "False",
-					"isCorrect": true
+					"isCorrect": false
 				}
 			],
 			"feedback": {
@@ -267,7 +267,7 @@
 		{
 			"type": "singleChoice",
 			"name": "Assessment",
-			"label": "True or False: Validation activities for Draw game and Instant game tickets are validated with the Barcode Scanner.",
+			"label": "True or False: Draw game and Instant game tickets are validated with the Barcode Scanner.",
 			"options": [
 				{
 					"label": "True",
