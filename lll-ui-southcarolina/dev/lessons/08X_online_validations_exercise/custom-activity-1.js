@@ -106,19 +106,19 @@ function startGame(completedCallback) {
 
         if (counter == 1) {
                    p++;
-            console.log('Interaction #3');//
+            console.log('Interaction #2');//
           //change instructions
             document.getElementById("guiholder2").style.display = 'none';
-            document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>The Flex Terminal displays the validated amount.  Press Total.";
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/online-validation-mini-sales.png' />";
+            document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>The Flex Terminal displays the validated amount.  Press OK.";
+            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/validation-confirmation.png' />";
             document.getElementById("button_dgi").style.display = 'inline';
             //document.getElementById("zoomed").style.height = 'auto';
             document.getElementById("wrong").style.display = 'none';
             document.getElementById("dropzone").style.display = 'none';
             
-            document.getElementById("button_dgi").style.left = '635px';;
+            document.getElementById("button_dgi").style.left = '408px';
 
-            document.getElementById("button_dgi").style.top = '407px';
+            document.getElementById("button_dgi").style.top = '234px';
             document.getElementById("button_dgi").style.width = '125px';
             document.getElementById("button_dgi").onclick = respond;
 
@@ -137,13 +137,46 @@ function startGame(completedCallback) {
 
 
         }
+        if (counter == 2) {
+            p++;
+     console.log('Interaction #3');//
+   //change instructions
+     document.getElementById("guiholder2").style.display = 'none';
+     document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>The Flex Terminal displays the validated amount.  Press Total.";
+     document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/online-validation-mini-sales.png' />";
+     document.getElementById("button_dgi").style.display = 'inline';
+     //document.getElementById("zoomed").style.height = 'auto';
+     document.getElementById("wrong").style.display = 'none';
+     document.getElementById("dropzone").style.display = 'none';
+     
+     document.getElementById("button_dgi").style.left = '636px';
+
+     document.getElementById("button_dgi").style.top = '407px';
+     document.getElementById("button_dgi").style.width = '125px';
+     document.getElementById("button_dgi").onclick = respond;
+
+   //kill DnD
+     //DnD
+     var dragtic = document.querySelectorAll("#ticket,#dropzone,#wrong");
+     [].forEach.call(dragtic, function(dt) {
+         dt.removeEventListener('dragstart', handleDragStart, false);
+         dt.removeEventListener('dragenter', handleDragEnter, false);
+         dt.removeEventListener('dragover', handleDragOver, false);
+         dt.removeEventListener('dragleave', handleDragLeave, false);
+         dt.removeEventListener('drop', handleDrop, false);
+         dt.removeEventListener('dragend', handleDragEnd, false);
+     });  
+
+
+
+ }
 
 
      
         
 
- if(counter == 2){
-                    document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/validation-confirmation.png' />";
+ if(counter == 3){
+                    document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/homescreen.png' />";
                 
                     // calling completion
             finalScore = getCalculatedScore();

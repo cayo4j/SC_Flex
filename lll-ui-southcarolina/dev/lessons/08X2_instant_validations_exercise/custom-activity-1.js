@@ -25,7 +25,7 @@ function startGame(completedCallback) {
     });
 
             
-            document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/terminal_ticket_drag.jpg' />"
+            document.getElementById("guiholder2").innerHTML = "<img src='lessons/shared/images/terminal_ticket_drag.jpg' />"
             document.getElementById("ticket").style.display = 'inline';
             document.getElementById("dropzone").style.display = 'inline';
             document.getElementById("wrong").style.display = 'inline';
@@ -75,6 +75,7 @@ function startGame(completedCallback) {
                 text: " "
             });
             //change instructions
+            document.getElementById("guiholder2").style.display = 'none';
             document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Now enter the Security Number, 213, from the ticket using the numeric keypad.";
             //go back to home screen
             document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX.png' />";
@@ -84,8 +85,8 @@ function startGame(completedCallback) {
             document.getElementById("dropzone").style.display = 'none';
             //re-render draw game inquiry button
             //
-            document.getElementById("button_dgi").style.left = '761px';
-            document.getElementById("button_dgi").style.top = '251px';
+            document.getElementById("button_dgi").style.left = '514px';
+            document.getElementById("button_dgi").style.top = '200px';
             document.getElementById("button_dgi").onclick = respond;
 
 
@@ -107,8 +108,8 @@ function startGame(completedCallback) {
                    p++;
             console.log('Interaction #3');//
             document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX-2.png' />";
-            document.getElementById("button_dgi").style.left = '723px';
-            document.getElementById("button_dgi").style.top = '245px';
+            document.getElementById("button_dgi").style.left = '474px';
+            document.getElementById("button_dgi").style.top = '200px';
             document.getElementById("button_dgi").onclick = respond;
 
 
@@ -121,8 +122,8 @@ function startGame(completedCallback) {
           if (counter == 3) {
             p++;//
               document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX-21.png' />";
-            document.getElementById("button_dgi").style.left = '799px';
-            document.getElementById("button_dgi").style.top = '250px';
+            document.getElementById("button_dgi").style.left = '556px';
+            document.getElementById("button_dgi").style.top = '200px';
             document.getElementById("button_dgi").onclick = respond;
 
         }      
@@ -133,8 +134,8 @@ function startGame(completedCallback) {
               p++;//
               document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Great! Continue validating the ticket and return to Home.";
                 document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX-213.png' />";
-              document.getElementById("button_dgi").style.left = '728px';
-              document.getElementById("button_dgi").style.top = '325px';
+              document.getElementById("button_dgi").style.left = '477px';
+              document.getElementById("button_dgi").style.top = '276px';
               document.getElementById("button_dgi").style.width = '125px';
               document.getElementById("button_dgi").onclick = respond;
           }       
@@ -154,8 +155,8 @@ function startGame(completedCallback) {
             //change screen to DGI keypad screen
             document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-confirmation.png' />";
             /// respond
-            document.getElementById("button_dgi").style.left = '649px';
-            document.getElementById("button_dgi").style.top = '257px';
+            document.getElementById("button_dgi").style.left = '399px';
+            document.getElementById("button_dgi").style.top = '207px';
                     document.getElementById("button_dgi").style.width = '130px';
             document.getElementById("button_dgi").onclick = respond;
         }

@@ -36,7 +36,7 @@
 
 						{
                             "left": 0,
-                            "top": 0,
+                            "top": 300,
                             "label": "<b>INSTRUCTIONS:</b><br>A player has requested a Powerball ticket for 3 Draws<br> for the numbers 1, 5, 10, 12, and 15 and the Powerball 2.<br> Use the terminal application to manually place this wager for the player.",
                             "blink": "none"
 						}
