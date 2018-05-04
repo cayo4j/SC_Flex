@@ -1368,6 +1368,15 @@
 								"width": 800,
 								"height": 450
 							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/12_CO_Clear.png",
+								"width": 800,
+								"height": 450
+							}
 						}
 					]
 				},

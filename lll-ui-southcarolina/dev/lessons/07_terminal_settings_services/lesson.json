@@ -332,7 +332,16 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/news-message-breadcrumbs.png",
+								"url": "lessons/shared/images/services.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/07_touchServices.png",
 								"width": 800,
 								"height": 450
 							}
