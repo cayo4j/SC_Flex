@@ -76,7 +76,7 @@ function startGame(completedCallback) {
             });
             //change instructions
             document.getElementById("guiholder2").style.display = 'none';
-            document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Now enter the Security Number, 213, from the ticket using the numeric keypad.";
+            document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Great! Continue validating the ticket and return to Home.";
             //go back to home screen
             document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX.png' />";
             document.getElementById("button_dgi").style.display = 'inline';
@@ -104,7 +104,7 @@ function startGame(completedCallback) {
 
         }
 
-        if (counter == 2) {
+        if (counter == 266666) {
                    p++;
             console.log('Interaction #3');//
             document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX-2.png' />";
@@ -119,7 +119,7 @@ function startGame(completedCallback) {
         }
 
 
-          if (counter == 3) {
+          if (counter == 3666) {
             p++;//
               document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX-21.png' />";
             document.getElementById("button_dgi").style.left = '556px';
@@ -130,7 +130,7 @@ function startGame(completedCallback) {
         
         
 
-          if (counter == 4) {
+          if (counter == 2567575) {
               p++;//
               document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Great! Continue validating the ticket and return to Home.";
                 document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/instant-validation-EX-213.png' />";
@@ -144,11 +144,12 @@ function startGame(completedCallback) {
         
         
         
-                if (counter == 5) {
+                if (counter == 1) {
                     //presses SEND
             p++;//
             console.log('Interaction #5');
-                    
+            document.getElementById("guiholder2").style.display = 'none';
+            document.getElementById("instructions").innerHTML = "<b>INSTRUCTIONS</b><br/>Great! Continue validating the ticket and return to Home.";       
             document.getElementById("ticket").style.display = 'none';
             document.getElementById("dropzone").style.display = 'none';
             document.getElementById("wrong").style.display = 'none';
@@ -162,7 +163,7 @@ function startGame(completedCallback) {
         }
         
 
- if(counter == 6){
+ if(counter == 2){
                     document.getElementById("guiholder").innerHTML = "<img src='lessons/shared/images/homescreen.png' />";
                 
                     // calling completion
