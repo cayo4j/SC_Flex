@@ -65,7 +65,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps to print your Weekly Invoice report. </p>",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Complete the steps to print your Weekly Invoice report. </p>",
                             "blink": "none"
                         }
 					],
@@ -105,7 +105,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps to print your Weekly Invoice report.</p>",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Complete the steps to print your Weekly Invoice report.</p>",
                             "blink": "none"
                         }
 					],
@@ -145,7 +145,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b>\<br/><p align='left'>Complete the steps to print your Weekly Invoice report.</p>",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Complete the steps to print your Weekly Invoice report.</p>",
                             "blink": "none"
                         }
 					],
@@ -154,16 +154,8 @@
 						"attemptsAvailable": 3,
 						"timeout": 12
 					}
-				},
-               
-                
-                
-                
-                
-                
-                
-                
-	]
+				}               
+		]
 				
 		},
 		{
