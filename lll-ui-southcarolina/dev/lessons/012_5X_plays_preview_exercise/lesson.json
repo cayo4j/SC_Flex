@@ -51,12 +51,12 @@
 		                   
 						},
 						{
-							"left": 6,
-							"top": 207,
+							"left": 635,
+							"top": 407,
 							"image": {
 								"url": "lessons/shared/images/btn_transparent.png",
-								"width": 130,
-								"height": 34
+								"width": 126,
+								"height": 36
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -65,7 +65,47 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>A customer has requested a several wagers and would like to review the details with you. In this exercise, you have already touched Start Plays Preview. Let's practice managing the Shopping Cart.</p>",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>A customer has requested several wagers and you would like to review the wager details with the customer prior to printing their tickets.<br>In this exercise, you have already touched Start Plays Preview.<br>Let's practice managing the Shopping Cart.<br><br>Touch the button that allows you to manage the Shopping Cart.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 30
+					}
+				},
+				
+		
+				{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/plays-preview-ex-cart-01.png",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 152,
+							"top": 125,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 619,
+								"height": 27
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>The customer would like to review the details of the Powerball wager. Touch the wager item to display the details.</p>",
                             "blink": "none"
                         }
 					],
@@ -83,7 +123,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-functions.png",
+								"url": "lessons/shared/images/plays-preview-ex-pb-details.png",
 								"width": 800,
 								"height": 450
 							},
@@ -91,12 +131,12 @@
 		                   
 						},
 						{
-							"left": 484,
-							"top": 116,
+							"left": 529,
+							"top": 134,
 							"image": {
 								"url": "lessons/shared/images/btn_transparent.png",
-								"width": 140,
-								"height": 33
+								"width": 46,
+								"height": 39
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -105,47 +145,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Complete the steps to print your Inventory Detail report.</p>",
-                            "blink": "none"
-                        }
-					],
-				
-					"reveal": {
-						"attemptsAvailable": 3,
-						"timeout": 12
-					}
-				},
-				
-		
-				{
-					"overlays": [
-						{
-							"left": 0,
-							"top": 0,
-							"image": {
-								"url": "lessons/shared/images/instant-reports.png",
-								"width": 800,
-								"height": 450
-							},
-							"isSubmit": true
-		                   
-						},
-						{
-							"left": 151,
-							"top": 103,
-							"image": {
-								"url": "lessons/shared/images/btn_transparent.png",
-								"width": 202,
-								"height": 35
-							},
-                            "blink": "triple",
-		                    "isSubmit": true,
-							"isCorrect": true
-						},
-                        {
-                            "left": 15,
-                            "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Complete the steps to print your Inventory Detail report.</p>",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>The customer decides to keep the Powerball wager. Close the popup to return to the Shopping Cart.</p>",
                             "blink": "none"
                         }
 					],
@@ -161,7 +161,7 @@
 							"left": 0,
 							"top": 0,
 							"image": {
-								"url": "lessons/shared/images/instant-inventory-detail.png",
+								"url": "lessons/shared/images/plays-preview-ex-cart-01.png",
 								"width": 800,
 								"height": 450
 							},
@@ -169,12 +169,12 @@
 		                   
 						},
 						{
-							"left": 700,
-							"top": 75,
+							"left": 629,
+							"top": 201,
 							"image": {
 								"url": "lessons/shared/images/btn_transparent.png",
-								"width": 92,
-								"height": 32
+								"width": 35,
+								"height": 27
 							},
                             "blink": "triple",
 		                    "isSubmit": true,
@@ -183,7 +183,7 @@
                         {
                             "left": 15,
                             "top": 10,
-                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Complete the steps to print your Inventory Detail report.</p>",
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>The customer decides against the Pick 3 wager, touch the icon that will delete the Pick 3 wager item.</p>",
                             "blink": "none"
                         }
 					],
@@ -193,7 +193,111 @@
 						"timeout": 12
 					}
 				}                                    
-                
+ ,
+{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/plays-preview-ex-cart-02.png",
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 479,
+							"top": 407,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 148,
+								"height": 38
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>The customer is satisfied with the wagers, touch the button that will submit the wagers and process the transaction for the customer.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},
+{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/plays-preview-ex-submit.png", 
+								"width": 800,
+								"height": 450
+							},
+							"isSubmit": true
+		                   
+						},
+						{
+							"left": 235,
+							"top": 255,
+							"image": {
+								"url": "lessons/shared/images/btn_transparent.png",
+								"width": 94,
+								"height": 39
+							},
+                            "blink": "triple",
+		                    "isSubmit": true,
+							"isCorrect": true
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>Touch the button to confirm the transaction.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 12
+					}
+				},
+{
+					"overlays": [
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/plays-preview-ex-total.png",
+								"width": 800,
+								"height": 450
+							},
+							"blink": "triple",
+							"isSubmit": true,
+							"isCorrect": true
+		                   
+						},
+                        {
+                            "left": 15,
+                            "top": 10,
+                            "label": "<b>INSTRUCTIONS:</b><br/><p align='left'>From this screen you would Total and Clear. Great Job using Plays Preview. Click anywhere on the screen to continue.</p>",
+                            "blink": "none"
+                        }
+					],
+				
+					"reveal": {
+						"attemptsAvailable": 3,
+						"timeout": 10
+					}
+				}               
 	]
 				
 		},
