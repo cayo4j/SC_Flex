@@ -21,7 +21,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_8844_homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "7.19",
@@ -51,7 +60,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_109_plays-preview-cart-01.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "20.13",
@@ -66,7 +84,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/TH_8844_homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "26.12",
@@ -96,7 +123,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_134g_plays-preview-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "33.23",
@@ -111,7 +147,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_1200_plays-preview-homescreen.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "35.10",
@@ -141,7 +186,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_777_plays-preview-home-transactions.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "44.21",
@@ -156,7 +210,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/TH_7455_plays-preview-home-transactions.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "48.16",
@@ -186,7 +249,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_8477t_plays-preview-cart-02.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "57.18",
@@ -201,7 +273,16 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_print_plays-preview-cart-02.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
         "time" : "58.28",
@@ -216,10 +297,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_465_plays-preview-cart-02.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "1.22",
+        "time" : "61.22",
         "play" : true
       },
       "caption" : "You can also touch Stop Plays Preview at any time to exit the Plays Preview session. ",
@@ -231,10 +321,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_277_plays-preview-cart-02.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "7.23",
+        "time" : "67.23",
         "play" : true
       },
       "caption" : "Doing so will clear the Shopping Cart and return to the default Home Screen.",
@@ -246,13 +345,28 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_277_plays-preview-cart-02.png",
+								"width": 800,
+								"height": 450
+							}
+						},
+						{
+                            "left": 50,
+                            "top": 350,
+                            "label": "Clears Shopping Cart and Exits the Session",
+                            "blink": "none"
+                        } ]
     }, {
       "videoControl" : {
-        "time" : "12.23",
+        "time" : "72.23",
         "play" : true
       },
-      "caption" : "To manage the Shopping Cart, you can delete a wager touch the Trash Can icon for that wager item",
+      "caption" : "To manage the Shopping Cart, you can delete a wager by touching the Trash Can icon for that wager item",
       "overlays" : [ {
         "left" : 0,
         "top" : 0,
@@ -261,10 +375,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/TH_3554_plays-preview-cart-02.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "18.28",
+        "time" : "78.28",
         "play" : true
       },
       "caption" : "or touch a wager item in the list ",
@@ -276,10 +399,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/TH_7456_plays-preview-cart-02.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "21.17",
+        "time" : "81.17",
         "play" : true
       },
       "caption" : "to review details",
@@ -294,7 +426,7 @@
       } ]
     }, {
       "videoControl" : {
-        "time" : "23.05",
+        "time" : "83.05",
         "play" : true
       },
       "caption" : "and touch Delete.",
@@ -306,10 +438,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/TH_543_plays-preview-review-details.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "25.01",
+        "time" : "85.01",
         "play" : true
       },
       "caption" : "After reviewing the wagers with the customer, touch Hide Cart to return to the Plays Preview screen.",
@@ -321,10 +462,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/CO_8g7_plays-preview-review-details.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "31.09",
+        "time" : "91.09",
         "play" : true
       },
       "caption" : "To complete the transaction, touch Submit Cart.",
@@ -336,10 +486,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/TH_9_plays-preview-cart-03.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "34.27",
+        "time" : "94.27",
         "play" : true
       },
       "caption" : "A confirmation screen displays.",
@@ -354,7 +513,7 @@
       } ]
     }, {
       "videoControl" : {
-        "time" : "37.13",
+        "time" : "97.13",
         "play" : true
       },
       "caption" : "Touch Yes to confirm and collect the amount due from the customer.",
@@ -366,10 +525,19 @@
           "width" : 800,
           "height" : 450
         }
-      } ]
+      },
+						{
+							"left": 0,
+							"top": 0,
+							"image": {
+								"url": "lessons/shared/images/TH_plays-preview-submit-cart-confirm.png",
+								"width": 800,
+								"height": 450
+							}
+						} ]
     }, {
       "videoControl" : {
-        "time" : "42.04",
+        "time" : "102.04",
         "play" : true
       },
       "caption" : "Tickets print automatically",
@@ -384,7 +552,7 @@
       } ]
     }, {
       "videoControl" : {
-        "time" : "44.07",
+        "time" : "104.07",
         "play" : true
       },
       "caption" : "and the Total screen displays.",
@@ -399,7 +567,7 @@
       } ]
     }, {
       "videoControl" : {
-        "time" : "46.11",
+        "time" : "106.11",
         "play" : true
       },
       "caption" : "Total out your customer to return to the default Home Screen.",
@@ -414,7 +582,7 @@
       } ]
     }, {
       "videoControl" : {
-        "time" : "49.25",
+        "time" : "109.25",
         "play" : true
       },
       "caption" : "That wraps up Plays Preview.",
@@ -429,7 +597,7 @@
       } ]
     }, {
       "videoControl" : {
-        "time" : "51.24",
+        "time" : "111.24",
         "play" : true
       },
       "caption" : "Let's continue.",
