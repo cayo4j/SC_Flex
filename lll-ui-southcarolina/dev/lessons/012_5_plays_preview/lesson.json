@@ -1,0 +1,452 @@
+{
+  "title" : "Plays Preview",
+  "activities" : [ {
+    "type" : "video",
+    "name" : "",
+    "label" : "",
+    "video" : {
+      "url" : "lessons/shared/videos/Plays_Preview.mp4"
+    },
+    "cuepoints" : [ {
+      "videoControl" : {
+        "time" : "0.00",
+        "play" : true
+      },
+      "caption" : "Now let's look at a helpful terminal feature that you can use to process multiple wagers for your customers, Plays Preview.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/homescreen.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "7.19",
+        "play" : true
+      },
+      "caption" : "Plays Preview allows you to display a running list of accumulated wagers and the total sales amount for a customer.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-01.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "14.13",
+        "play" : true
+      },
+      "caption" : "This allows your customer to preview the total transaction amount prior to you finalizing their purchase.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-01.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "20.13",
+        "play" : true
+      },
+      "caption" : "To use Plays Preview, simply Touch Start Plays Preview here on the Home Screen.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/homescreen.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "26.12",
+        "play" : true
+      },
+      "caption" : "You will notice the screen background changes so that you know you are in Plays Preview mode.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-homescreen.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "31.12",
+        "play" : true
+      },
+      "caption" : "Use the Game Buttons, ",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-homescreen.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "33.23",
+        "play" : true
+      },
+      "caption" : "Play It Again,",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-homescreen.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "35.10",
+        "play" : true
+      },
+      "caption" : "or Play Slips as you normally would to place multiple wagers for a customer.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/inserting-playslip-vertical-pp.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "40.20",
+        "play" : true
+      },
+      "caption" : "As the wagers are placed they will be added to the Shopping Cart.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-home-transactions.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "44.21",
+        "play" : true
+      },
+      "caption" : "Once all wagers have been placed, touch Show Cart.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-home-transactions.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "48.16",
+        "play" : true
+      },
+      "caption" : "The Shopping Cart allows you to review the wagers with the customer before completing the transaction. ",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "54.07",
+        "play" : true
+      },
+      "caption" : "From here you can Delete Wagers,",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "57.18",
+        "play" : true
+      },
+      "caption" : "Print the Cart,",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "58.28",
+        "play" : true
+      },
+      "caption" : "or Clear the Cart if needed. ",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "1.22",
+        "play" : true
+      },
+      "caption" : "You can also touch Stop Plays Preview at any time to exit the Plays Preview session. ",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "7.23",
+        "play" : true
+      },
+      "caption" : "Doing so will clear the Shopping Cart and return to the default Home Screen.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "12.23",
+        "play" : true
+      },
+      "caption" : "To manage the Shopping Cart, you can delete a wager touch the Trash Can icon for that wager item",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "18.28",
+        "play" : true
+      },
+      "caption" : "or touch a wager item in the list ",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-02.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "21.17",
+        "play" : true
+      },
+      "caption" : "to review details",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-review-details.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "23.05",
+        "play" : true
+      },
+      "caption" : "and touch Delete.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-review-details.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "25.01",
+        "play" : true
+      },
+      "caption" : "After reviewing the wagers with the customer, touch Hide Cart to return to the Plays Preview screen.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-03.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "31.09",
+        "play" : true
+      },
+      "caption" : "To complete the transaction, touch Submit Cart.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-cart-03.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "34.27",
+        "play" : true
+      },
+      "caption" : "A confirmation screen displays.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-submit-cart-confirm.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "37.13",
+        "play" : true
+      },
+      "caption" : "Touch Yes to confirm and collect the amount due from the customer.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-submit-cart-confirm.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "42.04",
+        "play" : true
+      },
+      "caption" : "Tickets print automatically",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-tickets.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "44.07",
+        "play" : true
+      },
+      "caption" : "and the Total screen displays.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-total.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "46.11",
+        "play" : true
+      },
+      "caption" : "Total out your customer to return to the default Home Screen.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/plays-preview-total.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "49.25",
+        "play" : true
+      },
+      "caption" : "That wraps up Plays Preview.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/homescreen.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    }, {
+      "videoControl" : {
+        "time" : "51.24",
+        "play" : true
+      },
+      "caption" : "Let's continue.",
+      "overlays" : [ {
+        "left" : 0,
+        "top" : 0,
+        "image" : {
+          "url" : "lessons/shared/images/homescreen.png",
+          "width" : 800,
+          "height" : 450
+        }
+      } ]
+    } ]
+  }, {
+    "type" : "summary",
+    "name" : "summary",
+    "label" : "Summary",
+    "isOptional" : true
+  } ]
+}
